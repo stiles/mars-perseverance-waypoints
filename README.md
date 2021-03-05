@@ -1,2 +1,2 @@
 # Mars Perseverance Waypoints
-Scraping the Mars rover's progress, using a feed from this map: https://mars.nasa.gov/maps/location/?mission=M20. 
+Scraping the Mars rover's progress, using feeds from this map NASA feature collection: https://mars.nasa.gov/maps/location/?mission=M20.
