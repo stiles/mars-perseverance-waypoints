@@ -14,7 +14,7 @@ jobs:
       uses: actions/checkout@v2
     - name: Fetch latest data
       run: |-
-        curl https://mars.nasa.gov/mmgis-maps/M20/Layers/json/M20_waypoints_current.json | jq . > waypoints.json
+        curl https://mars.nasa.gov/mmgis-maps/M20/Layers/json/M20_waypoints_current.json | jq . > waypoints_current.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
