@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "name": "M20_current_position_sol0014",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "sol": "14",
+        "roll_deg": "0.970611",
+        "pitch_deg": "-0.267214",
+        "yaw_deg": "-15.112061",
+        "site_pos": "3_110",
+        "dist_km": "0",
+        "dist_mi": "0",
+        "drivetype": "final"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.45094676,
+          18.44454339
+        ]
+      }
+    }
+  ]
+}
