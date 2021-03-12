@@ -1,26 +1,5 @@
 {
   "type": "FeatureCollection",
   "name": "M20_rover_position_sol0015",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "sol": "16",
-        "roll_deg": "-0.298748",
-        "pitch_deg": "1.950318",
-        "yaw_deg": "71.21092",
-        "site_pos": "3_578",
-        "dist_km": "0.0",
-        "dist_mi": "0",
-        "drivetype": "final"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          77.45149727,
-          18.4452799
-        ]
-      }
-    }
-  ]
+  "features": []
 }
