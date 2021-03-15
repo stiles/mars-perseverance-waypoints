@@ -1,0 +1,161 @@
+{
+  "type": "FeatureCollection",
+  "name": "M20_waypoints",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "RMC": "3_0",
+        "site": 3,
+        "drive": 0,
+        "sol": 0,
+        "dist_km": 0,
+        "dist_mi": 0,
+        "easting": 4354494.086,
+        "northing": 1093299.695,
+        "elev_geoid": -2569.91,
+        "elev_radii": -4253.47,
+        "radius": 3391936.53,
+        "lon": 77.45088572,
+        "lat": 18.44462715,
+        "roll": -1.181698,
+        "pitch": -0.025127,
+        "yaw": 130.881569,
+        "tilt": 0,
+        "Note": "Site increment, no motion."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.45088572,
+          18.44462715,
+          -2569.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "RMC": "3_110",
+        "site": 3,
+        "drive": 110,
+        "sol": 14,
+        "dist_km": 0.006,
+        "dist_mi": 0.004,
+        "easting": 4354497.517,
+        "northing": 1093294.73,
+        "elev_geoid": -2569.861816,
+        "elev_radii": -4253.417,
+        "radius": 3391936.583,
+        "lon": 77.45094676,
+        "lat": 18.44454339,
+        "roll": 0.970611,
+        "pitch": -0.267214,
+        "yaw": -15.112061,
+        "tilt": 0,
+        "Note": "First localization!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.45094676,
+          18.44454339,
+          -2569.861816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "RMC": "3_386",
+        "site": 3,
+        "drive": 386,
+        "sol": 15,
+        "dist_km": 0.043,
+        "dist_mi": 0.027,
+        "easting": 4354502.424,
+        "northing": 1093329.801,
+        "elev_geoid": -2569.935,
+        "elev_radii": -4253.583008,
+        "radius": 3391936.417,
+        "lon": 77.45103403,
+        "lat": 18.44513505,
+        "roll": 1.682503,
+        "pitch": -1.700218,
+        "yaw": 88.565036,
+        "tilt": 2.391804,
+        "Note": "Used Mobility Report WID: 40151"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.45103403,
+          18.44513505,
+          -2569.935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "RMC": "3_578",
+        "site": 3,
+        "drive": 578,
+        "sol": 16,
+        "dist_km": 0.07,
+        "dist_mi": 0.044,
+        "easting": 4354528.468,
+        "northing": 1093338.387,
+        "elev_geoid": -2569.287,
+        "elev_radii": -4252.973,
+        "radius": 3391937.027,
+        "lon": 77.45149727,
+        "lat": 18.4452799,
+        "roll": -0.298748,
+        "pitch": 1.950318,
+        "yaw": 71.21092,
+        "tilt": 1.973057,
+        "Note": "Used Mobility Report WID: 40161"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.45149727,
+          18.4452799,
+          -2569.287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "RMC": "3_770",
+        "site": 3,
+        "drive": 770,
+        "sol": 20,
+        "dist_km": 0.091,
+        "dist_mi": 0.057,
+        "easting": 4354548.64,
+        "northing": 1093330.59,
+        "elev_geoid": -2568.9304,
+        "elev_radii": -4252.5966796875,
+        "radius": 3391937.403,
+        "lon": 77.45185605,
+        "lat": 18.44514836,
+        "roll": 0.966498,
+        "pitch": 0.966498,
+        "yaw": 127.8375,
+        "tilt": 1.164994,
+        "Note": "Used Mobility Report WID: 40201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.45185605,
+          18.44514836,
+          -2568.9304
+        ]
+      }
+    }
+  ]
+}
