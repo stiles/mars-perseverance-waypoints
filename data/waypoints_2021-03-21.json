@@ -11,6 +11,70 @@
     {
       "type": "Feature",
       "properties": {
+        "RMC": "1_0",
+        "site": 1,
+        "drive": 0,
+        "sol": 4,
+        "easting": 4354494.086,
+        "northing": 1093299.695,
+        "elev_geoid": -2569.91,
+        "elev_radii": -4253.47,
+        "radius": 3391936.53,
+        "lon": 77.45088572,
+        "lat": 18.44462715,
+        "roll": -1.181698,
+        "pitch": -0.025127,
+        "yaw": 130.881569,
+        "tilt": 0,
+        "drive__m": 0,
+        "drive_tota": 0,
+        "drive_to_1": 0,
+        "drive_to_2": 0,
+        "Note": "NAVCAM estimate. Final value for SITE 1."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.45088572000003,
+          18.44462715000003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "RMC": "2_0",
+        "site": 2,
+        "drive": 0,
+        "sol": 0,
+        "easting": 4354494.086,
+        "northing": 1093299.695,
+        "elev_geoid": -2569.91,
+        "elev_radii": -4253.47,
+        "radius": 3391936.53,
+        "lon": 77.45088572,
+        "lat": 18.44462715,
+        "roll": -1.181698,
+        "pitch": -0.025127,
+        "yaw": 130.881569,
+        "tilt": 0,
+        "drive__m": 0,
+        "drive_tota": 0,
+        "drive_to_1": 0,
+        "drive_to_2": 0,
+        "Note": "Site increment, no motion."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.45088572000003,
+          18.44462715000003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "RMC": "3_0",
         "site": 3,
         "drive": 0,
@@ -26,10 +90,10 @@
         "pitch": -0.025127,
         "yaw": 130.881569,
         "tilt": 0,
-        "dist_m": 0,
-        "dist_total": 0,
-        "dist_km": 0,
-        "dist_mi": 0,
+        "drive__m": 0,
+        "drive_tota": 0,
+        "drive_to_1": 0,
+        "drive_to_2": 0,
         "Note": "Site increment, no motion."
       },
       "geometry": {
@@ -58,10 +122,10 @@
         "pitch": -0.267214,
         "yaw": -15.112061,
         "tilt": 0,
-        "dist_m": 6.25454,
-        "dist_total": 6.25454,
-        "dist_km": 0.01,
-        "dist_mi": 0,
+        "drive__m": 6.25454,
+        "drive_tota": 6.25454,
+        "drive_to_1": 0.01,
+        "drive_to_2": 0,
         "Note": "First localization!"
       },
       "geometry": {
@@ -90,10 +154,10 @@
         "pitch": -1.700218,
         "yaw": 88.565036,
         "tilt": 2.391804,
-        "dist_m": 36.3931,
-        "dist_total": 42.64764,
-        "dist_km": 0.04,
-        "dist_mi": 0.03,
+        "drive__m": 36.3931,
+        "drive_tota": 42.64764,
+        "drive_to_1": 0.04,
+        "drive_to_2": 0.03,
         "Note": "Used Mobility Report WID: 40151"
       },
       "geometry": {
@@ -122,10 +186,10 @@
         "pitch": 1.950318,
         "yaw": 71.21092,
         "tilt": 1.973057,
-        "dist_m": 27.4344,
-        "dist_total": 70.08204,
-        "dist_km": 0.07,
-        "dist_mi": 0.04,
+        "drive__m": 27.4344,
+        "drive_tota": 70.08204,
+        "drive_to_1": 0.07,
+        "drive_to_2": 0.04,
         "Note": "Used Mobility Report WID: 40161"
       },
       "geometry": {
@@ -154,10 +218,10 @@
         "pitch": 0.650487,
         "yaw": 127.837456,
         "tilt": 1.164994,
-        "dist_m": 21.34,
-        "dist_total": 91.42204,
-        "dist_km": 0.09,
-        "dist_mi": 0.06,
+        "drive__m": 21.34,
+        "drive_tota": 91.42204,
+        "drive_to_1": 0.09,
+        "drive_to_2": 0.06,
         "Note": "Used Mobility Report WID: 40201"
       },
       "geometry": {
@@ -186,10 +250,10 @@
         "pitch": -1.290516,
         "yaw": -51.919635,
         "tilt": 1.461251,
-        "dist_m": 5.47,
-        "dist_total": 96.89,
-        "dist_km": 0.1,
-        "dist_mi": 0.06,
+        "drive__m": 5.47,
+        "drive_tota": 96.89,
+        "drive_to_1": 0.1,
+        "drive_to_2": 0.06,
         "Note": "Used Mobility Report WID: 40231"
       },
       "geometry": {
