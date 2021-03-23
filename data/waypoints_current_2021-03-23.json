@@ -1,38 +1,38 @@
 {
   "type": "FeatureCollection",
-  "name": "M20_waypoints",
+  "name": "M20_waypoints_tosol0031_v2",
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "RMC": "3_828",
+        "RMC": "3_1044",
         "site": 3,
-        "drive": 828,
-        "sol": 29,
-        "easting": 4354546.709,
-        "northing": 1093331.539,
-        "elev_geoid": -2568.925781,
-        "elev_radii": -4252.59375,
-        "radius": 3391937.406,
-        "lon": 77.4518217,
-        "lat": 18.44516437,
-        "roll": 1.274336,
-        "pitch": -0.224763,
-        "yaw": 116.838655,
-        "tilt": 1.294002,
-        "drive__m": 3.94265802,
-        "drive_tota": 102.918868,
-        "drive_to_1": 0.1,
-        "drive_to_2": 0.06,
-        "final_": "y",
-        "Note": "Uesed Mobility Report WID: 50291"
+        "drive": 1044,
+        "sol": 31,
+        "easting": 4354519.166,
+        "northing": 1093332.465,
+        "elev_geoid": -2569.6,
+        "elev_radii": -4253.26,
+        "radius": 3391936.74,
+        "lon": 77.45133181,
+        "lat": 18.44518,
+        "roll": 0.7721,
+        "pitch": -1.4011,
+        "yaw": -134.5177,
+        "tilt": 1.599703,
+        "drive_m": 33.39,
+        "drive_total_m": 136.31,
+        "drive_km": 0.14,
+        "drive_mi": 0.09,
+        "final": "y",
+        "Note": "Used Mobility Report WID:  30311"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.451822,
-          18.445164,
-          -2568.9258
+          77.45133181000006,
+          18.44518,
+          -2569.600000000006
         ]
       }
     }
