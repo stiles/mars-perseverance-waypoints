@@ -11,33 +11,33 @@
     {
       "type": "Feature",
       "properties": {
-        "RMC": "3_1374",
+        "RMC": "3_1392",
         "site": 3,
-        "drive": 1374,
-        "sol": 33,
-        "easting": 4354501.886,
-        "northing": 1093307.106,
+        "drive": 1392,
+        "sol": 34,
+        "easting": 4354501.722,
+        "northing": 1093313.659,
         "elev_geoid": -2569.99,
-        "elev_radii": -4253.58,
-        "radius": 3391936.42,
-        "lon": 77.45102446,
-        "lat": 18.44475218,
-        "roll": -0.8041,
-        "pitch": -1.3718,
-        "yaw": -0.3,
-        "tilt": 1.59,
-        "dist_m": 12.96,
-        "dist_total": 179.88,
-        "dist_km": 0.18,
-        "dist_mi": 0.11,
+        "elev_radii": -4253.61,
+        "radius": 3391936.39,
+        "lon": 77.45102154,
+        "lat": 18.44486273,
+        "roll": 0.5988,
+        "pitch": -0.5487,
+        "yaw": -0.4325,
+        "tilt": 0.8121,
+        "dist_m": 6.55,
+        "dist_total": 186.43,
+        "dist_km": 0.19,
+        "dist_mi": 0.12,
         "final": "y",
-        "Note": "Used Mobility Report WID:  50333"
+        "Note": "Used Mobility Report WID:  50341"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45102446000004,
-          18.444752180000023,
+          77.45102154000006,
+          18.444862730000068,
           -2569.9900000000052
         ]
       }
