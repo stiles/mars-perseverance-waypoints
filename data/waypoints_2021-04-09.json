@@ -1,11 +1,16 @@
 {
   "type": "FeatureCollection",
-  "name": "M20_waypoints",
+  "name": "M20_waypoints_tosol0048",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "OID_": 0,
         "RMC": "3_0",
         "site": 3,
         "drive": 0,
@@ -26,22 +31,20 @@
         "dist_km": 0,
         "dist_mi": 0,
         "final": "y",
-        "Note": "Site increment, no motion.",
-        "ORIG_FID": -1
+        "Note": "Site increment, no motion."
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45088572,
-          18.44462715,
-          -2569.91
+          77.45088572000003,
+          18.44462715000003,
+          -2569.9100000000035
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "OID_": 0,
         "RMC": "3_110",
         "site": 3,
         "drive": 110,
@@ -62,14 +65,13 @@
         "dist_km": 0.01,
         "dist_mi": 0,
         "final": "y",
-        "Note": "First localization!",
-        "ORIG_FID": -1
+        "Note": "First localization!"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45094676,
-          18.44454339,
+          77.45094676000008,
+          18.444543390000035,
           -2569.86
         ]
       }
@@ -77,7 +79,6 @@
     {
       "type": "Feature",
       "properties": {
-        "OID_": 0,
         "RMC": "3_386",
         "site": 3,
         "drive": 386,
@@ -98,22 +99,20 @@
         "dist_km": 0.04,
         "dist_mi": 0.03,
         "final": "y",
-        "Note": "Used Mobility Report WID: 40151",
-        "ORIG_FID": -1
+        "Note": "Used Mobility Report WID: 40151"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45103403,
-          18.44513505,
-          -2569.94
+          77.45103403000007,
+          18.445135050000033,
+          -2569.9400000000023
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "OID_": 0,
         "RMC": "3_578",
         "site": 3,
         "drive": 578,
@@ -134,22 +133,20 @@
         "dist_km": 0.07,
         "dist_mi": 0.04,
         "final": "y",
-        "Note": "Used Mobility Report WID: 40161",
-        "ORIG_FID": -1
+        "Note": "Used Mobility Report WID: 40161"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45149727,
-          18.4452799,
-          -2569.29
+          77.45149727000006,
+          18.44527990000006,
+          -2569.2899999999936
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "OID_": 0,
         "RMC": "3_770",
         "site": 3,
         "drive": 770,
@@ -170,22 +167,20 @@
         "dist_km": 0.09,
         "dist_mi": 0.06,
         "final": "y",
-        "Note": "Used Mobility Report WID: 40201",
-        "ORIG_FID": -1
+        "Note": "Used Mobility Report WID: 40201"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45185605,
-          18.44514836,
-          -2568.93
+          77.45185605000006,
+          18.445148360000076,
+          -2568.929999999993
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "OID_": 0,
         "RMC": "3_792",
         "site": 3,
         "drive": 792,
@@ -206,22 +201,20 @@
         "dist_km": 0.1,
         "dist_mi": 0.06,
         "final": "y",
-        "Note": "Used Mobility Report WID: 40231",
-        "ORIG_FID": -1
+        "Note": "Used Mobility Report WID: 40231"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45177711,
-          18.44520229,
-          -2568.97
+          77.45177711000008,
+          18.445202290000054,
+          -2568.970000000001
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "OID_": 0,
         "RMC": "3_828",
         "site": 3,
         "drive": 828,
@@ -242,22 +235,20 @@
         "dist_km": 0.1,
         "dist_mi": 0.06,
         "final": "y",
-        "Note": "Used Mobility Report WID: 50291",
-        "ORIG_FID": -1
+        "Note": "Used Mobility Report WID: 50291"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.4518217,
-          18.44516437,
-          -2568.93
+          77.45182170000004,
+          18.445164370000043,
+          -2568.929999999993
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "OID_": 0,
         "RMC": "3_1044",
         "site": 3,
         "drive": 1044,
@@ -278,22 +269,20 @@
         "dist_km": 0.14,
         "dist_mi": 0.09,
         "final": "y",
-        "Note": "Used Mobility Report WID:  30311",
-        "ORIG_FID": -1
+        "Note": "Used Mobility Report WID:  30311"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45133181,
+          77.45133181000006,
           18.44518,
-          -2569.6
+          -2569.600000000006
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "OID_": 0,
         "RMC": "3_1266",
         "site": 3,
         "drive": 1266,
@@ -314,22 +303,20 @@
         "dist_km": 0.17,
         "dist_mi": 0.1,
         "final": "y",
-        "Note": "Used Mobility Report WID:  30321",
-        "ORIG_FID": -1
+        "Note": "Used Mobility Report WID:  30321"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45119664,
-          18.44470001,
-          -2569.81
+          77.45119664000003,
+          18.444700010000076,
+          -2569.8099999999977
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "OID_": 0,
         "RMC": "3_1374",
         "site": 3,
         "drive": 1374,
@@ -350,22 +337,20 @@
         "dist_km": 0.18,
         "dist_mi": 0.11,
         "final": "y",
-        "Note": "Used Mobility Report WID:  50333",
-        "ORIG_FID": -1
+        "Note": "Used Mobility Report WID:  50333"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45102446,
-          18.44475218,
-          -2569.99
+          77.45102446000004,
+          18.444752180000023,
+          -2569.9900000000052
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "OID_": 0,
         "RMC": "3_1392",
         "site": 3,
         "drive": 1392,
@@ -386,22 +371,20 @@
         "dist_km": 0.19,
         "dist_mi": 0.12,
         "final": "y",
-        "Note": "Used Mobility Report WID:  50341",
-        "ORIG_FID": -1
+        "Note": "Used Mobility Report WID:  50341"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45102154,
-          18.44486273,
-          -2569.99
+          77.45102154000006,
+          18.444862730000068,
+          -2569.9900000000052
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "OID_": 0,
         "RMC": "3_1398",
         "site": 3,
         "drive": 1398,
@@ -422,22 +405,20 @@
         "dist_km": 0.19,
         "dist_mi": 0.12,
         "final": "y",
-        "Note": "Used Mobility Report WID:  30431",
-        "ORIG_FID": -1
+        "Note": "Used Mobility Report WID:  30431"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45102461,
-          18.44494033,
-          -2570.02
+          77.45102461000005,
+          18.444940330000065,
+          -2570.020000000004
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "OID_": 0,
         "RMC": "3_1416",
         "site": 3,
         "drive": 1416,
@@ -458,22 +439,20 @@
         "dist_km": 0.19,
         "dist_mi": 0.12,
         "final": "y",
-        "Note": "Used Mobility Report WID:  30441",
-        "ORIG_FID": -1
+        "Note": "Used Mobility Report WID:  30441"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45102047,
-          18.44494297,
-          -2570.02
+          77.45102047000006,
+          18.444942970000056,
+          -2570.020000000004
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "OID_": 0,
         "RMC": "3_1708",
         "site": 3,
         "drive": 1708,
@@ -494,15 +473,48 @@
         "dist_km": 0.23,
         "dist_mi": 0.14,
         "final": "y",
-        "Note": "Used Mobility Report WID:  30471",
-        "ORIG_FID": -1
+        "Note": "Used Mobility Report WID:  30471"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45152954,
-          18.44477901,
-          -2569.54
+          77.45152954000008,
+          18.444779010000047,
+          -2569.5399999999936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "RMC": "3_1850",
+        "site": 3,
+        "drive": 1850,
+        "sol": 48,
+        "easting": 4354546.553,
+        "northing": 1093314.164,
+        "elev_geoid": -2569.04,
+        "elev_radii": -4252.66,
+        "radius": 3391937.34,
+        "lon": 77.45181893,
+        "lat": 18.44487125,
+        "roll": 1.255947,
+        "pitch": 0.272067,
+        "yaw": -178.742427,
+        "tilt": 1.285073,
+        "dist_m": 17.17,
+        "dist_total": 246.91,
+        "dist_km": 0.25,
+        "dist_mi": 0.15,
+        "final": "y",
+        "Note": "Used Mobility Report WID: 30481"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.45181893000006,
+          18.444871250000062,
+          -2569.0399999999936
         ]
       }
     }
