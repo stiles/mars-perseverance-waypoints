@@ -83,7 +83,7 @@
             "view": [
               18.44510920205647,
               77.45146759785713,
-              15
+              18
             ]
           }
         ]
@@ -222,6 +222,28 @@
       },
       "variables": {
         "useKeyAsName": "length"
+      },
+      "radius": 1
+    },
+    {
+      "name": "Helicopter Flight Zone",
+      "kind": "none",
+      "type": "vector",
+      "url": "https://mars.nasa.gov/mmgis-maps/M20/Layers/json/M20_Heli_flightzone_dots.json",
+      "tileformat": "tms",
+      "visibility": true,
+      "initialOpacity": 1,
+      "togglesWithHeader": true,
+      "style": {
+        "className": "helicopterflightzone",
+        "color": "#42DDF5",
+        "fillColor": "undefined",
+        "weight": 3,
+        "fillOpacity": null,
+        "opacity": 1
+      },
+      "variables": {
+        "useKeyAsName": "Name"
       },
       "radius": 1
     },
