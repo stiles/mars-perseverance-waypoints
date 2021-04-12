@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "name": "M20_waypoints_tosol0049",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "RMC": "3_1950",
+        "site": 3,
+        "drive": 1950,
+        "sol": 49,
+        "easting": 4354557.816,
+        "northing": 1093309.691,
+        "elev_geoid": -2568.98,
+        "elev_radii": -4252.6,
+        "radius": 3391937.4,
+        "lon": 77.45201926,
+        "lat": 18.44479579,
+        "roll": -0.105417,
+        "pitch": -0.074168,
+        "yaw": 179.849925,
+        "tilt": 0.128894,
+        "dist_m": 12.13,
+        "dist_total": 259.04,
+        "dist_km": 0.26,
+        "dist_mi": 0.16,
+        "final": "y",
+        "Note": "Used Mobility Report WID: 30493"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.45201926000004,
+          18.444795790000057,
+          -2568.979999999996
+        ]
+      }
+    }
+  ]
+}
