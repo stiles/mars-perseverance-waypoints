@@ -1,183 +1,7 @@
 {
   "type": "FeatureCollection",
-  "name": "M20_waypoints_tosol0084",
-  "crs": {
-    "type": "name",
-    "properties": {
-      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-    }
-  },
+  "name": "M20_Rover_Localizations_tosol0086",
   "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "RMC": "1_0",
-        "site": 1,
-        "drive": 0,
-        "sol": 0,
-        "easting": 4354489.915,
-        "northing": 1093302.679,
-        "elev_geoid": -2569.84,
-        "elev_radii": -4253.41,
-        "radius": 3391936.59,
-        "lon": 77.45081154,
-        "lat": 18.44467749,
-        "roll": -1.2,
-        "pitch": 0.01,
-        "yaw": 141.56,
-        "tilt": 1.2,
-        "dist_m": 0,
-        "dist_total": 0,
-        "dist_km": 0,
-        "dist_mi": 0,
-        "final": "n",
-        "Note": "LVS Estimate. Landing time: 2021-02-18T20:43:48 = Sol-0000M15:53:20"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          77.45081154000007,
-          18.44467749000006,
-          -2569.8399999999965
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "RMC": "1_0",
-        "site": 1,
-        "drive": 0,
-        "sol": 2,
-        "easting": 4354494.27,
-        "northing": 1093299.79,
-        "elev_geoid": -2569.9,
-        "elev_radii": -4253.47,
-        "radius": 3391936.53,
-        "lon": 77.450889,
-        "lat": 18.44462875,
-        "roll": -1.18,
-        "pitch": -0.03,
-        "yaw": 130.88,
-        "tilt": 1.18,
-        "dist_m": 0,
-        "dist_total": 0,
-        "dist_km": 0,
-        "dist_mi": 0,
-        "final": "n",
-        "Note": "HiRISE estimate"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          77.450889,
-          18.44462875000005,
-          -2569.899999999994
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "RMC": "1_0",
-        "site": 1,
-        "drive": 0,
-        "sol": 2,
-        "easting": 4354493.97,
-        "northing": 1093299.919,
-        "elev_geoid": -2569.9,
-        "elev_radii": -4253.47,
-        "radius": 3391936.53,
-        "lon": 77.45088366,
-        "lat": 18.44463093,
-        "roll": -1.18,
-        "pitch": -0.03,
-        "yaw": 130.88,
-        "tilt": 1.18,
-        "dist_m": 0,
-        "dist_total": 0,
-        "dist_km": 0,
-        "dist_mi": 0,
-        "final": "n",
-        "Note": "HAZCAM estimate based on georeferencing to RDS images."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          77.45088366000004,
-          18.444630930000073,
-          -2569.899999999994
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "RMC": "1_0",
-        "site": 1,
-        "drive": 0,
-        "sol": 4,
-        "easting": 4354494.086,
-        "northing": 1093299.695,
-        "elev_geoid": -2569.91,
-        "elev_radii": -4253.47,
-        "radius": 3391936.53,
-        "lon": 77.45088572,
-        "lat": 18.44462715,
-        "roll": -1.18,
-        "pitch": -0.03,
-        "yaw": 130.88,
-        "tilt": 1.18,
-        "dist_m": 0,
-        "dist_total": 0,
-        "dist_km": 0,
-        "dist_mi": 0,
-        "final": "n",
-        "Note": "NAVCAM estimate. Final value for SITE 1."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          77.45088572000003,
-          18.44462715000003,
-          -2569.9100000000035
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "RMC": "2_0",
-        "site": 2,
-        "drive": 0,
-        "sol": 13,
-        "easting": 4354494.086,
-        "northing": 1093299.695,
-        "elev_geoid": -2569.91,
-        "elev_radii": -4253.47,
-        "radius": 3391936.53,
-        "lon": 77.45088572,
-        "lat": 18.44462715,
-        "roll": -1.18,
-        "pitch": -0.03,
-        "yaw": 130.88,
-        "tilt": 1.18,
-        "dist_m": 0,
-        "dist_total": 0,
-        "dist_km": 0,
-        "dist_mi": 0,
-        "final": "n",
-        "Note": "Site increment, no motion."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          77.45088572000003,
-          18.44462715000003,
-          -2569.9100000000035
-        ]
-      }
-    },
     {
       "type": "Feature",
       "properties": {
@@ -242,7 +66,7 @@
         "coordinates": [
           77.45094676000008,
           18.444543390000035,
-          -2569.86
+          -2569.8600000000006
         ]
       }
     },
@@ -854,7 +678,7 @@
         "coordinates": [
           77.45251746000008,
           18.444277990000046,
-          -2569.14
+          -2569.1399999999994
         ]
       }
     },
@@ -910,8 +734,8 @@
         "pitch": 1.067,
         "yaw": -58.384,
         "tilt": 1.521034188,
-        "dist_m": 17.7056,
-        "dist_total": 335.28,
+        "dist_m": 18.37,
+        "dist_total": 335.94,
         "dist_km": 0.34,
         "dist_mi": 0.21,
         "final": "y",
@@ -923,6 +747,40 @@
           77.45227652000005,
           18.444219270000076,
           -2569.300000000003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "RMC": "4_48",
+        "site": 4,
+        "drive": 48,
+        "sol": 86,
+        "easting": 4354569.045,
+        "northing": 1093272.017,
+        "elev_geoid": -2569.2,
+        "elev_radii": -4252.74,
+        "radius": 3391937.26,
+        "lon": 77.45221898,
+        "lat": 18.4441602,
+        "roll": -0.45935,
+        "pitch": -0.423369,
+        "yaw": -141.172721,
+        "tilt": 0.624692,
+        "dist_m": 4.77,
+        "dist_total": 340.71,
+        "dist_km": 0.34,
+        "dist_mi": 0.21,
+        "final": "y",
+        "Note": "Used Mobility Report WID: 30861"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.45221898000005,
+          18.444160200000056,
+          -2569.199999999997
         ]
       }
     }
