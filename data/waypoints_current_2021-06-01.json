@@ -1,39 +1,39 @@
 {
   "type": "FeatureCollection",
-  "name": "M20_waypoints",
+  "name": "M20_Rover_Localizations_sol0099",
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "RMC": "4_136",
+        "RMC": "4_218",
         "site": 4,
-        "drive": 136,
-        "sol": 91,
-        "easting": 4354525.268,
-        "northing": 1093298.094,
-        "elev_geoid": -2569.23,
-        "elev_radii": -4252.68,
-        "radius": 3391937.32,
-        "lon": 77.45220705,
-        "lat": 18.44388017,
-        "roll": -0.751758,
-        "pitch": 1.039018,
-        "yaw": -119.117963,
-        "yaw_rad": -2.079,
-        "tilt": 1.282434,
-        "dist_m": 19.459998,
-        "dist_total": 360.169998,
-        "dist_km": 0.36,
-        "dist_mi": 0.2238,
+        "drive": 218,
+        "sol": 99,
+        "easting": 4354565.816,
+        "northing": 1093248.456,
+        "elev_geoid": -2569.197,
+        "elev_radii": -4252.623,
+        "radius": 3391937.38,
+        "lon": 77.45216155,
+        "lat": 18.44376271,
+        "roll": 1.154141,
+        "pitch": 0.360975,
+        "yaw": -138.622112,
+        "yaw_rad": -2.42,
+        "tilt": 1.209267,
+        "dist_m": 16.43,
+        "dist_total": 376.81,
+        "dist_km": 0.38,
+        "dist_mi": 0.23,
         "final": "y",
-        "Note": "Used Mobility Report WID: 40920"
+        "Note": "Used Mobility Report WID: 40993"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45220705000008,
-          18.443880170000057,
-          -2569.229999999996
+          77.45216155000008,
+          18.443762710000044,
+          -2569.197
         ]
       }
     }
