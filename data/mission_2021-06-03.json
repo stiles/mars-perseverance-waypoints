@@ -81,9 +81,9 @@
             "name": "Current Location",
             "code": "NOW",
             "view": [
-              18.44510920205647,
-              77.45146759785713,
-              18
+              18.443634825670333,
+              77.4507817067206,
+              17
             ]
           }
         ]
@@ -92,7 +92,7 @@
   ],
   "layers": [
     {
-      "name": "Current Position",
+      "name": "Rover Position",
       "kind": "none",
       "type": "vector",
       "url": "https://mars.nasa.gov/mmgis-maps/M20/Layers/json/M20_waypoints_current.json",
@@ -102,7 +102,7 @@
       "initialOpacity": 1,
       "togglesWithHeader": true,
       "style": {
-        "className": "currentposition",
+        "className": "roverposition",
         "color": "#333333",
         "fillColor": "#26a8ff",
         "weight": 2,
@@ -189,7 +189,7 @@
       "type": "vector",
       "url": "https://mars.nasa.gov/mmgis-maps/M20/Layers/json/JEZ_TRNEllipse_190507_line.json",
       "tileformat": "tms",
-      "visibility": true,
+      "visibility": false,
       "initialOpacity": 1,
       "togglesWithHeader": true,
       "style": {
@@ -236,14 +236,92 @@
       "togglesWithHeader": true,
       "style": {
         "className": "helicopterflightzone",
-        "color": "#42DDF5",
-        "fillColor": "undefined",
+        "color": "#baa854",
+        "fillColor": "#baa854",
         "weight": 3,
         "fillOpacity": null,
         "opacity": 1
       },
       "variables": {
         "useKeyAsName": "Name"
+      },
+      "radius": 1
+    },
+    {
+      "name": "Helicopter Position",
+      "kind": "none",
+      "type": "vector",
+      "url": "https://mars.nasa.gov/mmgis-maps/M20/Layers/json/m20_heli_waypoints_current.json",
+      "tileformat": "tms",
+      "visibility": true,
+      "visibilitycutoff": 12,
+      "initialOpacity": 1,
+      "togglesWithHeader": true,
+      "style": {
+        "className": "helicopterposition",
+        "color": "#333333",
+        "fillColor": "#baa854",
+        "weight": 2,
+        "fillOpacity": null,
+        "opacity": 1
+      },
+      "variables": {
+        "markerIcon": {
+          "iconUrl": "https://mars.nasa.gov/mmgis-maps/M20/Layers/icon/HELI_icon.png",
+          "iconSize": [
+            74,
+            74
+          ],
+          "iconAnchor": [
+            37,
+            65
+          ]
+        }
+      },
+      "radius": 7
+    },
+    {
+      "name": "Helicopter Waypoints",
+      "kind": "none",
+      "type": "vector",
+      "url": "https://mars.nasa.gov/mmgis-maps/M20/Layers/json/m20_heli_waypoints.json",
+      "tileformat": "tms",
+      "visibility": false,
+      "visibilitycutoff": 15,
+      "initialOpacity": 1,
+      "togglesWithHeader": true,
+      "style": {
+        "className": "helicopterwaypoints",
+        "color": "#baa854",
+        "fillColor": "#baa854",
+        "weight": 1,
+        "fillOpacity": null,
+        "opacity": 1
+      },
+      "variables": {
+        "useKeyAsName": "sol"
+      },
+      "radius": 5
+    },
+    {
+      "name": "Helicopter Flight Path",
+      "kind": "none",
+      "type": "vector",
+      "url": "https://mars.nasa.gov/mmgis-maps/M20/Layers/json/m20_heli_flight_path.json",
+      "tileformat": "tms",
+      "visibility": false,
+      "initialOpacity": 1,
+      "togglesWithHeader": true,
+      "style": {
+        "className": "helicopterflightpath",
+        "color": "#baa854",
+        "fillColor": "undefined",
+        "weight": 3,
+        "fillOpacity": null,
+        "opacity": 1
+      },
+      "variables": {
+        "useKeyAsName": "length"
       },
       "radius": 1
     },
