@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "name": "M20_waypoints",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "OID_": 0,
+        "RMC": "4_644",
+        "site": 4,
+        "drive": 644,
+        "sol": 107,
+        "easting": 4354482.512,
+        "northing": 1093136.715,
+        "elev_geoid": -2568.522461,
+        "elev_radii": -4251.620117,
+        "radius": 3391938.38,
+        "lon": 77.45067987,
+        "lat": 18.44187758,
+        "roll": -1.837485,
+        "pitch": 2.940282,
+        "yaw": 148.340496,
+        "yaw_rad": 2.59,
+        "tilt": 3.466791,
+        "dist_m": 9.05,
+        "dist_total": 523.03,
+        "dist_km": 0.52,
+        "dist_mi": 0.32,
+        "final": "y",
+        "Note": "Used Mobility Report WID 31071",
+        "ORIG_FID": -1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.45067987,
+          18.44187758,
+          -2568.522461
+        ]
+      }
+    }
+  ]
+}
