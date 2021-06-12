@@ -1,41 +1,36 @@
 {
   "type": "FeatureCollection",
-  "name": "M20_waypoints",
+  "name": "M20_Localization_Spreadsheet_110",
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "OID_": 0,
-        "RMC": "4_822",
-        "site": 4,
-        "drive": 822,
-        "sol": 109,
-        "easting": 4354428.843,
-        "northing": 1093091.803,
-        "elev_geoid": -2568.707275,
-        "elev_radii": -4251.640625,
-        "radius": 3391938.36,
-        "lon": 77.4497253,
-        "lat": 18.44111989,
-        "roll": 0.759531,
-        "pitch": -1.489,
-        "yaw": -143.124852,
-        "yaw_rad": -2.5,
-        "tilt": 1.671489,
-        "dist_m": 51.64,
-        "dist_total": 596.51,
-        "dist_km": 0.6,
-        "dist_mi": 0.37,
+        "RMC": "4_922",
+        "site": "4",
+        "drive": "922",
+        "sol": "110",
+        "easting": "4354424.255",
+        "northing": "1093037.237",
+        "elev_geoid": "-2568.9",
+        "elev_radii": "-4251.657",
+        "radius": "3391938.34",
+        "roll": "0.548192",
+        "pitch": "0.408447",
+        "yaw": "-153.263831",
+        "yaw_rad": "-2.67",
+        "tilt": "0.683622",
+        "dist_m": "56.9",
+        "dist_total_m": "653.41",
+        "dist_km": "0.65",
+        "dist_mi": "0.41",
         "final": "y",
-        "Note": "Used Mobility Report WID 31091",
-        "ORIG_FID": -1
+        "Note": "Used Mobility Report WID 51100"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.4497253,
-          18.44111989,
-          -2568.707275
+          77.44964369,
+          18.44019932
         ]
       }
     }
