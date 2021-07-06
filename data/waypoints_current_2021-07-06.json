@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "name": "M20_waypoints_current_sol0131",
+  "name": "M20_waypoints_current_sol0134",
   "features": [
     {
       "type": "Feature",
@@ -11,29 +11,29 @@
         "sol": 134,
         "easting": 4354573.279,
         "northing": 1092579.398,
-        "elev_geoid": -2575.162,
-        "elev_radii": -4256.596,
+        "elev_geoid": -2575.161621,
+        "elev_radii": -4256.596191,
         "radius": 3391933.4,
         "lon": 77.45229429,
         "lat": 18.4324753,
         "roll": 0.505125,
         "pitch": -2.658974,
-        "yaw": 155.31509,
-        "yaw_rad": 2.71,
-        "tilt": 3.999872,
-        "dist_m": 105.09,
-        "dist_total": 1153.69,
-        "dist_km": 1.15,
-        "dist_mi": 0.72,
-        "final": "y",
-        "Note": "Used Mobility Report WID 31311"
+        "yaw": 154.56178,
+        "yaw_rad": 0,
+        "tilt": 2.706494,
+        "dist_m": 0,
+        "dist_total": 0,
+        "dist_km": 0,
+        "dist_mi": 0,
+        "final": null,
+        "Note": "Used Mobility Report WID 41341"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45204699000004,
-          18.43403225000003,
-          -2573.3534999999974
+          77.45229429000005,
+          18.43247530000008,
+          -2575.1616000000067
         ]
       }
     }
