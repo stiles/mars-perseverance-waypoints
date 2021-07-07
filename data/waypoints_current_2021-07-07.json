@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "name": "M20_waypoints_current_sol0134_final",
+  "name": "M20_waypoints",
   "features": [
     {
       "type": "Feature",
@@ -19,12 +19,12 @@
         "roll": 0.505125,
         "pitch": -2.658974,
         "yaw": 154.56178,
-        "yaw_rad": 0,
+        "yaw_rad": 2.7,
         "tilt": 2.706494,
-        "dist_m": 0,
-        "dist_total": 0,
-        "dist_km": 0,
-        "dist_mi": 0,
+        "dist_m": 94.725031,
+        "dist_total": 1302.815031,
+        "dist_km": 1.3,
+        "dist_mi": 0.81,
         "final": null,
         "Note": "Used Mobility Report WID 41341"
       },
