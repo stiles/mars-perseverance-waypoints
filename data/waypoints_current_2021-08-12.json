@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "name": "M20_waypoints_current",
+  "name": "M20_waypoints_current_v2",
   "features": [
     {
       "type": "Feature",
@@ -20,12 +20,12 @@
         "pitch": 2.899758,
         "yaw": -74.588963,
         "yaw_rad": 8.128178,
-        "tilt": 0,
-        "dist_m": 0,
-        "dist_total": 0,
-        "dist_km": 0,
-        "dist_mi": 0,
-        "final": null,
+        "tilt": 8.128178,
+        "dist_m": 104.552377,
+        "dist_total": 1821.29,
+        "dist_km": 1.82,
+        "dist_mi": 1.13,
+        "final": "y",
         "Note": "Used Mobility Report WID 31701"
       },
       "geometry": {
