@@ -1,41 +1,44 @@
 {
   "type": "FeatureCollection",
-  "name": "M20_waypoints",
+  "name": "M20_waypoints_current",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "OID_": 0,
-        "RMC": "6_1648",
+        "RMC": "6_1752",
         "site": 6,
-        "drive": 1648,
-        "sol": 173,
-        "easting": 4354278.209,
-        "northing": 1092409.67,
-        "elev_geoid": -2581.385254,
-        "elev_radii": -4262.264648,
-        "radius": 3391927.74,
-        "lon": 77.44704605,
-        "lat": 18.42961188,
-        "roll": 9.714988,
-        "pitch": 3.030236,
-        "yaw": -65.026612,
-        "yaw_rad": -1.13,
-        "tilt": 10.172273,
-        "dist_m": 39.2110383,
-        "dist_total": 1972.38,
-        "dist_km": 1.97,
-        "dist_mi": 1.23,
+        "drive": 1752,
+        "sol": 175,
+        "easting": 4354263.98,
+        "northing": 1092412.611,
+        "elev_geoid": -2579.604,
+        "elev_radii": -4260.3101,
+        "radius": 3391929.69,
+        "lon": 77.44679297,
+        "lat": 18.4296615,
+        "roll": -4.439935,
+        "pitch": 19.349353,
+        "yaw": -164.566018,
+        "yaw_rad": -2.87,
+        "tilt": 19.83318,
+        "dist_m": 20.68432,
+        "dist_total": 1993.06,
+        "dist_km": 1.99,
+        "dist_mi": 1.24,
         "final": "y",
-        "Note": "Used Mobility Report WID 51731",
-        "ORIG_FID": -1
+        "Note": "Used Mobility Report WID 41760"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.44704605,
-          18.42961188,
-          -2581.385254
+          77.44679297000005,
+          18.429661500000066
         ]
       }
     }
