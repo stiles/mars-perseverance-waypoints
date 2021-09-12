@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "name": "M20_Rover_Localizations_sol199",
+  "name": "M20_Rover_Localizations_sol0200",
   "crs": {
     "type": "name",
     "properties": {
@@ -8,181 +8,6 @@
     }
   },
   "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "RMC": "1_0",
-        "site": 1,
-        "drive": 0,
-        "sol": 0,
-        "easting": 4354489.915,
-        "northing": 1093302.679,
-        "elev_geoid": -2569.84,
-        "elev_radii": -4253.41,
-        "radius": 3391936.59,
-        "lon": 77.45081154,
-        "lat": 18.44467749,
-        "roll": -1.2,
-        "pitch": 0.01,
-        "yaw": 141.56,
-        "yaw_rad": 2.47,
-        "tilt": 1.2,
-        "dist_m": 0,
-        "dist_total": 0,
-        "dist_km": 0,
-        "dist_mi": 0,
-        "final": "n",
-        "Note": "LVS Estimate. Landing time: 2021-02-18T20:43:48 = Sol-0000M15:53:20"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          77.45081154000007,
-          18.44467749000006,
-          -2569.8399999999965
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "RMC": "1_0",
-        "site": 1,
-        "drive": 0,
-        "sol": 2,
-        "easting": 4354494.27,
-        "northing": 1093299.79,
-        "elev_geoid": -2569.9,
-        "elev_radii": -4253.47,
-        "radius": 3391936.53,
-        "lon": 77.450889,
-        "lat": 18.44462875,
-        "roll": -1.18,
-        "pitch": -0.03,
-        "yaw": 130.88,
-        "yaw_rad": 2.28,
-        "tilt": 1.18,
-        "dist_m": 0,
-        "dist_total": 0,
-        "dist_km": 0,
-        "dist_mi": 0,
-        "final": "n",
-        "Note": "HiRISE estimate"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          77.450889,
-          18.44462875000005,
-          -2569.899999999994
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "RMC": "1_0",
-        "site": 1,
-        "drive": 0,
-        "sol": 2,
-        "easting": 4354493.97,
-        "northing": 1093299.919,
-        "elev_geoid": -2569.9,
-        "elev_radii": -4253.47,
-        "radius": 3391936.53,
-        "lon": 77.45088366,
-        "lat": 18.44463093,
-        "roll": -1.18,
-        "pitch": -0.03,
-        "yaw": 130.88,
-        "yaw_rad": 2.28,
-        "tilt": 1.18,
-        "dist_m": 0,
-        "dist_total": 0,
-        "dist_km": 0,
-        "dist_mi": 0,
-        "final": "n",
-        "Note": "HAZCAM estimate based on georeferencing to RDS images."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          77.45088366000004,
-          18.444630930000073,
-          -2569.899999999994
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "RMC": "1_0",
-        "site": 1,
-        "drive": 0,
-        "sol": 4,
-        "easting": 4354494.086,
-        "northing": 1093299.695,
-        "elev_geoid": -2569.91,
-        "elev_radii": -4253.47,
-        "radius": 3391936.53,
-        "lon": 77.45088572,
-        "lat": 18.44462715,
-        "roll": -1.18,
-        "pitch": -0.03,
-        "yaw": 130.88,
-        "yaw_rad": 2.28,
-        "tilt": 1.18,
-        "dist_m": 0,
-        "dist_total": 0,
-        "dist_km": 0,
-        "dist_mi": 0,
-        "final": "n",
-        "Note": "NAVCAM estimate. Final value for SITE 1."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          77.45088572000003,
-          18.44462715000003,
-          -2569.9100000000035
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "RMC": "2_0",
-        "site": 2,
-        "drive": 0,
-        "sol": 13,
-        "easting": 4354494.086,
-        "northing": 1093299.695,
-        "elev_geoid": -2569.91,
-        "elev_radii": -4253.47,
-        "radius": 3391936.53,
-        "lon": 77.45088572,
-        "lat": 18.44462715,
-        "roll": -1.18,
-        "pitch": -0.03,
-        "yaw": 130.88,
-        "yaw_rad": 2.28,
-        "tilt": 1.18,
-        "dist_m": 0,
-        "dist_total": 0,
-        "dist_km": 0,
-        "dist_mi": 0,
-        "final": "n",
-        "Note": "Site increment, no motion."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          77.45088572000003,
-          18.44462715000003,
-          -2569.9100000000035
-        ]
-      }
-    },
     {
       "type": "Feature",
       "properties": {
@@ -2315,6 +2140,41 @@
           77.44332408000008,
           18.431230200000073,
           -2574.1860000000015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "RMC": "7_1172",
+        "site": 7,
+        "drive": 1172,
+        "sol": 200,
+        "easting": 4353920.666,
+        "northing": 1092583.7,
+        "elev_geoid": -2571.841,
+        "elev_radii": -4253.093,
+        "radius": 3391936.91,
+        "lon": 77.44068664,
+        "lat": 18.43254788,
+        "roll": 0.577081,
+        "pitch": 4.336063,
+        "yaw": -50.332576,
+        "yaw_rad": -0.88,
+        "tilt": 4.374223,
+        "dist_m": 169.854551,
+        "dist_total": 2422.27,
+        "dist_km": 2.42,
+        "dist_mi": 1.51,
+        "final": "y",
+        "Note": "Used Mobility Report WID 32001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.44068664000008,
+          18.432547880000072,
+          -2571.841
         ]
       }
     }
