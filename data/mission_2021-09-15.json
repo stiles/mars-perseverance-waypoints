@@ -335,7 +335,7 @@
       "togglesWithHeader": true,
       "minZoom": 4,
       "maxNativeZoom": 18,
-      "maxZoom": 22,
+      "maxZoom": 19,
       "boundingBox": [
         76.83731193709336,
         17.82120312984125,
@@ -346,19 +346,19 @@
     {
       "name": "Basemap",
       "type": "tile",
-      "url": "https://mars.nasa.gov/mmgis-maps/M20/Layers/Jezero_Balanced_Visible_HiRISE_HRSCcolor_IHS_pansharp/{z}/{x}/{y}.png",
+      "url": "https://mars.nasa.gov/mmgis-maps/M20/Layers/M20_7_HiRISE_LRGB_mosaic_v2_minmax/{z}/{x}/{y}.png",
       "tileformat": "tms",
       "visibility": true,
       "initialOpacity": 1,
       "togglesWithHeader": true,
       "minZoom": 10,
-      "maxNativeZoom": 18,
-      "maxZoom": 22,
+      "maxNativeZoom": 19,
+      "maxZoom": 19,
       "boundingBox": [
-        77.16023860190887,
-        18.21097494811514,
-        77.69832750078483,
-        18.72131096671516
+        77.36582186338173,
+        18.1934790628736,
+        77.53987704908882,
+        18.74111528891759
       ]
     },
     {
@@ -371,7 +371,7 @@
       "togglesWithHeader": true,
       "minZoom": 0,
       "maxNativeZoom": 12,
-      "maxZoom": 22,
+      "maxZoom": 19,
       "boundingBox": [
         67.49927040089868,
         14.99999904610347,
