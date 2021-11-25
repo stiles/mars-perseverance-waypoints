@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "name": "M20_Localization_Spreadsheet_248",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "RMC": "8_0",
+        "site": "8",
+        "drive": "0",
+        "sol": "248",
+        "easting": "4354051.81",
+        "northing": "1092667.644",
+        "elev_geoid": "-2569.154",
+        "elev_radii": "-4250.597",
+        "radius": "3391939.40",
+        "roll": "-5.253902",
+        "pitch": "3.776274",
+        "yaw": "70.139814",
+        "yaw_rad": "1.22",
+        "tilt": "6.467127",
+        "dist_m": "0.697458",
+        "dist_total_m": "2672.18",
+        "dist_km": "2.67",
+        "dist_mi": "1.66",
+        "final": "y",
+        "Note": "Used Mobility Report WID 42490"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.44301922,
+          18.43396406
+        ]
+      }
+    }
+  ]
+}
