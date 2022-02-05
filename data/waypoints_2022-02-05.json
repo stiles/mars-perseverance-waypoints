@@ -2871,6 +2871,41 @@
           -2580.7042999999976
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "RMC": "9_2858",
+        "site": 9,
+        "drive": 2858,
+        "sol": 342,
+        "easting": 4354272.96,
+        "northing": 1092413.606,
+        "elev_geoid": -2581.134,
+        "elev_radii": -4261.893,
+        "radius": 3391928.11,
+        "lon": 77.44695269,
+        "lat": 18.42967829,
+        "roll": -12.377935,
+        "pitch": 3.416061,
+        "yaw": 153.150359,
+        "yaw_rad": 2.673,
+        "tilt": 12.833573,
+        "dist_m": 12.81,
+        "dist_total": 3343.59,
+        "dist_km": 3.34,
+        "dist_mi": 2.08,
+        "final": "y",
+        "Note": "Used Mobility Report WID 53421"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.44695269000005,
+          18.429678290000027,
+          -2581.1340000000055
+        ]
+      }
     }
   ]
 }
