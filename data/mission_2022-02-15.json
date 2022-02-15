@@ -114,7 +114,7 @@
         "info": [
           {
             "which": "last",
-            "value": "Sol {sol} | Distance Driven {dist_mi} miles / {dist_km} km"
+            "value": "Latest Drive: Sol {sol} | Total Distance {dist_mi} miles / {dist_km} km"
           }
         ],
         "markerIcon": {
