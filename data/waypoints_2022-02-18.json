@@ -3317,6 +3317,42 @@
     {
       "type": "Feature",
       "properties": {
+        "RMC": "9_6214",
+        "site": 9,
+        "drive": 6214,
+        "sol": 353,
+        "easting": 4354590.056,
+        "northing": 1092514.777,
+        "elev_geoid": -2577.262,
+        "elev_radii": -4258.479,
+        "radius": 3391931.52,
+        "lon": 77.4525927,
+        "lat": 18.4313851,
+        "roll": 0.223273349,
+        "pitch": 1.797011372,
+        "yaw": 50.58719153,
+        "yaw_rad": 0.8829,
+        "tilt": 1.810828777,
+        "dist_m": 0,
+        "dist_total": 0,
+        "dist_km": 0,
+        "dist_mi": 0,
+        "final": "m",
+        "Note": "mid-drive localization",
+        "ORIG_FID": 98
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4525927,
+          18.4313851,
+          -2577.262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "RMC": "9_6884",
         "site": 9,
         "drive": 6884,
@@ -3339,7 +3375,7 @@
         "dist_mi": 2.27,
         "final": "y",
         "Note": "Used Mobility Report WID 53531",
-        "ORIG_FID": 98
+        "ORIG_FID": 99
       },
       "geometry": {
         "type": "Point",
@@ -3347,6 +3383,78 @@
           77.45211259,
           18.43285271,
           -2575.001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "RMC": "9_7344",
+        "site": 9,
+        "drive": 7344,
+        "sol": 354,
+        "easting": 4354565.325,
+        "northing": 1092687.402,
+        "elev_geoid": -2573.031,
+        "elev_radii": -4254.781,
+        "radius": 3391935.22,
+        "lon": 77.45215282,
+        "lat": 18.43429739,
+        "roll": 4.432580322,
+        "pitch": 3.450353765,
+        "yaw": 4.509455531,
+        "yaw_rad": 0.0787,
+        "tilt": 5.617179845,
+        "dist_m": 0,
+        "dist_total": 0,
+        "dist_km": 0,
+        "dist_mi": 0,
+        "final": "m",
+        "Note": "mid-drive localization",
+        "ORIG_FID": 100
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.45215282,
+          18.43429739,
+          -2573.031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "RMC": "9_7758",
+        "site": 9,
+        "drive": 7758,
+        "sol": 354,
+        "easting": 4354550.094,
+        "northing": 1092761.27,
+        "elev_geoid": -2570.853,
+        "elev_radii": -4252.836,
+        "radius": 3391937.16,
+        "lon": 77.45188192,
+        "lat": 18.43554359,
+        "roll": 1.325046822,
+        "pitch": 2.176530434,
+        "yaw": -22.88642712,
+        "yaw_rad": -0.3994,
+        "tilt": 2.548143208,
+        "dist_m": 0,
+        "dist_total": 0,
+        "dist_km": 0,
+        "dist_mi": 0,
+        "final": "m",
+        "Note": "mid-drive localization",
+        "ORIG_FID": 101
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.45188192,
+          18.43554359,
+          -2570.853
         ]
       }
     },
@@ -3369,13 +3477,13 @@
         "yaw": -34.518216,
         "yaw_rad": -0.6025,
         "tilt": 0.391668,
-        "dist_m": 186.786,
-        "dist_total": 3844.39,
+        "dist_m": 186.748,
+        "dist_total": 3844.35,
         "dist_km": 3.84,
         "dist_mi": 2.39,
         "final": "y",
         "Note": "Used Mobility Report WID 53541",
-        "ORIG_FID": 99
+        "ORIG_FID": 102
       },
       "geometry": {
         "type": "Point",
@@ -3383,6 +3491,42 @@
           77.45177597,
           18.43592655,
           -2570.813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "RMC": "9_9314",
+        "site": 9,
+        "drive": 9314,
+        "sol": 355,
+        "easting": 4354526.532,
+        "northing": 1093030.646,
+        "elev_geoid": -2569.7595,
+        "elev_radii": -4252.517,
+        "radius": 3391937.48,
+        "lon": 77.45146282,
+        "lat": 18.44008813,
+        "roll": 1.959894,
+        "pitch": -0.648083,
+        "yaw": -45.504125,
+        "yaw_rad": -0.7942,
+        "tilt": -0.043088,
+        "dist_m": 267.69,
+        "dist_total": 4112.04,
+        "dist_km": 4.11,
+        "dist_mi": 2.56,
+        "final": "y",
+        "Note": "Used Mobility Report WID 43551",
+        "ORIG_FID": 103
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.45146282,
+          18.44008813,
+          -2569.7595
         ]
       }
     }
