@@ -5,35 +5,35 @@
     {
       "type": "Feature",
       "properties": {
-        "RMC": "13_2448",
-        "site": 13,
-        "drive": 2448,
-        "sol": 384,
-        "easting": 4355119.255,
-        "northing": 1094037.232,
-        "elev_geoid": -2568.77,
-        "elev_radii": -4254.639,
-        "radius": 3391935.36,
-        "lon": 77.46200525,
-        "lat": 18.45706984,
-        "roll": -3.724678779,
-        "pitch": 1.904398215,
-        "yaw": 34.67404449,
-        "yaw_rad": 0.6052,
-        "tilt": 4.183295898,
-        "dist_m": 209.919226,
-        "dist_total_m": 5577.34,
-        "dist_km": 5.58,
+        "RMC": "14_0",
+        "site": 14,
+        "drive": 0,
+        "sol": 385,
+        "easting": 4355115.428,
+        "northing": 1094050.24,
+        "elev_geoid": -2568.821,
+        "elev_radii": -4254.785,
+        "radius": 3391935.22,
+        "lon": 77.46193718,
+        "lat": 18.45728929,
+        "roll": -1.079337,
+        "pitch": 1.797283,
+        "yaw": 34.212882,
+        "yaw_rad": 0.5971,
+        "tilt": 2.096381,
+        "dist_m": 13.762476,
+        "dist_total_m": 5591.1,
+        "dist_km": 5.59,
         "dist_mi": 3.47,
-        "final": "m",
-        "Note": "PLACES"
+        "final": "y",
+        "Note": "Used Mobility Report WID 33851"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.46200525,
-          18.45706984,
-          -2568.77
+          77.46193718,
+          18.45728929,
+          -2568.821
         ]
       }
     }
