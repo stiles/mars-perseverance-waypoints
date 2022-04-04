@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "name": "M20_Rover_Localizations_tosol0398",
+  "name": "M20_Rover_Localizations_tosol0399",
   "features": [
     {
       "type": "Feature",
@@ -28,15 +28,14 @@
         "dist_km": 0,
         "dist_mi": 0,
         "final": "y",
-        "Note": "Site increment, no motion.",
-        "ORIG_FID": 6
+        "Note": "Site increment, no motion."
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45088572,
-          18.44462715,
-          -2569.91
+          77.45088572000003,
+          18.444627149999974,
+          -2569.9100000000035
         ]
       }
     },
@@ -66,15 +65,14 @@
         "dist_km": 0.01,
         "dist_mi": 0,
         "final": "y",
-        "Note": "First localization!",
-        "ORIG_FID": 7
+        "Note": "First localization!"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45094676,
-          18.44454339,
-          -2569.86
+          77.45094675999991,
+          18.44454338999998,
+          -2569.8600000000006
         ]
       }
     },
@@ -104,15 +102,14 @@
         "dist_km": 0.04,
         "dist_mi": 0.03,
         "final": "y",
-        "Note": "Used Mobility Report WID: 40151",
-        "ORIG_FID": 8
+        "Note": "Used Mobility Report WID: 40151"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45103403,
-          18.44513505,
-          -2569.94
+          77.45103403000002,
+          18.44513505000009,
+          -2569.9400000000023
         ]
       }
     },
@@ -142,15 +139,14 @@
         "dist_km": 0.07,
         "dist_mi": 0.04,
         "final": "y",
-        "Note": "Used Mobility Report WID: 40161",
-        "ORIG_FID": 9
+        "Note": "Used Mobility Report WID: 40161"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           77.45149727,
           18.4452799,
-          -2569.29
+          -2569.2899999999936
         ]
       }
     },
@@ -180,15 +176,14 @@
         "dist_km": 0.09,
         "dist_mi": 0.06,
         "final": "y",
-        "Note": "Used Mobility Report WID: 40201",
-        "ORIG_FID": 10
+        "Note": "Used Mobility Report WID: 40201"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           77.45185605,
-          18.44514836,
-          -2568.93
+          18.445148360000132,
+          -2568.929999999993
         ]
       }
     },
@@ -218,15 +213,14 @@
         "dist_km": 0.1,
         "dist_mi": 0.06,
         "final": "y",
-        "Note": "Used Mobility Report WID: 40231",
-        "ORIG_FID": 11
+        "Note": "Used Mobility Report WID: 40231"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45177711,
-          18.44520229,
-          -2568.97
+          77.45177711000008,
+          18.44520228999994,
+          -2568.970000000001
         ]
       }
     },
@@ -256,15 +250,14 @@
         "dist_km": 0.1,
         "dist_mi": 0.06,
         "final": "y",
-        "Note": "Used Mobility Report WID: 50291",
-        "ORIG_FID": 12
+        "Note": "Used Mobility Report WID: 50291"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.4518217,
-          18.44516437,
-          -2568.93
+          77.45182170000004,
+          18.445164370000043,
+          -2568.929999999993
         ]
       }
     },
@@ -294,15 +287,14 @@
         "dist_km": 0.14,
         "dist_mi": 0.09,
         "final": "y",
-        "Note": "Used Mobility Report WID:  30311",
-        "ORIG_FID": 13
+        "Note": "Used Mobility Report WID:  30311"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           77.45133181,
           18.44518,
-          -2569.6
+          -2569.600000000006
         ]
       }
     },
@@ -332,15 +324,14 @@
         "dist_km": 0.17,
         "dist_mi": 0.1,
         "final": "y",
-        "Note": "Used Mobility Report WID:  30321",
-        "ORIG_FID": 14
+        "Note": "Used Mobility Report WID:  30321"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45119664,
-          18.44470001,
-          -2569.81
+          77.45119663999998,
+          18.444700010000133,
+          -2569.8099999999977
         ]
       }
     },
@@ -370,15 +361,14 @@
         "dist_km": 0.18,
         "dist_mi": 0.11,
         "final": "y",
-        "Note": "Used Mobility Report WID:  50333",
-        "ORIG_FID": 15
+        "Note": "Used Mobility Report WID:  50333"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45102446,
-          18.44475218,
-          -2569.99
+          77.45102445999999,
+          18.444752180000023,
+          -2569.9900000000052
         ]
       }
     },
@@ -390,7 +380,7 @@
         "drive": 1392,
         "sol": 34,
         "SCLK_START": 669998089,
-        "SCLK_END": 669998409,
+        "SCLK_END": 669998408.6,
         "easting": 4354501.722,
         "northing": 1093313.659,
         "elev_geoid": -2569.99,
@@ -408,15 +398,14 @@
         "dist_km": 0.19,
         "dist_mi": 0.12,
         "final": "y",
-        "Note": "Used Mobility Report WID:  50341",
-        "ORIG_FID": 16
+        "Note": "Used Mobility Report WID:  50341"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45102154,
-          18.44486273,
-          -2569.99
+          77.45102154000006,
+          18.444862730000125,
+          -2569.9900000000052
         ]
       }
     },
@@ -446,15 +435,14 @@
         "dist_km": 0.19,
         "dist_mi": 0.12,
         "final": "y",
-        "Note": "Used Mobility Report WID:  30431",
-        "ORIG_FID": 17
+        "Note": "Used Mobility Report WID:  30431"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           77.45102461,
-          18.44494033,
-          -2570.02
+          18.444940330000122,
+          -2570.020000000004
         ]
       }
     },
@@ -484,15 +472,14 @@
         "dist_km": 0.19,
         "dist_mi": 0.12,
         "final": "y",
-        "Note": "Used Mobility Report WID:  30441",
-        "ORIG_FID": 18
+        "Note": "Used Mobility Report WID:  30441"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           77.45102047,
           18.44494297,
-          -2570.02
+          -2570.020000000004
         ]
       }
     },
@@ -522,15 +509,14 @@
         "dist_km": 0.23,
         "dist_mi": 0.14,
         "final": "y",
-        "Note": "Used Mobility Report WID:  30471",
-        "ORIG_FID": 19
+        "Note": "Used Mobility Report WID:  30471"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45152954,
-          18.44477901,
-          -2569.54
+          77.45152954000002,
+          18.444779010000104,
+          -2569.5399999999936
         ]
       }
     },
@@ -542,7 +528,7 @@
         "drive": 1850,
         "sol": 48,
         "SCLK_START": 671209636,
-        "SCLK_END": 671210807,
+        "SCLK_END": 671210806.6,
         "easting": 4354546.553,
         "northing": 1093314.164,
         "elev_geoid": -2569.04,
@@ -560,15 +546,14 @@
         "dist_km": 0.25,
         "dist_mi": 0.15,
         "final": "y",
-        "Note": "Used Mobility Report WID: 30481",
-        "ORIG_FID": 20
+        "Note": "Used Mobility Report WID: 30481"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45181893,
-          18.44487125,
-          -2569.04
+          77.45181892999994,
+          18.44487125000012,
+          -2569.0399999999936
         ]
       }
     },
@@ -580,7 +565,7 @@
         "drive": 1950,
         "sol": 49,
         "SCLK_START": 671295463,
-        "SCLK_END": 671298023,
+        "SCLK_END": 671298022.6,
         "easting": 4354557.816,
         "northing": 1093309.691,
         "elev_geoid": -2568.98,
@@ -598,15 +583,14 @@
         "dist_km": 0.26,
         "dist_mi": 0.16,
         "final": "y",
-        "Note": "Used Mobility Report WID: 30493",
-        "ORIG_FID": 21
+        "Note": "Used Mobility Report WID: 30493"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45201926,
-          18.44479579,
-          -2568.98
+          77.45201926000004,
+          18.444795790000057,
+          -2568.979999999996
         ]
       }
     },
@@ -636,15 +620,14 @@
         "dist_km": 0.27,
         "dist_mi": 0.17,
         "final": "y",
-        "Note": "Used Mobility Report WID: 30521",
-        "ORIG_FID": 22
+        "Note": "Used Mobility Report WID: 30521"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45213981,
-          18.44475241,
-          -2569.05
+          77.45213981000006,
+          18.444752410000035,
+          -2569.050000000003
         ]
       }
     },
@@ -655,7 +638,7 @@
         "site": 3,
         "drive": 2150,
         "sol": 65,
-        "SCLK_START": 672718733,
+        "SCLK_START": 672718732.6,
         "SCLK_END": 672794577,
         "easting": 4354569.415,
         "northing": 1093302.011,
@@ -674,14 +657,13 @@
         "dist_km": 0.28,
         "dist_mi": 0.17,
         "final": "y",
-        "Note": "Used Mobility Report WID: 30651",
-        "ORIG_FID": 23
+        "Note": "Used Mobility Report WID: 30651"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45222556,
-          18.44466622,
+          77.45222556000004,
+          18.444666219999988,
           -2569
         ]
       }
@@ -693,7 +675,7 @@
         "site": 3,
         "drive": 2208,
         "sol": 66,
-        "SCLK_START": 672794696,
+        "SCLK_START": 672794696.2,
         "SCLK_END": 673341203,
         "easting": 4354573.466,
         "northing": 1093293.855,
@@ -712,15 +694,14 @@
         "dist_km": 0.29,
         "dist_mi": 0.18,
         "final": "y",
-        "Note": "Used Mobility Report WID: 30661",
-        "ORIG_FID": 24
+        "Note": "Used Mobility Report WID: 30661"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45229762,
-          18.44452862,
-          -2569.32
+          77.45229761999997,
+          18.44452861999997,
+          -2569.320000000007
         ]
       }
     },
@@ -750,15 +731,14 @@
         "dist_km": 0.31,
         "dist_mi": 0.19,
         "final": "y",
-        "Note": "Used Mobility Report WID: 40721",
-        "ORIG_FID": 25
+        "Note": "Used Mobility Report WID: 40721"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45251746,
-          18.44427799,
-          -2569.14
+          77.45251746000002,
+          18.444277990000046,
+          -2569.1399999999994
         ]
       }
     },
@@ -788,15 +768,14 @@
         "dist_km": 0.32,
         "dist_mi": 0.2,
         "final": "y",
-        "Note": "Used Mobility Report WID: 30731",
-        "ORIG_FID": 26
+        "Note": "Used Mobility Report WID: 30731"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45258735,
-          18.44412598,
-          -2568.81
+          77.45258734999993,
+          18.44412598000008,
+          -2568.8099999999977
         ]
       }
     },
@@ -807,7 +786,7 @@
         "site": 4,
         "drive": 0,
         "sol": 84,
-        "SCLK_START": 674401789,
+        "SCLK_START": 674401789.3,
         "SCLK_END": 674582810,
         "easting": 4354572.28,
         "northing": 1093275.518,
@@ -826,15 +805,14 @@
         "dist_km": 0.34,
         "dist_mi": 0.21,
         "final": "y",
-        "Note": "Used Mobility Report. Manual entry.",
-        "ORIG_FID": 27
+        "Note": "Used Mobility Report. Manual entry."
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           77.45227652,
-          18.44421927,
-          -2569.3
+          18.444219269999962,
+          -2569.300000000003
         ]
       }
     },
@@ -846,7 +824,7 @@
         "drive": 48,
         "sol": 86,
         "SCLK_START": 674587664,
-        "SCLK_END": 675025932,
+        "SCLK_END": 675025932.3,
         "easting": 4354569.045,
         "northing": 1093272.017,
         "elev_geoid": -2569.2,
@@ -864,15 +842,14 @@
         "dist_km": 0.34,
         "dist_mi": 0.21,
         "final": "y",
-        "Note": "Used Mobility Report WID: 30861",
-        "ORIG_FID": 28
+        "Note": "Used Mobility Report WID: 30861"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45221898,
-          18.4441602,
-          -2569.2
+          77.45221898000005,
+          18.444160200000056,
+          -2569.199999999997
         ]
       }
     },
@@ -902,15 +879,14 @@
         "dist_km": 0.36,
         "dist_mi": 0.22,
         "final": "y",
-        "Note": "Used Mobility Report WID: 40920",
-        "ORIG_FID": 29
+        "Note": "Used Mobility Report WID: 40920"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45220705,
+          77.45220704999991,
           18.44388017,
-          -2569.23
+          -2569.229999999996
         ]
       }
     },
@@ -922,7 +898,7 @@
         "drive": 218,
         "sol": 100,
         "SCLK_START": 675826345,
-        "SCLK_END": 675827485,
+        "SCLK_END": 675827485.4,
         "easting": 4354565.816,
         "northing": 1093248.456,
         "elev_geoid": -2569.197,
@@ -940,14 +916,13 @@
         "dist_km": 0.38,
         "dist_mi": 0.23,
         "final": "y",
-        "Note": "Used Mobility Report WID: 40993",
-        "ORIG_FID": 30
+        "Note": "Used Mobility Report WID: 40993"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45216155,
-          18.44376271,
+          77.45216155000008,
+          18.443762710000044,
           -2569.197
         ]
       }
@@ -959,8 +934,8 @@
         "site": 4,
         "drive": 372,
         "sol": 102,
-        "SCLK_START": 675996053,
-        "SCLK_END": 675998042,
+        "SCLK_START": 675996052.8,
+        "SCLK_END": 675998042.5,
         "easting": 4354530.161,
         "northing": 1093218.345,
         "elev_geoid": -2568.954,
@@ -978,15 +953,14 @@
         "dist_km": 0.42,
         "dist_mi": 0.26,
         "final": "y",
-        "Note": "Used Mobility Report WID: 51021",
-        "ORIG_FID": 31
+        "Note": "Used Mobility Report WID: 51021"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           77.45152737,
-          18.44325472,
-          -2568.954
+          18.443254720000084,
+          -2568.953999999998
         ]
       }
     },
@@ -997,8 +971,8 @@
         "site": 4,
         "drive": 430,
         "sol": 103,
-        "SCLK_START": 676089904,
-        "SCLK_END": 676090867,
+        "SCLK_START": 676089903.6,
+        "SCLK_END": 676090867.3,
         "easting": 4354511.439,
         "northing": 1093203.102,
         "elev_geoid": -2568.864258,
@@ -1016,15 +990,14 @@
         "dist_km": 0.45,
         "dist_mi": 0.28,
         "final": "y",
-        "Note": "Used Mobility Report WID: 31031",
-        "ORIG_FID": 32
+        "Note": "Used Mobility Report WID: 31031"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           77.45119438,
-          18.44299756,
-          -2568.864258
+          18.44299755999998,
+          -2568.864300000001
         ]
       }
     },
@@ -1035,8 +1008,8 @@
         "site": 4,
         "drive": 510,
         "sol": 104,
-        "SCLK_START": 676176733,
-        "SCLK_END": 676178069,
+        "SCLK_START": 676176732.8,
+        "SCLK_END": 676178069.4,
         "easting": 4354492.887,
         "northing": 1093169.054,
         "elev_geoid": -2568.932,
@@ -1054,15 +1027,14 @@
         "dist_km": 0.49,
         "dist_mi": 0.3,
         "final": "y",
-        "Note": "Used Mobility Report WID 51041",
-        "ORIG_FID": 33
+        "Note": "Used Mobility Report WID 51041"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.4508644,
-          18.44242315,
-          -2568.932
+          77.45086440000006,
+          18.442423150000025,
+          -2568.9320000000007
         ]
       }
     },
@@ -1073,8 +1045,8 @@
         "site": 4,
         "drive": 592,
         "sol": 105,
-        "SCLK_START": 676264903,
-        "SCLK_END": 676266086,
+        "SCLK_START": 676264902.7,
+        "SCLK_END": 676266086.4,
         "easting": 4354483.453,
         "northing": 1093144.443,
         "elev_geoid": -2568.51,
@@ -1092,15 +1064,14 @@
         "dist_km": 0.51,
         "dist_mi": 0.32,
         "final": "y",
-        "Note": "Used Mobility Report WID 31051",
-        "ORIG_FID": 34
+        "Note": "Used Mobility Report WID 31051"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45069661,
+          77.45069661000002,
           18.44200795,
-          -2568.51
+          -2568.5099999999948
         ]
       }
     },
@@ -1111,8 +1082,8 @@
         "site": 4,
         "drive": 644,
         "sol": 107,
-        "SCLK_START": 676447442,
-        "SCLK_END": 676448675,
+        "SCLK_START": 676447442.4,
+        "SCLK_END": 676448675.4,
         "easting": 4354482.512,
         "northing": 1093136.715,
         "elev_geoid": -2568.522461,
@@ -1130,15 +1101,14 @@
         "dist_km": 0.52,
         "dist_mi": 0.32,
         "final": "y",
-        "Note": "Used Mobility Report WID 31071",
-        "ORIG_FID": 35
+        "Note": "Used Mobility Report WID 31071"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45067987,
-          18.44187758,
-          -2568.522461
+          77.45067987000004,
+          18.44187758000004,
+          -2568.5225000000064
         ]
       }
     },
@@ -1149,8 +1119,8 @@
         "site": 4,
         "drive": 738,
         "sol": 108,
-        "SCLK_START": 676528631,
-        "SCLK_END": 676529887,
+        "SCLK_START": 676528630.8,
+        "SCLK_END": 676529886.8,
         "easting": 4354462.152,
         "northing": 1093130.825,
         "elev_geoid": -2568.672852,
@@ -1168,15 +1138,14 @@
         "dist_km": 0.54,
         "dist_mi": 0.34,
         "final": "y",
-        "Note": "Used Mobility Report WID 51081",
-        "ORIG_FID": 36
+        "Note": "Used Mobility Report WID 51081"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45031774,
-          18.4417782,
-          -2568.672852
+          77.45031774000012,
+          18.441778199999987,
+          -2568.672900000005
         ]
       }
     },
@@ -1187,8 +1156,8 @@
         "site": 4,
         "drive": 822,
         "sol": 109,
-        "SCLK_START": 676620061,
-        "SCLK_END": 676621786,
+        "SCLK_START": 676620060.7,
+        "SCLK_END": 676621786.4,
         "easting": 4354428.843,
         "northing": 1093091.803,
         "elev_geoid": -2568.707275,
@@ -1206,15 +1175,14 @@
         "dist_km": 0.6,
         "dist_mi": 0.37,
         "final": "y",
-        "Note": "Used Mobility Report WID 31091",
-        "ORIG_FID": 37
+        "Note": "Used Mobility Report WID 31091"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.4497253,
-          18.44111989,
-          -2568.707275
+          77.44972530000013,
+          18.44111989000004,
+          -2568.7072999999946
         ]
       }
     },
@@ -1225,8 +1193,8 @@
         "site": 4,
         "drive": 922,
         "sol": 110,
-        "SCLK_START": 676620061,
-        "SCLK_END": 676621786,
+        "SCLK_START": 676620060.7,
+        "SCLK_END": 676621786.4,
         "easting": 4354424.255,
         "northing": 1093037.237,
         "elev_geoid": -2568.9,
@@ -1244,15 +1212,14 @@
         "dist_km": 0.65,
         "dist_mi": 0.41,
         "final": "y",
-        "Note": "Used Mobility Report WID 51100",
-        "ORIG_FID": 38
+        "Note": "Used Mobility Report WID 51100"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.44964369,
-          18.44019932,
-          -2568.9
+          77.44964369000013,
+          18.44019932000009,
+          -2568.899999999994
         ]
       }
     },
@@ -1263,7 +1230,7 @@
         "site": 4,
         "drive": 1062,
         "sol": 113,
-        "SCLK_START": 676975328,
+        "SCLK_START": 676975328.3,
         "SCLK_END": 676977861,
         "easting": 4354418.312,
         "northing": 1093002.356,
@@ -1282,15 +1249,14 @@
         "dist_km": 0.69,
         "dist_mi": 0.43,
         "final": "y",
-        "Note": "Used Mobility Report WID 41131",
-        "ORIG_FID": 39
+        "Note": "Used Mobility Report WID 41131"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.44953798,
-          18.43961086,
-          -2569.137
+          77.44953798000006,
+          18.439610860000073,
+          -2569.1370000000024
         ]
       }
     },
@@ -1301,8 +1267,8 @@
         "site": 4,
         "drive": 1250,
         "sol": 116,
-        "SCLK_START": 677240397,
-        "SCLK_END": 677242716,
+        "SCLK_START": 677240396.9,
+        "SCLK_END": 677242715.9,
         "easting": 4354410.67,
         "northing": 1092970.249,
         "elev_geoid": -2568.073,
@@ -1320,15 +1286,14 @@
         "dist_km": 0.75,
         "dist_mi": 0.46,
         "final": "y",
-        "Note": "Used Mobility Report WID 31161",
-        "ORIG_FID": 40
+        "Note": "Used Mobility Report WID 31161"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.44940206,
+          77.44940206000001,
           18.43906919,
-          -2568.073
+          -2568.073000000004
         ]
       }
     },
@@ -1339,8 +1304,8 @@
         "site": 4,
         "drive": 1422,
         "sol": 122,
-        "SCLK_START": 677772806,
-        "SCLK_END": 677775387,
+        "SCLK_START": 677772805.8,
+        "SCLK_END": 677775386.9,
         "easting": 4354411.196,
         "northing": 1093000.012,
         "elev_geoid": -2568.958984,
@@ -1358,15 +1323,14 @@
         "dist_km": 0.78,
         "dist_mi": 0.48,
         "final": "y",
-        "Note": "Used Mobility Report WID 31221",
-        "ORIG_FID": 41
+        "Note": "Used Mobility Report WID 31221"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.44941141,
-          18.43957131,
-          -2568.958984
+          77.4494114100001,
+          18.439571309999963,
+          -2568.9590000000026
         ]
       }
     },
@@ -1377,8 +1341,8 @@
         "site": 4,
         "drive": 1644,
         "sol": 123,
-        "SCLK_START": 677865781,
-        "SCLK_END": 677868761,
+        "SCLK_START": 677865780.7,
+        "SCLK_END": 677868760.9,
         "easting": 4354423.77,
         "northing": 1092934.074,
         "elev_geoid": -2568.479248,
@@ -1396,15 +1360,14 @@
         "dist_km": 0.85,
         "dist_mi": 0.53,
         "final": "y",
-        "Note": "Used Mobility Report WID 31231",
-        "ORIG_FID": 42
+        "Note": "Used Mobility Report WID 31231"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.44963506,
-          18.4384589,
-          -2568.479248
+          77.4496350600001,
+          18.438458899999944,
+          -2568.4792000000016
         ]
       }
     },
@@ -1415,8 +1378,8 @@
         "site": 4,
         "drive": 1712,
         "sol": 124,
-        "SCLK_START": 677951947,
-        "SCLK_END": 677952627,
+        "SCLK_START": 677951946.9,
+        "SCLK_END": 677952626.7,
         "easting": 4354419.546,
         "northing": 1092927.062,
         "elev_geoid": -2568.212891,
@@ -1434,15 +1397,14 @@
         "dist_km": 0.86,
         "dist_mi": 0.53,
         "final": "y",
-        "Note": "Used Mobility Report WID 51241",
-        "ORIG_FID": 43
+        "Note": "Used Mobility Report WID 51241"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.44955992,
-          18.4383406,
-          -2568.212891
+          77.44955992000013,
+          18.438340600000117,
+          -2568.2128999999986
         ]
       }
     },
@@ -1453,8 +1415,8 @@
         "site": 4,
         "drive": 1776,
         "sol": 126,
-        "SCLK_START": 678123681,
-        "SCLK_END": 678124739,
+        "SCLK_START": 678123681.2,
+        "SCLK_END": 678124738.8,
         "easting": 4354434.19,
         "northing": 1092909.298,
         "elev_geoid": -2568.582031,
@@ -1472,15 +1434,14 @@
         "dist_km": 0.88,
         "dist_mi": 0.55,
         "final": "y",
-        "Note": "Used Mobility Report WID 31261",
-        "ORIG_FID": 44
+        "Note": "Used Mobility Report WID 31261"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.4498204,
-          18.43804091,
-          -2568.582031
+          77.44982039999996,
+          18.43804091000004,
+          -2568.581999999995
         ]
       }
     },
@@ -1491,8 +1452,8 @@
         "site": 4,
         "drive": 1860,
         "sol": 127,
-        "SCLK_START": 678213016,
-        "SCLK_END": 678214452,
+        "SCLK_START": 678213016.5,
+        "SCLK_END": 678214451.7,
         "easting": 4354441.988,
         "northing": 1092870.189,
         "elev_geoid": -2569.112,
@@ -1510,15 +1471,14 @@
         "dist_km": 0.92,
         "dist_mi": 0.57,
         "final": "y",
-        "Note": "Used Mobility Report WID 51271",
-        "ORIG_FID": 45
+        "Note": "Used Mobility Report WID 51271"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.44995909,
-          18.43738112,
-          -2569.112
+          77.4499590900001,
+          18.43738111999994,
+          -2569.1119999999937
         ]
       }
     },
@@ -1529,8 +1489,8 @@
         "site": 4,
         "drive": 1878,
         "sol": 128,
-        "SCLK_START": 678311263,
-        "SCLK_END": 678311466,
+        "SCLK_START": 678311262.6,
+        "SCLK_END": 678311465.8,
         "easting": 4354442.314,
         "northing": 1092873.002,
         "elev_geoid": -2569.176,
@@ -1548,15 +1508,14 @@
         "dist_km": 0.93,
         "dist_mi": 0.57,
         "final": "y",
-        "Note": "Used Mobility Report WID 41281",
-        "ORIG_FID": 46
+        "Note": "Used Mobility Report WID 41281"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.44996489,
-          18.43742858,
-          -2569.176
+          77.44996489000005,
+          18.43742857999996,
+          -2569.1760000000068
         ]
       }
     },
@@ -1567,7 +1526,7 @@
         "site": 4,
         "drive": 2222,
         "sol": 129,
-        "SCLK_START": 678395957,
+        "SCLK_START": 678395957.3,
         "SCLK_END": 678398879,
         "easting": 4354467.38,
         "northing": 1092850.236,
@@ -1586,15 +1545,14 @@
         "dist_km": 0.98,
         "dist_mi": 0.61,
         "final": "y",
-        "Note": "Used Mobility Report WID 41291",
-        "ORIG_FID": 47
+        "Note": "Used Mobility Report WID 41291"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45041072,
-          18.4370445,
-          -2569.245
+          77.45041071999998,
+          18.437044500000013,
+          -2569.2449999999953
         ]
       }
     },
@@ -1605,8 +1563,8 @@
         "site": 5,
         "drive": 0,
         "sol": 130,
-        "SCLK_START": 678480310,
-        "SCLK_END": 678485825,
+        "SCLK_START": 678480309.9,
+        "SCLK_END": 678485824.8,
         "easting": 4354541.286,
         "northing": 1092773.812,
         "elev_geoid": -2570.633545,
@@ -1624,15 +1582,14 @@
         "dist_km": 1.1,
         "dist_mi": 0.68,
         "final": "y",
-        "Note": "Used Mobility Report WID 41301",
-        "ORIG_FID": 48
+        "Note": "Used Mobility Report WID 41301"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45172525,
-          18.43575518,
-          -2570.633545
+          77.45172525000004,
+          18.435755180000058,
+          -2570.6334999999963
         ]
       }
     },
@@ -1643,8 +1600,8 @@
         "site": 5,
         "drive": 500,
         "sol": 131,
-        "SCLK_START": 678568789,
-        "SCLK_END": 678572859,
+        "SCLK_START": 678568788.6,
+        "SCLK_END": 678572859.4,
         "easting": 4354559.375,
         "northing": 1092671.686,
         "elev_geoid": -2573.353516,
@@ -1662,15 +1619,14 @@
         "dist_km": 1.21,
         "dist_mi": 0.75,
         "final": "y",
-        "Note": "Used Mobility Report WID 31311",
-        "ORIG_FID": 49
+        "Note": "Used Mobility Report WID 31311"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45204699,
-          18.43403225,
-          -2573.353516
+          77.45204698999999,
+          18.434032249999973,
+          -2573.3534999999974
         ]
       }
     },
@@ -1681,8 +1637,8 @@
         "site": 5,
         "drive": 894,
         "sol": 134,
-        "SCLK_START": 678834882,
-        "SCLK_END": 678838213,
+        "SCLK_START": 678834882.1,
+        "SCLK_END": 678838212.9,
         "easting": 4354573.279,
         "northing": 1092579.398,
         "elev_geoid": -2575.161621,
@@ -1700,15 +1656,14 @@
         "dist_km": 1.3,
         "dist_mi": 0.81,
         "final": "y",
-        "Note": "Used Mobility Report WID 41341",
-        "ORIG_FID": 50
+        "Note": "Used Mobility Report WID 41341"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45229429,
-          18.4324753,
-          -2575.161621
+          77.45229429000005,
+          18.432475300000135,
+          -2575.1616000000067
         ]
       }
     },
@@ -1719,7 +1674,7 @@
         "site": 5,
         "drive": 1388,
         "sol": 135,
-        "SCLK_START": 678924230,
+        "SCLK_START": 678924229.6,
         "SCLK_END": 678928459,
         "easting": 4354565.102,
         "northing": 1092500.047,
@@ -1738,15 +1693,14 @@
         "dist_km": 1.41,
         "dist_mi": 0.87,
         "final": "y",
-        "Note": "Used Mobility Report WID 41351",
-        "ORIG_FID": 51
+        "Note": "Used Mobility Report WID 41351"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45214885,
+          77.45214885000007,
           18.4311366,
-          -2580.235
+          -2580.2350000000006
         ]
       }
     },
@@ -1757,8 +1711,8 @@
         "site": 5,
         "drive": 1572,
         "sol": 136,
-        "SCLK_START": 679015138,
-        "SCLK_END": 679017717,
+        "SCLK_START": 679015138.4,
+        "SCLK_END": 679017716.8,
         "easting": 4354559.214,
         "northing": 1092466.152,
         "elev_geoid": -2582.629883,
@@ -1776,15 +1730,14 @@
         "dist_km": 1.44,
         "dist_mi": 0.9,
         "final": "y",
-        "Note": "Used Mobility Report WID 41361",
-        "ORIG_FID": 52
+        "Note": "Used Mobility Report WID 41361"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45204413,
-          18.43056477,
-          -2582.629883
+          77.45204412999993,
+          18.43056476999999,
+          -2582.6299
         ]
       }
     },
@@ -1795,8 +1748,8 @@
         "site": 5,
         "drive": 1812,
         "sol": 137,
-        "SCLK_START": 679100159,
-        "SCLK_END": 679102859,
+        "SCLK_START": 679100159.2,
+        "SCLK_END": 679102859.4,
         "easting": 4354565.203,
         "northing": 1092431.417,
         "elev_geoid": -2583.791504,
@@ -1814,15 +1767,14 @@
         "dist_km": 1.48,
         "dist_mi": 0.92,
         "final": "y",
-        "Note": "Used Mobility Report WID 31371",
-        "ORIG_FID": 53
+        "Note": "Used Mobility Report WID 31371"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45215065,
+          77.45215065000008,
           18.42997877,
-          -2583.791504
+          -2583.7915000000066
         ]
       }
     },
@@ -1833,8 +1785,8 @@
         "site": 5,
         "drive": 2296,
         "sol": 153,
-        "SCLK_START": 680523838,
-        "SCLK_END": 680527823,
+        "SCLK_START": 680523837.7,
+        "SCLK_END": 680527822.6,
         "easting": 4354558.357,
         "northing": 1092336.2,
         "elev_geoid": -2585.869629,
@@ -1852,15 +1804,14 @@
         "dist_km": 1.58,
         "dist_mi": 0.98,
         "final": "y",
-        "Note": "Used Mobility Report WID 31531",
-        "ORIG_FID": 54
+        "Note": "Used Mobility Report WID 31531"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45202888,
-          18.42837239,
-          -2585.869629
+          77.45202888000011,
+          18.428372390000106,
+          -2585.8696000000054
         ]
       }
     },
@@ -1871,8 +1822,8 @@
         "site": 5,
         "drive": 2512,
         "sol": 155,
-        "SCLK_START": 680706589,
-        "SCLK_END": 680708648,
+        "SCLK_START": 680706588.6,
+        "SCLK_END": 680708647.6,
         "easting": 4354532.897,
         "northing": 1092300.915,
         "elev_geoid": -2585.086914,
@@ -1890,15 +1841,14 @@
         "dist_km": 1.63,
         "dist_mi": 1.01,
         "final": "y",
-        "Note": "Used Mobility Report WID 41551",
-        "ORIG_FID": 55
+        "Note": "Used Mobility Report WID 41551"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45157603,
-          18.42777713,
-          -2585.086914
+          77.45157603000013,
+          18.427777130000038,
+          -2585.086899999995
         ]
       }
     },
@@ -1909,8 +1859,8 @@
         "site": 6,
         "drive": 0,
         "sol": 157,
-        "SCLK_START": 680880674,
-        "SCLK_END": 680881445,
+        "SCLK_START": 680880673.9,
+        "SCLK_END": 680881444.8,
         "easting": 4354537.045,
         "northing": 1092296.026,
         "elev_geoid": -2584.922,
@@ -1928,15 +1878,14 @@
         "dist_km": 1.63,
         "dist_mi": 1.01,
         "final": "y",
-        "Note": "Used Mobility Report WID 31571",
-        "ORIG_FID": 56
+        "Note": "Used Mobility Report WID 31571"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           77.45164982,
-          18.42769464,
-          -2584.922
+          18.42769463999997,
+          -2584.922000000006
         ]
       }
     },
@@ -1947,8 +1896,8 @@
         "site": 6,
         "drive": 170,
         "sol": 168,
-        "SCLK_START": 681860585,
-        "SCLK_END": 681862949,
+        "SCLK_START": 681860585.3,
+        "SCLK_END": 681862948.7,
         "easting": 4354534.617,
         "northing": 1092269.875,
         "elev_geoid": -2582.788,
@@ -1966,15 +1915,14 @@
         "dist_km": 1.66,
         "dist_mi": 1.03,
         "final": "y",
-        "Note": "Used Mobility Report WID 31681",
-        "ORIG_FID": 57
+        "Note": "Used Mobility Report WID 31681"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45160663,
-          18.42725346,
-          -2582.788
+          77.45160663000001,
+          18.427253460000088,
+          -2582.7880000000005
         ]
       }
     },
@@ -1985,8 +1933,8 @@
         "site": 6,
         "drive": 410,
         "sol": 169,
-        "SCLK_START": 681946670,
-        "SCLK_END": 681949126,
+        "SCLK_START": 681946669.8,
+        "SCLK_END": 681949125.9,
         "easting": 4354489.589,
         "northing": 1092292.916,
         "elev_geoid": -2585.462891,
@@ -2004,15 +1952,14 @@
         "dist_km": 1.72,
         "dist_mi": 1.07,
         "final": "y",
-        "Note": "Used Mobility Report WID 31691",
-        "ORIG_FID": 58
+        "Note": "Used Mobility Report WID 31691"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45080574,
-          18.42764218,
-          -2585.462891
+          77.45080573999996,
+          18.427642180000078,
+          -2585.4628999999986
         ]
       }
     },
@@ -2023,8 +1970,8 @@
         "site": 6,
         "drive": 892,
         "sol": 170,
-        "SCLK_START": 682030684,
-        "SCLK_END": 682034769,
+        "SCLK_START": 682030683.8,
+        "SCLK_END": 682034769.3,
         "easting": 4354399.401,
         "northing": 1092340.214,
         "elev_geoid": -2585.785156,
@@ -2042,15 +1989,14 @@
         "dist_km": 1.82,
         "dist_mi": 1.13,
         "final": "y",
-        "Note": "Used Mobility Report WID 31701",
-        "ORIG_FID": 59
+        "Note": "Used Mobility Report WID 31701"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.44920162,
+          77.44920162000011,
           18.42844012,
-          -2585.785156
+          -2585.7851999999984
         ]
       }
     },
@@ -2061,8 +2007,8 @@
         "site": 6,
         "drive": 1450,
         "sol": 171,
-        "SCLK_START": 682118561,
-        "SCLK_END": 682123142,
+        "SCLK_START": 682118560.7,
+        "SCLK_END": 682123142.2,
         "easting": 4354313.697,
         "northing": 1092405.858,
         "elev_geoid": -2583.671631,
@@ -2080,15 +2026,14 @@
         "dist_km": 1.93,
         "dist_mi": 1.2,
         "final": "y",
-        "Note": "Used Mobility Report WID 41711",
-        "ORIG_FID": 60
+        "Note": "Used Mobility Report WID 41711"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.44767726,
-          18.42954757,
-          -2583.671631
+          77.44767725999992,
+          18.42954757000001,
+          -2583.6716000000015
         ]
       }
     },
@@ -2099,8 +2044,8 @@
         "site": 6,
         "drive": 1648,
         "sol": 173,
-        "SCLK_START": 682302767,
-        "SCLK_END": 682305214,
+        "SCLK_START": 682302766.8,
+        "SCLK_END": 682305213.9,
         "easting": 4354278.209,
         "northing": 1092409.67,
         "elev_geoid": -2581.385254,
@@ -2118,15 +2063,14 @@
         "dist_km": 1.97,
         "dist_mi": 1.23,
         "final": "y",
-        "Note": "Used Mobility Report WID 51731",
-        "ORIG_FID": 61
+        "Note": "Used Mobility Report WID 51731"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.44704605,
-          18.42961188,
-          -2581.385254
+          77.44704604999993,
+          18.42961187999998,
+          -2581.3852999999945
         ]
       }
     },
@@ -2137,8 +2081,8 @@
         "site": 6,
         "drive": 1752,
         "sol": 175,
-        "SCLK_START": 682480556,
-        "SCLK_END": 682481757,
+        "SCLK_START": 682480555.9,
+        "SCLK_END": 682481757.4,
         "easting": 4354263.98,
         "northing": 1092412.611,
         "elev_geoid": -2579.604,
@@ -2156,15 +2100,14 @@
         "dist_km": 1.99,
         "dist_mi": 1.24,
         "final": "y",
-        "Note": "Used Mobility Report WID 41760",
-        "ORIG_FID": 62
+        "Note": "Used Mobility Report WID 41760"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           77.44679297,
           18.4296615,
-          -2579.604
+          -2579.6040000000066
         ]
       }
     },
@@ -2175,7 +2118,7 @@
         "site": 6,
         "drive": 2250,
         "sol": 177,
-        "SCLK_START": 682659727,
+        "SCLK_START": 682659726.7,
         "SCLK_END": 682663555,
         "easting": 4354188.752,
         "northing": 1092463.137,
@@ -2194,15 +2137,14 @@
         "dist_km": 2.09,
         "dist_mi": 1.3,
         "final": "y",
-        "Note": "Used Mobility Report WID 41771",
-        "ORIG_FID": 63
+        "Note": "Used Mobility Report WID 41771"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.44545493,
+          77.4454549300001,
           18.43051391,
-          -2579.368
+          -2579.368000000002
         ]
       }
     },
@@ -2213,8 +2155,8 @@
         "site": 6,
         "drive": 2666,
         "sol": 178,
-        "SCLK_START": 682744179,
-        "SCLK_END": 682748748,
+        "SCLK_START": 682744178.8,
+        "SCLK_END": 682748748.4,
         "easting": 4354124.422,
         "northing": 1092481.61,
         "elev_geoid": -2574.667037,
@@ -2232,15 +2174,14 @@
         "dist_km": 2.17,
         "dist_mi": 1.35,
         "final": "y",
-        "Note": "Used Mobility Report WID41781",
-        "ORIG_FID": 64
+        "Note": "Used Mobility Report WID41781"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.44431073,
-          18.43082556,
-          -2574.667037
+          77.4443107300001,
+          18.430825560000073,
+          -2574.6670000000013
         ]
       }
     },
@@ -2251,8 +2192,8 @@
         "site": 7,
         "drive": 0,
         "sol": 180,
-        "SCLK_START": 682923002,
-        "SCLK_END": 682924014,
+        "SCLK_START": 682923001.8,
+        "SCLK_END": 682924013.6,
         "easting": 4354127.515,
         "northing": 1092476.503,
         "elev_geoid": -2574.524414,
@@ -2270,15 +2211,14 @@
         "dist_km": 2.18,
         "dist_mi": 1.35,
         "final": "y",
-        "Note": "Used Mobility Report WID 31801",
-        "ORIG_FID": 65
+        "Note": "Used Mobility Report WID 31801"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.44436574,
-          18.43073939,
-          -2574.524414
+          77.44436574000002,
+          18.430739390000042,
+          -2574.524399999995
         ]
       }
     },
@@ -2290,7 +2230,7 @@
         "drive": 346,
         "sol": 199,
         "SCLK_START": 684608465,
-        "SCLK_END": 684611271,
+        "SCLK_END": 684611270.6,
         "easting": 4354068.95,
         "northing": 1092505.595,
         "elev_geoid": -2574.186,
@@ -2308,15 +2248,14 @@
         "dist_km": 2.25,
         "dist_mi": 1.4,
         "final": "y",
-        "Note": "Used Mobility Report WID 31991",
-        "ORIG_FID": 66
+        "Note": "Used Mobility Report WID 31991"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.44332408,
-          18.4312302,
-          -2574.186
+          77.44332408000002,
+          18.43123020000013,
+          -2574.1860000000015
         ]
       }
     },
@@ -2327,8 +2266,8 @@
         "site": 7,
         "drive": 1172,
         "sol": 200,
-        "SCLK_START": 684693406,
-        "SCLK_END": 684699486,
+        "SCLK_START": 684693406.5,
+        "SCLK_END": 684699486.4,
         "easting": 4353920.666,
         "northing": 1092583.7,
         "elev_geoid": -2571.841,
@@ -2346,15 +2285,14 @@
         "dist_km": 2.42,
         "dist_mi": 1.51,
         "final": "y",
-        "Note": "Used Mobility Report WID 32001",
-        "ORIG_FID": 67
+        "Note": "Used Mobility Report WID 32001"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.44068664,
-          18.43254788,
-          -2571.841
+          77.44068664000008,
+          18.432547880000072,
+          -2571.8410000000003
         ]
       }
     },
@@ -2365,8 +2303,8 @@
         "site": 7,
         "drive": 1358,
         "sol": 201,
-        "SCLK_START": 684786970,
-        "SCLK_END": 684789744,
+        "SCLK_START": 684786969.8,
+        "SCLK_END": 684789743.7,
         "easting": 4353954.419,
         "northing": 1092592.835,
         "elev_geoid": -2574.247,
@@ -2384,15 +2322,14 @@
         "dist_km": 2.46,
         "dist_mi": 1.53,
         "final": "y",
-        "Note": "Used Mobility Report WID 32011",
-        "ORIG_FID": 68
+        "Note": "Used Mobility Report WID 32011"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.44128698,
-          18.43270199,
-          -2574.247
+          77.44128698000003,
+          18.432701990000055,
+          -2574.247000000003
         ]
       }
     },
@@ -2403,8 +2340,8 @@
         "site": 7,
         "drive": 1556,
         "sol": 202,
-        "SCLK_START": 684873144,
-        "SCLK_END": 684875844,
+        "SCLK_START": 684873144.4,
+        "SCLK_END": 684875843.6,
         "easting": 4353981.044,
         "northing": 1092626.708,
         "elev_geoid": -2575.186,
@@ -2422,15 +2359,14 @@
         "dist_km": 2.51,
         "dist_mi": 1.56,
         "final": "y",
-        "Note": "Used Mobility Report WID 32021",
-        "ORIG_FID": 69
+        "Note": "Used Mobility Report WID 32021"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.44176055,
-          18.43327345,
-          -2575.186
+          77.44176055000014,
+          18.43327345000006,
+          -2575.1860000000015
         ]
       }
     },
@@ -2441,8 +2377,8 @@
         "site": 7,
         "drive": 1716,
         "sol": 203,
-        "SCLK_START": 684962394,
-        "SCLK_END": 684964508,
+        "SCLK_START": 684962394.4,
+        "SCLK_END": 684964508.2,
         "easting": 4354008.453,
         "northing": 1092630.286,
         "elev_geoid": -2574.431641,
@@ -2460,15 +2396,14 @@
         "dist_km": 2.54,
         "dist_mi": 1.58,
         "final": "y",
-        "Note": "Used Mobility Report WID 32031",
-        "ORIG_FID": 70
+        "Note": "Used Mobility Report WID 32031"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.44224805,
-          18.43333382,
-          -2574.431641
+          77.44224804999999,
+          18.433333820000087,
+          -2574.4315999999963
         ]
       }
     },
@@ -2479,8 +2414,8 @@
         "site": 7,
         "drive": 1836,
         "sol": 204,
-        "SCLK_START": 685057092,
-        "SCLK_END": 685058464,
+        "SCLK_START": 685057091.9,
+        "SCLK_END": 685058463.6,
         "easting": 4354017.564,
         "northing": 1092634.105,
         "elev_geoid": -2573.581543,
@@ -2498,15 +2433,14 @@
         "dist_km": 2.56,
         "dist_mi": 1.59,
         "final": "y",
-        "Note": "Used Mobility Report WID 32041",
-        "ORIG_FID": 71
+        "Note": "Used Mobility Report WID 32041"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.4424101,
-          18.43339824,
-          -2573.581543
+          77.44241010000007,
+          18.433398240000088,
+          -2573.5815000000002
         ]
       }
     },
@@ -2517,8 +2451,8 @@
         "site": 7,
         "drive": 2050,
         "sol": 210,
-        "SCLK_START": 685587643,
-        "SCLK_END": 685590622,
+        "SCLK_START": 685587642.8,
+        "SCLK_END": 685590621.5,
         "easting": 4354001.307,
         "northing": 1092657.036,
         "elev_geoid": -2573.32,
@@ -2536,15 +2470,14 @@
         "dist_km": 2.61,
         "dist_mi": 1.62,
         "final": "y",
-        "Note": "Used Mobility Report WID 32101",
-        "ORIG_FID": 72
+        "Note": "Used Mobility Report WID 32101"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.44212095,
-          18.4337851,
-          -2573.32
+          77.44212095000012,
+          18.433785100000136,
+          -2573.320000000007
         ]
       }
     },
@@ -2555,8 +2488,8 @@
         "site": 7,
         "drive": 2246,
         "sol": 237,
-        "SCLK_START": 687984015,
-        "SCLK_END": 687986639,
+        "SCLK_START": 687984015.2,
+        "SCLK_END": 687986638.7,
         "easting": 4354031.782,
         "northing": 1092664.566,
         "elev_geoid": -2571.049561,
@@ -2574,15 +2507,14 @@
         "dist_km": 2.64,
         "dist_mi": 1.64,
         "final": "y",
-        "Note": "Used Mobility Report WID 32101",
-        "ORIG_FID": 73
+        "Note": "Used Mobility Report WID 32101"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           77.442663,
-          18.43391213,
-          -2571.049561
+          18.43391213000001,
+          -2571.0495999999985
         ]
       }
     },
@@ -2593,8 +2525,8 @@
         "site": 7,
         "drive": 2326,
         "sol": 238,
-        "SCLK_START": 688072791,
-        "SCLK_END": 688074235,
+        "SCLK_START": 688072790.7,
+        "SCLK_END": 688074234.8,
         "easting": 4354048.478,
         "northing": 1092661.839,
         "elev_geoid": -2568.981689,
@@ -2612,15 +2544,14 @@
         "dist_km": 2.66,
         "dist_mi": 1.65,
         "final": "y",
-        "Note": "Used Mobility Report WID 42381",
-        "ORIG_FID": 74
+        "Note": "Used Mobility Report WID 42381"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.44295996,
-          18.43386612,
-          -2568.981689
+          77.44295996000005,
+          18.43386612000012,
+          -2568.981700000004
         ]
       }
     },
@@ -2632,7 +2563,7 @@
         "drive": 2440,
         "sol": 239,
         "SCLK_START": 688161336,
-        "SCLK_END": 688162313,
+        "SCLK_END": 688162313.4,
         "easting": 4354051.396,
         "northing": 1092667.455,
         "elev_geoid": -2568.986084,
@@ -2650,15 +2581,14 @@
         "dist_km": 2.67,
         "dist_mi": 1.66,
         "final": "y",
-        "Note": "Used Mobility Report WID 52391",
-        "ORIG_FID": 75
+        "Note": "Used Mobility Report WID 52391"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.44301185,
-          18.43396087,
-          -2568.986084
+          77.44301185000012,
+          18.433960870000135,
+          -2568.9860999999946
         ]
       }
     },
@@ -2669,8 +2599,8 @@
         "site": 8,
         "drive": 0,
         "sol": 248,
-        "SCLK_START": 688957096,
-        "SCLK_END": 688957144,
+        "SCLK_START": 688957095.5,
+        "SCLK_END": 688957143.5,
         "easting": 4354051.81,
         "northing": 1092667.644,
         "elev_geoid": -2569.154,
@@ -2688,15 +2618,14 @@
         "dist_km": 2.67,
         "dist_mi": 1.66,
         "final": "y",
-        "Note": "Used Mobility Report WID 42490",
-        "ORIG_FID": 76
+        "Note": "Used Mobility Report WID 42490"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           77.44301922,
-          18.43396406,
-          -2569.154
+          18.43396406000005,
+          -2569.153999999995
         ]
       }
     },
@@ -2707,8 +2636,8 @@
         "site": 8,
         "drive": 64,
         "sol": 278,
-        "SCLK_START": 691615925,
-        "SCLK_END": 691616702,
+        "SCLK_START": 691615925.1,
+        "SCLK_END": 691616701.7,
         "easting": 4354054.035,
         "northing": 1092665.381,
         "elev_geoid": -2568.705811,
@@ -2726,15 +2655,14 @@
         "dist_km": 2.68,
         "dist_mi": 1.66,
         "final": "y",
-        "Note": "Used Mobility Report WID 52782",
-        "ORIG_FID": 77
+        "Note": "Used Mobility Report WID 52782"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.44305879,
-          18.43392588,
-          -2568.705811
+          77.44305879000007,
+          18.43392588000006,
+          -2568.705799999996
         ]
       }
     },
@@ -2745,8 +2673,8 @@
         "site": 8,
         "drive": 256,
         "sol": 280,
-        "SCLK_START": 691796694,
-        "SCLK_END": 691799046,
+        "SCLK_START": 691796693.8,
+        "SCLK_END": 691799046.2,
         "easting": 4354018.973,
         "northing": 1092662.365,
         "elev_geoid": -2572.029541,
@@ -2764,15 +2692,14 @@
         "dist_km": 2.71,
         "dist_mi": 1.69,
         "final": "y",
-        "Note": "Used Mobility Report WID 52801",
-        "ORIG_FID": 78
+        "Note": "Used Mobility Report WID 52801"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.44243518,
-          18.433875,
-          -2572.029541
+          77.44243518000002,
+          18.433875000000114,
+          -2572.029500000004
         ]
       }
     },
@@ -2783,8 +2710,8 @@
         "site": 8,
         "drive": 410,
         "sol": 281,
-        "SCLK_START": 691885381,
-        "SCLK_END": 691887215,
+        "SCLK_START": 691885380.6,
+        "SCLK_END": 691887215.1,
         "easting": 4353995.901,
         "northing": 1092636.686,
         "elev_geoid": -2574.433838,
@@ -2802,15 +2729,14 @@
         "dist_km": 2.75,
         "dist_mi": 1.71,
         "final": "y",
-        "Note": "Used Mobility Report WID 52811",
-        "ORIG_FID": 79
+        "Note": "Used Mobility Report WID 52811"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.4420248,
-          18.43344178,
-          -2574.433838
+          77.44202479999996,
+          18.433441779999953,
+          -2574.433799999999
         ]
       }
     },
@@ -2821,8 +2747,8 @@
         "site": 8,
         "drive": 458,
         "sol": 283,
-        "SCLK_START": 692063699,
-        "SCLK_END": 692064081,
+        "SCLK_START": 692063699.3,
+        "SCLK_END": 692064081.2,
         "easting": 4353999.068,
         "northing": 1092637.855,
         "elev_geoid": -2574.299316,
@@ -2840,15 +2766,14 @@
         "dist_km": 2.76,
         "dist_mi": 1.71,
         "final": "y",
-        "Note": "Used Mobility Report WID 32831",
-        "ORIG_FID": 80
+        "Note": "Used Mobility Report WID 32831"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.44208112,
-          18.4334615,
-          -2574.299316
+          77.44208112000001,
+          18.43346150000002,
+          -2574.2992999999988
         ]
       }
     },
@@ -2859,8 +2784,8 @@
         "site": 8,
         "drive": 734,
         "sol": 285,
-        "SCLK_START": 692241040,
-        "SCLK_END": 692244234,
+        "SCLK_START": 692241039.8,
+        "SCLK_END": 692244233.7,
         "easting": 4353963.479,
         "northing": 1092596.904,
         "elev_geoid": -2574.898438,
@@ -2878,15 +2803,14 @@
         "dist_km": 2.82,
         "dist_mi": 1.75,
         "final": "y",
-        "Note": "Used Mobility Report WID 32853",
-        "ORIG_FID": 81
+        "Note": "Used Mobility Report WID 32853"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.44144812,
-          18.43277064,
-          -2574.898438
+          77.44144812000002,
+          18.432770640000058,
+          -2574.8984000000055
         ]
       }
     },
@@ -2897,7 +2821,7 @@
         "site": 9,
         "drive": 0,
         "sol": 286,
-        "SCLK_START": 692353424,
+        "SCLK_START": 692353423.9,
         "SCLK_END": 696066928,
         "easting": 4353959.256,
         "northing": 1092590.381,
@@ -2916,14 +2840,13 @@
         "dist_km": 2.83,
         "dist_mi": 1.76,
         "final": "y",
-        "Note": "Used Mobility Report WID 32861",
-        "ORIG_FID": 82
+        "Note": "Used Mobility Report WID 32861"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.44137302,
-          18.43266059,
+          77.44137302000007,
+          18.432660590000012,
           -2574.4375
         ]
       }
@@ -2935,8 +2858,8 @@
         "site": 9,
         "drive": 82,
         "sol": 328,
-        "SCLK_START": 696067021,
-        "SCLK_END": 696067756,
+        "SCLK_START": 696067020.7,
+        "SCLK_END": 696067755.6,
         "easting": 4353961.386,
         "northing": 1092586.931,
         "elev_geoid": -2574.295,
@@ -2954,15 +2877,14 @@
         "dist_km": 2.83,
         "dist_mi": 1.76,
         "final": "y",
-        "Note": "Used Mobility Report WID 33291",
-        "ORIG_FID": 83
+        "Note": "Used Mobility Report WID 33291"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           77.4414109,
           18.43260239,
-          -2574.295
+          -2574.2949999999983
         ]
       }
     },
@@ -2973,8 +2895,8 @@
         "site": 9,
         "drive": 178,
         "sol": 333,
-        "SCLK_START": 696507523,
-        "SCLK_END": 696508484,
+        "SCLK_START": 696507522.9,
+        "SCLK_END": 696508484.5,
         "easting": 4353957.824,
         "northing": 1092587.138,
         "elev_geoid": -2574.261475,
@@ -2992,15 +2914,14 @@
         "dist_km": 2.84,
         "dist_mi": 1.77,
         "final": "y",
-        "Note": "Used Mobility Report WID 33340",
-        "ORIG_FID": 84
+        "Note": "Used Mobility Report WID 33340"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.44134754,
-          18.43260588,
-          -2574.261475
+          77.4413475400001,
+          18.432605880000096,
+          -2574.2614999999932
         ]
       }
     },
@@ -3011,8 +2932,8 @@
         "site": 9,
         "drive": 276,
         "sol": 335,
-        "SCLK_START": 696685982,
-        "SCLK_END": 696686779,
+        "SCLK_START": 696685981.6,
+        "SCLK_END": 696686779.2,
         "easting": 4353955.939,
         "northing": 1092587.327,
         "elev_geoid": -2574.224609,
@@ -3030,15 +2951,14 @@
         "dist_km": 2.85,
         "dist_mi": 1.77,
         "final": "y",
-        "Note": "Used Mobility Report WID 43351",
-        "ORIG_FID": 85
+        "Note": "Used Mobility Report WID 43351"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.44131401,
-          18.43260907,
-          -2574.224609
+          77.44131400999999,
+          18.432609070000012,
+          -2574.2246000000014
         ]
       }
     },
@@ -3049,8 +2969,8 @@
         "site": 9,
         "drive": 364,
         "sol": 340,
-        "SCLK_START": 697120888,
-        "SCLK_END": 697122301,
+        "SCLK_START": 697120888.2,
+        "SCLK_END": 697122301.1,
         "easting": 4353938.031,
         "northing": 1092591.286,
         "elev_geoid": -2573.411,
@@ -3068,15 +2988,14 @@
         "dist_km": 0,
         "dist_mi": 0,
         "final": "m",
-        "Note": "mid-drive localization",
-        "ORIG_FID": 86
+        "Note": "mid-drive localization"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.4409955,
-          18.43267586,
-          -2573.411
+          77.4409955000001,
+          18.432675860000018,
+          -2573.410999999993
         ]
       }
     },
@@ -3087,8 +3006,8 @@
         "site": 9,
         "drive": 1064,
         "sol": 340,
-        "SCLK_START": 697122301,
-        "SCLK_END": 697128124,
+        "SCLK_START": 697122301.1,
+        "SCLK_END": 697128124.4,
         "easting": 4353973.432,
         "northing": 1092499.373,
         "elev_geoid": -2573.96,
@@ -3106,15 +3025,14 @@
         "dist_km": 0,
         "dist_mi": 0,
         "final": "m",
-        "Note": "mid-drive localization",
-        "ORIG_FID": 87
+        "Note": "mid-drive localization"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.44162516,
-          18.43112523,
-          -2573.96
+          77.44162516000011,
+          18.431125230000134,
+          -2573.9600000000064
         ]
       }
     },
@@ -3125,8 +3043,8 @@
         "site": 9,
         "drive": 1554,
         "sol": 340,
-        "SCLK_START": 697128124,
-        "SCLK_END": 697132246,
+        "SCLK_START": 697128124.4,
+        "SCLK_END": 697132245.8,
         "easting": 4354061.217,
         "northing": 1092474.929,
         "elev_geoid": -2574.644,
@@ -3144,15 +3062,14 @@
         "dist_km": 3.09,
         "dist_mi": 1.92,
         "final": "y",
-        "Note": "Used Mobility Report WID 43401",
-        "ORIG_FID": 88
+        "Note": "Used Mobility Report WID 43401"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           77.44318654,
-          18.43071284,
-          -2574.644
+          18.430712840000126,
+          -2574.6440000000002
         ]
       }
     },
@@ -3163,7 +3080,7 @@
         "site": 9,
         "drive": 1914,
         "sol": 341,
-        "SCLK_START": 697211819,
+        "SCLK_START": 697211818.6,
         "SCLK_END": 697215064,
         "easting": 4354132.847,
         "northing": 1092485.742,
@@ -3182,15 +3099,14 @@
         "dist_km": 0,
         "dist_mi": 0,
         "final": "m",
-        "Note": "mid-drive localization",
-        "ORIG_FID": 89
+        "Note": "mid-drive localization"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.44446058,
-          18.43089527,
-          -2574.824
+          77.44446058000005,
+          18.43089527000012,
+          -2574.8239999999932
         ]
       }
     },
@@ -3202,7 +3118,7 @@
         "drive": 2304,
         "sol": 341,
         "SCLK_START": 697215064,
-        "SCLK_END": 697218052,
+        "SCLK_END": 697218051.6,
         "easting": 4354191.509,
         "northing": 1092455.368,
         "elev_geoid": -2579.285,
@@ -3220,15 +3136,14 @@
         "dist_km": 0,
         "dist_mi": 0,
         "final": "m",
-        "Note": "mid-drive localization",
-        "ORIG_FID": 90
+        "Note": "mid-drive localization"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.44550397,
+          77.44550397000006,
           18.43038284,
-          -2579.285
+          -2579.2850000000035
         ]
       }
     },
@@ -3239,8 +3154,8 @@
         "site": 9,
         "drive": 2818,
         "sol": 341,
-        "SCLK_START": 697218052,
-        "SCLK_END": 697222298,
+        "SCLK_START": 697218051.6,
+        "SCLK_END": 697222298.5,
         "easting": 4354261.48,
         "northing": 1092419.055,
         "elev_geoid": -2580.704346,
@@ -3258,15 +3173,14 @@
         "dist_km": 3.33,
         "dist_mi": 2.07,
         "final": "y",
-        "Note": "Used Mobility Report WID 53413",
-        "ORIG_FID": 91
+        "Note": "Used Mobility Report WID 53413"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.4467485,
-          18.42977022,
-          -2580.704346
+          77.44674850000001,
+          18.429770220000137,
+          -2580.7042999999976
         ]
       }
     },
@@ -3277,8 +3191,8 @@
         "site": 9,
         "drive": 2858,
         "sol": 342,
-        "SCLK_START": 697304811,
-        "SCLK_END": 697305411,
+        "SCLK_START": 697304810.6,
+        "SCLK_END": 697305411.4,
         "easting": 4354272.96,
         "northing": 1092413.606,
         "elev_geoid": -2581.134,
@@ -3296,15 +3210,14 @@
         "dist_km": 3.34,
         "dist_mi": 2.08,
         "final": "y",
-        "Note": "Used Mobility Report WID 53421",
-        "ORIG_FID": 92
+        "Note": "Used Mobility Report WID 53421"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.44695269,
-          18.42967829,
-          -2581.134
+          77.44695269000005,
+          18.42967828999997,
+          -2581.1340000000055
         ]
       }
     },
@@ -3315,8 +3228,8 @@
         "site": 9,
         "drive": 2948,
         "sol": 343,
-        "SCLK_START": 697393149,
-        "SCLK_END": 697394336,
+        "SCLK_START": 697393148.9,
+        "SCLK_END": 697394335.5,
         "easting": 4354281.367,
         "northing": 1092404.066,
         "elev_geoid": -2580.729,
@@ -3334,15 +3247,14 @@
         "dist_km": 0,
         "dist_mi": 0,
         "final": "m",
-        "Note": "mid-drive localization",
-        "ORIG_FID": 93
+        "Note": "mid-drive localization"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.44710222,
-          18.42951734,
-          -2580.729
+          77.44710222000015,
+          18.42951733999996,
+          -2580.7290000000066
         ]
       }
     },
@@ -3353,8 +3265,8 @@
         "site": 9,
         "drive": 2982,
         "sol": 343,
-        "SCLK_START": 697394336,
-        "SCLK_END": 697394619,
+        "SCLK_START": 697394335.5,
+        "SCLK_END": 697394618.6,
         "easting": 4354277.861,
         "northing": 1092400.408,
         "elev_geoid": -2579.959,
@@ -3372,15 +3284,14 @@
         "dist_km": 3.36,
         "dist_mi": 2.09,
         "final": "y",
-        "Note": "Used Mobility Report WID 43431",
-        "ORIG_FID": 94
+        "Note": "Used Mobility Report WID 43431"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.44703986,
+          77.44703986000013,
           18.42945563,
-          -2579.959
+          -2579.9590000000026
         ]
       }
     },
@@ -3391,7 +3302,7 @@
         "site": 9,
         "drive": 3478,
         "sol": 351,
-        "SCLK_START": 698096302,
+        "SCLK_START": 698096301.8,
         "SCLK_END": 698108702,
         "easting": 4354354.807,
         "northing": 1092371.938,
@@ -3410,15 +3321,14 @@
         "dist_km": 0,
         "dist_mi": 0,
         "final": "m",
-        "Note": "Used Mobility Report WID 53510",
-        "ORIG_FID": 95
+        "Note": "Used Mobility Report WID 53510"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.44840845,
-          18.42897532,
-          -2584.674
+          77.44840845000004,
+          18.428975320000063,
+          -2584.673999999999
         ]
       }
     },
@@ -3430,7 +3340,7 @@
         "drive": 5156,
         "sol": 351,
         "SCLK_START": 698108702,
-        "SCLK_END": 698109658,
+        "SCLK_END": 698109657.8,
         "easting": 4354577.125,
         "northing": 1092385.777,
         "elev_geoid": -2585.345,
@@ -3448,15 +3358,14 @@
         "dist_km": 0,
         "dist_mi": 0,
         "final": "m",
-        "Note": "Used Mobility Report WID 53511",
-        "ORIG_FID": 96
+        "Note": "Used Mobility Report WID 53511"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.4523627,
-          18.4292088,
-          -2585.345
+          77.45236270000004,
+          18.429208800000026,
+          -2585.345000000001
         ]
       }
     },
@@ -3467,8 +3376,8 @@
         "site": 9,
         "drive": 5676,
         "sol": 352,
-        "SCLK_START": 698186776,
-        "SCLK_END": 698190690,
+        "SCLK_START": 698186775.6,
+        "SCLK_END": 698190689.7,
         "easting": 4354573.996,
         "northing": 1092445.356,
         "elev_geoid": -2581.982,
@@ -3486,15 +3395,14 @@
         "dist_km": 3.45,
         "dist_mi": 2.14,
         "final": "y",
-        "Note": "Used Mobility Report WID 43521",
-        "ORIG_FID": 97
+        "Note": "Used Mobility Report WID 43521"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45230704,
-          18.43021393,
-          -2581.982
+          77.45230704000005,
+          18.430213930000093,
+          -2581.9820000000036
         ]
       }
     },
@@ -3505,7 +3413,7 @@
         "site": 9,
         "drive": 6214,
         "sol": 353,
-        "SCLK_START": 698275729,
+        "SCLK_START": 698275728.6,
         "SCLK_END": 698279958,
         "easting": 4354590.056,
         "northing": 1092514.777,
@@ -3524,15 +3432,14 @@
         "dist_km": 0,
         "dist_mi": 0,
         "final": "m",
-        "Note": "mid-drive localization",
-        "ORIG_FID": 98
+        "Note": "mid-drive localization"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.4525927,
+          77.45259270000003,
           18.4313851,
-          -2577.262
+          -2577.2620000000024
         ]
       }
     },
@@ -3544,7 +3451,7 @@
         "drive": 6884,
         "sol": 353,
         "SCLK_START": 698279958,
-        "SCLK_END": 698285007,
+        "SCLK_END": 698285006.6,
         "easting": 4354563.063,
         "northing": 1092601.769,
         "elev_geoid": -2575.001,
@@ -3562,15 +3469,14 @@
         "dist_km": 3.66,
         "dist_mi": 2.27,
         "final": "y",
-        "Note": "Used Mobility Report WID 53531",
-        "ORIG_FID": 99
+        "Note": "Used Mobility Report WID 53531"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45211259,
-          18.43285271,
-          -2575.001
+          77.45211259000013,
+          18.432852710000077,
+          -2575.001000000004
         ]
       }
     },
@@ -3581,7 +3487,7 @@
         "site": 9,
         "drive": 7344,
         "sol": 354,
-        "SCLK_START": 698362670,
+        "SCLK_START": 698362669.9,
         "SCLK_END": 698366324,
         "easting": 4354565.325,
         "northing": 1092687.402,
@@ -3600,15 +3506,14 @@
         "dist_km": 0,
         "dist_mi": 0,
         "final": "m",
-        "Note": "mid-drive localization",
-        "ORIG_FID": 100
+        "Note": "mid-drive localization"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45215282,
-          18.43429739,
-          -2573.031
+          77.45215282000004,
+          18.434297390000097,
+          -2573.0310000000027
         ]
       }
     },
@@ -3620,7 +3525,7 @@
         "drive": 7758,
         "sol": 354,
         "SCLK_START": 698366324,
-        "SCLK_END": 698369363,
+        "SCLK_END": 698369363.4,
         "easting": 4354550.094,
         "northing": 1092761.27,
         "elev_geoid": -2570.853,
@@ -3638,15 +3543,14 @@
         "dist_km": 0,
         "dist_mi": 0,
         "final": "m",
-        "Note": "mid-drive localization",
-        "ORIG_FID": 101
+        "Note": "mid-drive localization"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           77.45188192,
-          18.43554359,
-          -2570.853
+          18.435543589999952,
+          -2570.853000000003
         ]
       }
     },
@@ -3657,8 +3561,8 @@
         "site": 9,
         "drive": 7894,
         "sol": 354,
-        "SCLK_START": 698369363,
-        "SCLK_END": 698370268,
+        "SCLK_START": 698369363.4,
+        "SCLK_END": 698370267.8,
         "easting": 4354544.138,
         "northing": 1092783.97,
         "elev_geoid": -2570.813,
@@ -3676,15 +3580,14 @@
         "dist_km": 3.84,
         "dist_mi": 2.39,
         "final": "y",
-        "Note": "Used Mobility Report WID 53541",
-        "ORIG_FID": 102
+        "Note": "Used Mobility Report WID 53541"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45177597,
-          18.43592655,
-          -2570.813
+          77.45177596999997,
+          18.435926550000033,
+          -2570.8129999999946
         ]
       }
     },
@@ -3695,8 +3598,8 @@
         "site": 9,
         "drive": 9314,
         "sol": 355,
-        "SCLK_START": 698453748,
-        "SCLK_END": 698465134,
+        "SCLK_START": 698453747.5,
+        "SCLK_END": 698465133.9,
         "easting": 4354526.532,
         "northing": 1093030.646,
         "elev_geoid": -2569.7595,
@@ -3714,14 +3617,13 @@
         "dist_km": 4.11,
         "dist_mi": 2.56,
         "final": "y",
-        "Note": "Used Mobility Report WID 43551",
-        "ORIG_FID": 103
+        "Note": "Used Mobility Report WID 43551"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45146282,
-          18.44008813,
+          77.45146282000002,
+          18.440088130000106,
           -2569.7595
         ]
       }
@@ -3733,8 +3635,8 @@
         "site": 9,
         "drive": 9436,
         "sol": 358,
-        "SCLK_START": 698718053,
-        "SCLK_END": 698719690,
+        "SCLK_START": 698718052.8,
+        "SCLK_END": 698719690.5,
         "easting": 4354550.697,
         "northing": 1093066.315,
         "elev_geoid": -2569.71875,
@@ -3752,15 +3654,14 @@
         "dist_km": 0,
         "dist_mi": 0,
         "final": "m",
-        "Note": "Used Mobility Report WID 33591",
-        "ORIG_FID": 104
+        "Note": "Used Mobility Report WID 33591"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45189264,
-          18.44068988,
-          -2569.71875
+          77.45189264000004,
+          18.44068987999998,
+          -2569.7186999999976
         ]
       }
     },
@@ -3771,8 +3672,8 @@
         "site": 10,
         "drive": 0,
         "sol": 359,
-        "SCLK_START": 698872303,
-        "SCLK_END": 698872303,
+        "SCLK_START": 698872302.9,
+        "SCLK_END": 698872302.9,
         "easting": 4354550.697,
         "northing": 1093066.315,
         "elev_geoid": -2569.71875,
@@ -3790,15 +3691,14 @@
         "dist_km": 4.16,
         "dist_mi": 2.58,
         "final": "y",
-        "Note": "Used Mobility Report WID 33591",
-        "ORIG_FID": 105
+        "Note": "Used Mobility Report WID 33591"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45189264,
-          18.44068988,
-          -2569.71875
+          77.45189264000004,
+          18.44068987999998,
+          -2569.7186999999976
         ]
       }
     },
@@ -3809,8 +3709,8 @@
         "site": 10,
         "drive": 516,
         "sol": 360,
-        "SCLK_START": 698895755,
-        "SCLK_END": 698900530,
+        "SCLK_START": 698895755.3,
+        "SCLK_END": 698900530.5,
         "easting": 4354543.723,
         "northing": 1093151.681,
         "elev_geoid": -2569.205078,
@@ -3828,15 +3728,14 @@
         "dist_km": 0,
         "dist_mi": 0,
         "final": "m",
-        "Note": "mid-drive localization",
-        "ORIG_FID": 106
+        "Note": "mid-drive localization"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45176859,
-          18.44213006,
-          -2569.205078
+          77.45176859000009,
+          18.442130060000125,
+          -2569.2051000000065
         ]
       }
     },
@@ -3847,8 +3746,8 @@
         "site": 10,
         "drive": 1114,
         "sol": 360,
-        "SCLK_START": 698900530,
-        "SCLK_END": 698908882,
+        "SCLK_START": 698900530.5,
+        "SCLK_END": 698908881.8,
         "easting": 4354566.324,
         "northing": 1093253.994,
         "elev_geoid": -2569.2219,
@@ -3866,15 +3765,14 @@
         "dist_km": 4.36,
         "dist_mi": 2.71,
         "final": "y",
-        "Note": "Used Mobility Report WID 43601",
-        "ORIG_FID": 107
+        "Note": "Used Mobility Report WID 43601"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45217059,
-          18.44385614,
-          -2569.2219
+          77.4521705900001,
+          18.44385613999998,
+          -2569.221900000004
         ]
       }
     },
@@ -3885,8 +3783,8 @@
         "site": 11,
         "drive": 0,
         "sol": 361,
-        "SCLK_START": 698986444,
-        "SCLK_END": 698988015,
+        "SCLK_START": 698986444.5,
+        "SCLK_END": 698988014.7,
         "easting": 4354581.348,
         "northing": 1093256.238,
         "elev_geoid": -2568.722168,
@@ -3904,15 +3802,14 @@
         "dist_km": 4.38,
         "dist_mi": 2.72,
         "final": "y",
-        "Note": "Used Mobility Report WID 43611",
-        "ORIG_FID": 108
+        "Note": "Used Mobility Report WID 43611"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.4524378,
+          77.45243780000004,
           18.443894,
-          -2568.722168
+          -2568.722200000004
         ]
       }
     },
@@ -3923,7 +3820,7 @@
         "site": 11,
         "drive": 108,
         "sol": 362,
-        "SCLK_START": 699080896,
+        "SCLK_START": 699080895.5,
         "SCLK_END": 699082017,
         "easting": 4354581.159,
         "northing": 1093256.69,
@@ -3942,15 +3839,14 @@
         "dist_km": 4.39,
         "dist_mi": 2.73,
         "final": "y",
-        "Note": "Used Mobility Report WID 43621",
-        "ORIG_FID": 109
+        "Note": "Used Mobility Report WID 43621"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45243445,
-          18.44390163,
-          -2568.722168
+          77.45243445000011,
+          18.44390162999997,
+          -2568.722200000004
         ]
       }
     },
@@ -3961,7 +3857,7 @@
         "site": 11,
         "drive": 1110,
         "sol": 379,
-        "SCLK_START": 700582083,
+        "SCLK_START": 700582083.3,
         "SCLK_END": 700592792,
         "easting": 4354527.135,
         "northing": 1093394.577,
@@ -3980,15 +3876,14 @@
         "dist_km": 4.59,
         "dist_mi": 2.85,
         "final": "y",
-        "Note": "Used Mobility Report WID 33791",
-        "ORIG_FID": 110
+        "Note": "Used Mobility Report WID 33791"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           77.45147355,
-          18.44622786,
-          -2568.834
+          18.44622786000008,
+          -2568.8340000000026
         ]
       }
     },
@@ -3999,8 +3894,8 @@
         "site": 11,
         "drive": 2472,
         "sol": 380,
-        "SCLK_START": 700670890,
-        "SCLK_END": 700685089,
+        "SCLK_START": 700670890.2,
+        "SCLK_END": 700685089.1,
         "easting": 4354687.436,
         "northing": 1093558.666,
         "elev_geoid": -2569.756,
@@ -4018,15 +3913,14 @@
         "dist_km": 0,
         "dist_mi": 0,
         "final": "m",
-        "Note": "mid-drive localization",
-        "ORIG_FID": 111
+        "Note": "mid-drive localization"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           77.45432473,
-          18.44899614,
-          -2569.756
+          18.448996139999963,
+          -2569.755999999994
         ]
       }
     },
@@ -4037,8 +3931,8 @@
         "site": 12,
         "drive": 0,
         "sol": 381,
-        "SCLK_START": 700682709,
-        "SCLK_END": 700769896,
+        "SCLK_START": 700682708.8,
+        "SCLK_END": 700769895.8,
         "easting": 4354687.436,
         "northing": 1093558.666,
         "elev_geoid": -2569.756,
@@ -4056,15 +3950,14 @@
         "dist_km": 4.84,
         "dist_mi": 3.01,
         "final": "y",
-        "Note": "Used Mobility Report WID 33811",
-        "ORIG_FID": 112
+        "Note": "Used Mobility Report WID 33811"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           77.45432473,
-          18.44899614,
-          -2569.756
+          18.448996139999963,
+          -2569.755999999994
         ]
       }
     },
@@ -4075,8 +3968,8 @@
         "site": 13,
         "drive": 0,
         "sol": 382,
-        "SCLK_START": 700848408,
-        "SCLK_END": 700864120,
+        "SCLK_START": 700848408.3,
+        "SCLK_END": 700864119.8,
         "easting": 4354946.946,
         "northing": 1093689.291,
         "elev_geoid": -2571.202,
@@ -4094,15 +3987,14 @@
         "dist_km": 5.13,
         "dist_mi": 3.19,
         "final": "y",
-        "Note": "Used Mobility Report WID 53823",
-        "ORIG_FID": 113
+        "Note": "Used Mobility Report WID 53823"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45894049,
-          18.45119987,
-          -2571.202
+          77.45894048999997,
+          18.45119987000004,
+          -2571.202000000005
         ]
       }
     },
@@ -4113,8 +4005,8 @@
         "site": 13,
         "drive": 1280,
         "sol": 383,
-        "SCLK_START": 700938588,
-        "SCLK_END": 700951001,
+        "SCLK_START": 700938587.5,
+        "SCLK_END": 700951001.3,
         "easting": 4355111.055,
         "northing": 1093835.787,
         "elev_geoid": -2570.644,
@@ -4132,15 +4024,14 @@
         "dist_km": 5.37,
         "dist_mi": 3.34,
         "final": "m",
-        "Note": "PLACES",
-        "ORIG_FID": 114
+        "Note": "PLACES"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.4618594,
-          18.45367134,
-          -2570.644
+          77.4618594000001,
+          18.453671340000085,
+          -2570.6440000000002
         ]
       }
     },
@@ -4151,8 +4042,8 @@
         "site": 13,
         "drive": 2448,
         "sol": 384,
-        "SCLK_START": 701027363,
-        "SCLK_END": 701038701,
+        "SCLK_START": 701027362.6,
+        "SCLK_END": 701038700.7,
         "easting": 4355119.255,
         "northing": 1094037.232,
         "elev_geoid": -2568.77,
@@ -4170,15 +4061,14 @@
         "dist_km": 5.58,
         "dist_mi": 3.47,
         "final": "m",
-        "Note": "PLACES",
-        "ORIG_FID": 115
+        "Note": "PLACES"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.46200525,
-          18.45706984,
-          -2568.77
+          77.46200525000006,
+          18.457069840000088,
+          -2568.770000000004
         ]
       }
     },
@@ -4189,8 +4079,8 @@
         "site": 14,
         "drive": 0,
         "sol": 385,
-        "SCLK_START": 701116721,
-        "SCLK_END": 701117361,
+        "SCLK_START": 701116720.9,
+        "SCLK_END": 701117360.7,
         "easting": 4355115.428,
         "northing": 1094050.24,
         "elev_geoid": -2568.821,
@@ -4208,15 +4098,14 @@
         "dist_km": 5.59,
         "dist_mi": 3.47,
         "final": "y",
-        "Note": "Used Mobility Report WID 33851",
-        "ORIG_FID": 116
+        "Note": "Used Mobility Report WID 33851"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.46193718,
-          18.45728929,
-          -2568.821
+          77.46193718000012,
+          18.45728929000012,
+          -2568.8209999999963
         ]
       }
     },
@@ -4227,8 +4116,8 @@
         "site": 14,
         "drive": 1176,
         "sol": 386,
-        "SCLK_START": 701204912,
-        "SCLK_END": 701217246,
+        "SCLK_START": 701204911.6,
+        "SCLK_END": 701217246.4,
         "easting": 4355182.666,
         "northing": 1094257.826,
         "elev_geoid": -2567.888,
@@ -4246,15 +4135,14 @@
         "dist_km": 5.83,
         "dist_mi": 3.62,
         "final": "y",
-        "Note": "Used Mobility Report WID 53861",
-        "ORIG_FID": 117
+        "Note": "Used Mobility Report WID 53861"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.46313311,
+          77.46313310999994,
           18.4607914,
-          -2567.888
+          -2567.8880000000063
         ]
       }
     },
@@ -4265,8 +4153,8 @@
         "site": 15,
         "drive": 0,
         "sol": 387,
-        "SCLK_START": 701293747,
-        "SCLK_END": 701309391,
+        "SCLK_START": 701293747.3,
+        "SCLK_END": 701309390.8,
         "easting": 4355095.315,
         "northing": 1094476.228,
         "elev_geoid": -2567.741211,
@@ -4284,15 +4172,14 @@
         "dist_km": 6.09,
         "dist_mi": 3.78,
         "final": "y",
-        "Note": "Used Mobility Report WID 53871",
-        "ORIG_FID": 118
+        "Note": "Used Mobility Report WID 53871"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.46157944,
-          18.46447597,
-          -2567.741211
+          77.46157944000004,
+          18.464475970000024,
+          -2567.741200000004
         ]
       }
     },
@@ -4303,8 +4190,8 @@
         "site": 15,
         "drive": 1334,
         "sol": 388,
-        "SCLK_START": 701382523,
-        "SCLK_END": 701395622,
+        "SCLK_START": 701382522.7,
+        "SCLK_END": 701395622.5,
         "easting": 4354913.826,
         "northing": 1094637.585,
         "elev_geoid": -2564.694092,
@@ -4322,15 +4209,14 @@
         "dist_km": 6.34,
         "dist_mi": 3.94,
         "final": "y",
-        "Note": "Used Mobility Report WID 43881",
-        "ORIG_FID": 119
+        "Note": "Used Mobility Report WID 43881"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.4583514,
+          77.45835140000008,
           18.46719816,
-          -2564.694092
+          -2564.6940999999933
         ]
       }
     },
@@ -4342,7 +4228,7 @@
         "drive": 0,
         "sol": 389,
         "SCLK_START": 701469305,
-        "SCLK_END": 701485893,
+        "SCLK_END": 701485893.1,
         "easting": 4354693.996,
         "northing": 1094702.731,
         "elev_geoid": -2563.190186,
@@ -4360,15 +4246,14 @@
         "dist_km": 6.58,
         "dist_mi": 4.09,
         "final": "y",
-        "Note": "Used Mobility Report WID 53891",
-        "ORIG_FID": 120
+        "Note": "Used Mobility Report WID 53891"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45444141,
+          77.45444141000007,
           18.46829721,
-          -2563.190186
+          -2563.1901999999973
         ]
       }
     },
@@ -4379,7 +4264,7 @@
         "site": 17,
         "drive": 0,
         "sol": 394,
-        "SCLK_START": 701559759,
+        "SCLK_START": 701559758.6,
         "SCLK_END": 701850104,
         "easting": 4354565.589,
         "northing": 1094697.453,
@@ -4398,15 +4283,14 @@
         "dist_km": 6.71,
         "dist_mi": 4.17,
         "final": "y",
-        "Note": "Used Mobility Report WID 43940",
-        "ORIG_FID": 121
+        "Note": "Used Mobility Report WID 43940"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.45215751,
-          18.46820817,
-          -2562.116699
+          77.45215751000012,
+          18.468208170000082,
+          -2562.1166999999987
         ]
       }
     },
@@ -4417,8 +4301,8 @@
         "site": 17,
         "drive": 1064,
         "sol": 395,
-        "SCLK_START": 702002911,
-        "SCLK_END": 702013139,
+        "SCLK_START": 702002911.3,
+        "SCLK_END": 702013139.1,
         "easting": 4354370.905,
         "northing": 1094675.926,
         "elev_geoid": -2556.352051,
@@ -4436,15 +4320,14 @@
         "dist_km": 6.91,
         "dist_mi": 4.29,
         "final": "y",
-        "Note": "Used Mobility Report WID 33951",
-        "ORIG_FID": 122
+        "Note": "Used Mobility Report WID 33951"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.44869478,
+          77.4486947800001,
           18.467845,
-          -2556.352051
+          -2556.3521000000037
         ]
       }
     },
@@ -4455,8 +4338,8 @@
         "site": 18,
         "drive": 0,
         "sol": 396,
-        "SCLK_START": 702092040,
-        "SCLK_END": 702102799,
+        "SCLK_START": 702092040.3,
+        "SCLK_END": 702102798.8,
         "easting": 4354216.711,
         "northing": 1094647.802,
         "elev_geoid": -2557.742676,
@@ -4474,15 +4357,14 @@
         "dist_km": 7.07,
         "dist_mi": 4.39,
         "final": "y",
-        "Note": "Used Mobility Report WID 33961",
-        "ORIG_FID": 123
+        "Note": "Used Mobility Report WID 33961"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.44595222,
-          18.46737053,
-          -2557.742676
+          77.44595222000004,
+          18.467370530000096,
+          -2557.7427000000025
         ]
       }
     },
@@ -4493,8 +4375,8 @@
         "site": 18,
         "drive": 320,
         "sol": 397,
-        "SCLK_START": 702184808,
-        "SCLK_END": 702189942,
+        "SCLK_START": 702184808.4,
+        "SCLK_END": 702189941.6,
         "easting": 4354171.735,
         "northing": 1094613.231,
         "elev_geoid": -2557.784,
@@ -4507,20 +4389,19 @@
         "yaw": -170.322553,
         "yaw_rad": -2.9727,
         "tilt": 1.065655,
-        "dist_m": 0,
-        "dist_total": 7065.85,
-        "dist_km": 7.07,
-        "dist_mi": 4.39,
+        "dist_m": 66.696,
+        "dist_total": 7132.55,
+        "dist_km": 7.13,
+        "dist_mi": 4.43,
         "final": "y",
-        "Note": "Used Mobility Report WID 43980",
-        "ORIG_FID": 124
+        "Note": "Used Mobility Report WID 43980"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.44515226,
-          18.46678729,
-          -2557.784
+          77.4451522600001,
+          18.466787290000127,
+          -2557.7839999999997
         ]
       }
     },
@@ -4531,8 +4412,8 @@
         "site": 18,
         "drive": 1622,
         "sol": 398,
-        "SCLK_START": 702270270,
-        "SCLK_END": 702282438,
+        "SCLK_START": 702270269.5,
+        "SCLK_END": 702282438.3,
         "easting": 4354022.819,
         "northing": 1094541.902,
         "elev_geoid": -2558.496,
@@ -4545,20 +4426,56 @@
         "yaw": -119.3158,
         "yaw_rad": -2.0825,
         "tilt": 1.2433,
-        "dist_m": 0,
-        "dist_total": 7065.85,
-        "dist_km": 7.07,
-        "dist_mi": 4.39,
+        "dist_m": 230.371,
+        "dist_total": 7362.92,
+        "dist_km": 7.36,
+        "dist_mi": 4.58,
         "final": "y",
-        "Note": "Used Mobility Report WID 33981",
-        "ORIG_FID": 125
+        "Note": "Used Mobility Report WID 33981"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.44250357,
-          18.46558393,
-          -2558.496
+          77.44250356999999,
+          18.465583930000037,
+          -2558.495999999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "RMC": "19_0",
+        "site": 19,
+        "drive": 0,
+        "sol": 399,
+        "SCLK_START": 702358509.5,
+        "SCLK_END": 702372068,
+        "easting": 4353829.982,
+        "northing": 1094451.459,
+        "elev_geoid": -2556.991,
+        "elev_radii": -4243.775,
+        "radius": 3391946.23,
+        "lon": 77.43907369,
+        "lat": 18.4640581,
+        "roll": -0.819681,
+        "pitch": 1.355459,
+        "yaw": -120.664708,
+        "yaw_rad": -2.106,
+        "tilt": 1.583989,
+        "dist_m": 214.495,
+        "dist_total": 7577.41,
+        "dist_km": 7.58,
+        "dist_mi": 4.71,
+        "final": "y",
+        "Note": "Used Mobility Report WID 33991"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.43907369000004,
+          18.464058100000102,
+          -2556.9909999999945
         ]
       }
     }
