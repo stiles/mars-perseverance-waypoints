@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "name": "M20_Rover_Localizations_tosol0399",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "RMC": "19_0",
+        "site": 19,
+        "drive": 0,
+        "sol": 399,
+        "SCLK_START": 702358509.5,
+        "SCLK_END": 702372068,
+        "easting": 4353829.982,
+        "northing": 1094451.459,
+        "elev_geoid": -2556.991,
+        "elev_radii": -4243.775,
+        "radius": 3391946.23,
+        "lon": 77.43907369,
+        "lat": 18.4640581,
+        "roll": -0.819681,
+        "pitch": 1.355459,
+        "yaw": -120.664708,
+        "yaw_rad": -2.106,
+        "tilt": 1.583989,
+        "dist_m": 214.495,
+        "dist_total": 7577.41,
+        "dist_km": 7.58,
+        "dist_mi": 4.71,
+        "final": "y",
+        "Note": "Used Mobility Report WID 33991"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.43907369000004,
+          18.464058100000102,
+          -2556.9909999999945
+        ]
+      }
+    }
+  ]
+}
