@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "name": "M20_waypoints_sol405_all",
+  "name": "M20_waypoints_sol407_all",
   "features": [
     {
       "type": "Feature",
@@ -4409,6 +4409,41 @@
           77.4217825,
           18.45707811,
           -2549.868164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "RMC": "21_1126",
+        "site": 21,
+        "drive": 1126,
+        "sol": 407,
+        "easting": 4352677.976,
+        "northing": 1093937.962,
+        "elev_geoid": -2551.550537,
+        "elev_radii": -4236.529,
+        "radius": 3391953.47,
+        "lon": 77.41858363,
+        "lat": 18.4553951,
+        "roll": -0.513277121,
+        "pitch": -0.496777803,
+        "yaw": -117.3292333,
+        "yaw_rad": -2.0478,
+        "tilt": 0.714311969,
+        "dist_m": 206.773618,
+        "dist_total_m": 8878.8,
+        "dist_km": 8.88,
+        "dist_mi": 5.52,
+        "final": "y",
+        "Note": "PLACES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.41858363,
+          18.4553951,
+          -2551.550537
         ]
       }
     }
