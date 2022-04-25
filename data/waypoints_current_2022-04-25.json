@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "name": "M20_Rover_Localizations_tosol0419",
+  "name": "M20_Rover_Localizations_tosol0419_v2",
   "features": [
     {
       "type": "Feature",
@@ -24,12 +24,12 @@
         "yaw_rad": -1.3723,
         "tilt": 6.62658,
         "dist_m": 51.48,
-        "dist_total": 10131.87,
+        "dist_total": 10131.83,
         "dist_km": 10.13,
         "dist_mi": 6.3,
         "final": "y",
         "Note": "Used Mobility Report WID 44191",
-        "ORIG_FID": 144
+        "ORIG_FID": 145
       },
       "geometry": {
         "type": "Point",
