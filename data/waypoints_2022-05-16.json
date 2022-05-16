@@ -5781,12 +5781,50 @@
     {
       "type": "Feature",
       "properties": {
+        "RMC": "24_3204",
+        "site": 24,
+        "drive": 3204,
+        "sol": 434,
+        "SCLK_START": 705469788.2,
+        "SCLK_END": 705470591.2,
+        "easting": 4352105.31,
+        "northing": 1093839.444,
+        "elev_geoid": -2544.812988,
+        "elev_radii": -4229.306641,
+        "radius": 3391960.69,
+        "lon": 77.40839794,
+        "lat": 18.45373304,
+        "roll": 0.867635823,
+        "pitch": 0.72655204,
+        "yaw": -21.08014005,
+        "yaw_rad": -0.3679,
+        "tilt": 1.131666819,
+        "dist_m": 0,
+        "dist_total": 0,
+        "dist_km": 0,
+        "dist_mi": 0,
+        "final": "m",
+        "Note": "mid-drive localization",
+        "ORIG_FID": 158
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.40839794,
+          18.45373304,
+          -2544.812988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "RMC": "24_3256",
         "site": 24,
         "drive": 3256,
         "sol": 434,
-        "SCLK_START": 705469788.2,
-        "SCLK_END": 705470591.2,
+        "SCLK_START": 705470591.2,
+        "SCLK_END": 705471548.2,
         "easting": 4352112.171,
         "northing": 1093861.161,
         "elev_geoid": -2544.727051,
@@ -5805,7 +5843,7 @@
         "dist_mi": 0,
         "final": "m",
         "Note": "mid-drive localization",
-        "ORIG_FID": 158
+        "ORIG_FID": 159
       },
       "geometry": {
         "type": "Point",
@@ -5823,8 +5861,8 @@
         "site": 24,
         "drive": 3290,
         "sol": 434,
-        "SCLK_START": 705470591.2,
-        "SCLK_END": 705474459.1,
+        "SCLK_START": 705471548.2,
+        "SCLK_END": 705472939.2,
         "easting": 4352112.36,
         "northing": 1093861.576,
         "elev_geoid": -2544.689209,
@@ -5843,7 +5881,7 @@
         "dist_mi": 7,
         "final": "y",
         "Note": "Used Mobility Report WID 24351",
-        "ORIG_FID": 159
+        "ORIG_FID": 160
       },
       "geometry": {
         "type": "Point",
@@ -5881,7 +5919,7 @@
         "dist_mi": 7.07,
         "final": "y",
         "Note": "Used Mobility Report WID 34361",
-        "ORIG_FID": 160
+        "ORIG_FID": 161
       },
       "geometry": {
         "type": "Point",
@@ -5919,7 +5957,7 @@
         "dist_mi": 7.11,
         "final": "y",
         "Note": "Used Mobility Report WID 34371",
-        "ORIG_FID": 161
+        "ORIG_FID": 162
       },
       "geometry": {
         "type": "Point",
@@ -5957,7 +5995,7 @@
         "dist_mi": 0,
         "final": "m",
         "Note": "mid-drive localization",
-        "ORIG_FID": 162
+        "ORIG_FID": 163
       },
       "geometry": {
         "type": "Point",
@@ -5995,7 +6033,7 @@
         "dist_mi": 7.12,
         "final": "y",
         "Note": "Used Mobility Report WID 44391",
-        "ORIG_FID": 163
+        "ORIG_FID": 164
       },
       "geometry": {
         "type": "Point",
