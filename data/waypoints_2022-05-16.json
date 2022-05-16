@@ -5933,11 +5933,49 @@
     {
       "type": "Feature",
       "properties": {
+        "RMC": "24_4308",
+        "site": 24,
+        "drive": 4308,
+        "sol": 439,
+        "SCLK_START": 705914051.2,
+        "SCLK_END": 705916166.2,
+        "easting": 4352130.795,
+        "northing": 1094051.559,
+        "elev_geoid": -2539.058594,
+        "elev_radii": -4224.191895,
+        "radius": 3391965.81,
+        "lon": 77.40885124,
+        "lat": 18.45731155,
+        "roll": 2.032140211,
+        "pitch": 5.109813071,
+        "yaw": 20.5282054,
+        "yaw_rad": 0.3583,
+        "tilt": 5.499071145,
+        "dist_m": 0,
+        "dist_total": 0,
+        "dist_km": 0,
+        "dist_mi": 0,
+        "final": "m",
+        "Note": "mid-drive localization",
+        "ORIG_FID": 162
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.40885124,
+          18.45731155,
+          -2539.058594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "RMC": "24_4358",
         "site": 24,
         "drive": 4358,
         "sol": 439,
-        "SCLK_START": 705914051.2,
+        "SCLK_START": 705916166.2,
         "SCLK_END": 705919196.3,
         "easting": 4352132.454,
         "northing": 1094056.159,
@@ -5957,7 +5995,7 @@
         "dist_mi": 7.12,
         "final": "y",
         "Note": "Used Mobility Report WID 44391",
-        "ORIG_FID": 162
+        "ORIG_FID": 163
       },
       "geometry": {
         "type": "Point",
