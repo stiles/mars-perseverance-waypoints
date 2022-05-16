@@ -9,7 +9,7 @@
         "site": 24,
         "drive": 4358,
         "sol": 439,
-        "SCLK_START": 705914051.2,
+        "SCLK_START": 705916166.2,
         "SCLK_END": 705919196.3,
         "easting": 4352132.454,
         "northing": 1094056.159,
@@ -29,7 +29,7 @@
         "dist_mi": 7.12,
         "final": "y",
         "Note": "Used Mobility Report WID 44391",
-        "ORIG_FID": 162
+        "ORIG_FID": 163
       },
       "geometry": {
         "type": "Point",
