@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "name": "M20_waypoints_sol449_all",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "RMC": "26_0",
+        "site": 26,
+        "drive": 0,
+        "sol": 449,
+        "easting": 4351987.44,
+        "northing": 1094063.303,
+        "elev_geoid": -2534.77832,
+        "elev_radii": -4219.887695,
+        "radius": 3391970.11,
+        "lon": 77.40630146,
+        "lat": 18.45750967,
+        "roll": -5.759871,
+        "pitch": -9.254285,
+        "yaw": -153.690284,
+        "yaw_rad": -2.6824,
+        "tilt": 10.887089,
+        "dist_m": 8.54,
+        "dist_total_m": 11644.888,
+        "dist_km": 11.64,
+        "dist_mi": 7.24,
+        "final": "y",
+        "Note": "Used Mobility Report WID 44491"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.40630146,
+          18.45750967,
+          -2534.77832
+        ]
+      }
+    }
+  ]
+}
