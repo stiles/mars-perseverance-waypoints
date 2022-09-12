@@ -1,42 +1,42 @@
 {
   "type": "FeatureCollection",
-  "name": "M20_Rover_Localizations_tosol0551",
+  "name": "M20_waypoints",
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "RMC": "26_5226",
-        "site": 26,
-        "drive": 5226,
-        "sol": 551,
-        "SCLK_START": 715855859,
-        "SCLK_END": 715863159,
-        "easting": 4351901.05,
-        "northing": 1093623.555,
-        "elev_geoid": -2540.002,
-        "elev_radii": -4223.803,
-        "radius": 3391966.2,
-        "lon": 77.40476489,
-        "lat": 18.45009086,
-        "roll": 1.285892,
-        "pitch": 10.327613,
-        "yaw": -88.108669,
-        "yaw_rad": -1.5378,
-        "tilt": 10.406496,
-        "dist_m": 0.453,
-        "dist_total": 12578.514,
-        "dist_km": 12.58,
-        "dist_mi": 7.82,
+        "RMC": "27_0",
+        "site": 27,
+        "drive": 0,
+        "sol": 555,
+        "SCLK_START": 716033696,
+        "SCLK_END": 716229555,
+        "easting": 4351734.34,
+        "northing": 1093637.354,
+        "elev_geoid": -2527.36499,
+        "elev_radii": -4211.141113,
+        "radius": 3391978.86,
+        "lon": 77.40179971,
+        "lat": 18.45032366,
+        "roll": 2.969,
+        "pitch": 7.499,
+        "yaw": -118.811,
+        "yaw_rad": -2.0736,
+        "tilt": 8.062,
+        "dist_m": 219.903,
+        "dist_total": 12798.417,
+        "dist_km": 12.8,
+        "dist_mi": 7.95,
         "final": "y",
-        "Note": "Used Mobility Report WID 45511",
-        "ORIG_FID": 197
+        "Note": "Used Mobility Report WID 45551",
+        "ORIG_FID": 198
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.40476489,
-          18.45009086,
-          -2540.002
+          77.40179971,
+          18.45032366,
+          -2527.36499
         ]
       }
     }
