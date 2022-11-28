@@ -1,42 +1,53 @@
 {
   "type": "FeatureCollection",
-  "name": "M20_Rover_Localizations_tosol0609_v2",
+  "name": "M20_waypoints_sol0629_all",
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "RMC": "30_1172",
+        "RMC": "30_2188",
         "site": 30,
-        "drive": 1172,
-        "sol": 609,
-        "SCLK_START": 721017868.974,
-        "SCLK_END": -1,
-        "easting": 4351585.575,
-        "northing": 1093834.166,
-        "elev_geoid": -2517.295,
-        "elev_radii": -4201.455,
-        "radius": 3391988.55,
-        "lon": 77.39915371,
-        "lat": 18.45364399,
-        "roll": -3.017,
-        "pitch": 4.346,
-        "yaw": -106.37,
-        "yaw_rad": -1.8565,
-        "tilt": 5.289,
-        "dist_m": 12.207,
-        "dist_total": 13115.498,
-        "dist_km": 13.12,
-        "dist_mi": 8.15,
+        "drive": 2188,
+        "sol": 629,
+        "easting": 4351713.944,
+        "northing": 1093714.496,
+        "elev_geoid": -2523.83252,
+        "elev_radii": -4207.808105,
+        "radius": 3391982.192,
+        "lon": 77.40143694,
+        "lat": 18.45162509,
+        "roll": 2.81301927,
+        "pitch": -12.45549617,
+        "yaw": -179.8643594,
+        "yaw_rad": -3.139225278,
+        "tilt": 12.7643016,
+        "dist_m": 191.061,
+        "dist_total_m": 13306.559,
+        "dist_km": 13.31,
+        "dist_mi": 8.27,
         "final": "y",
-        "Note": "Used Mobility Report WID 56100",
-        "ORIG_FID": 207
+        "Note": "Used Mobility Report WID 26301",
+        "images": [
+          {
+            "name": "Panorama",
+            "isPanoramic": true,
+            "url": "Layers/mosaics/N_LRGB_0629_RZS_0302188_CYL_L_AUTOGENJ01.jpg",
+            "rows": "2495",
+            "columns": "9292",
+            "azmin": "0",
+            "azmax": "360",
+            "elmin": "-66.6939",
+            "elmax": "30",
+            "elzero": "775.352"
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.39915371,
-          18.45364399,
-          -2517.295
+          77.40143694,
+          18.45162509,
+          -2523.83252
         ]
       }
     }
