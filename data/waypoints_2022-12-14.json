@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "name": "M20_waypoints_sol0645_all",
+  "name": "M20_waypoints_sol0646_all",
   "features": [
     {
       "type": "Feature",
@@ -10312,23 +10312,23 @@
         "yaw_rad": 3.1395,
         "tilt": 8.191344,
         "dist_m": 65.981,
-        "dist_total_m": 65.981,
-        "dist_km": 0.07,
-        "dist_mi": 0.04,
+        "dist_total_m": 13513.612,
+        "dist_km": 13.51,
+        "dist_mi": 8.4,
         "final": "y",
         "Note": "Used Mobility Report WID 56451",
         "images": [
           {
             "name": "Panorama",
             "isPanoramic": true,
-            "url": "Layers/mosaics/N_LRGB_0645_RZS_0310856_CYL_L_AUTOGENJ02.jpg",
-            "rows": "4261",
-            "columns": "17642",
-            "azmin": "253.569",
-            "azmax": "235.313",
+            "url": "Layers/mosaics/N_LRGB_0645_RZS_0310856_CYL_L_AUTOGENJ04.jpg",
+            "rows": "4992",
+            "columns": "18584",
+            "azmin": "0",
+            "azmax": "360",
             "elmin": "-66.7046",
-            "elmax": "15.8503",
-            "elzero": "819.251"
+            "elmax": "30",
+            "elzero": "1549.71"
           }
         ]
       },
@@ -10338,6 +10338,55 @@
           77.40293495,
           18.45017609,
           -2532.087158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "RMC": "31_1710",
+        "site": 31,
+        "drive": 1710,
+        "sol": 646,
+        "easting": 4351899.523,
+        "northing": 1093636.035,
+        "elev_geoid": -2540.68457,
+        "elev_radii": -4224.520508,
+        "radius": 3391965.48,
+        "lon": 77.40473773,
+        "lat": 18.45030141,
+        "roll": 2.224198,
+        "pitch": -1.830076,
+        "yaw": 45.10338,
+        "yaw_rad": 0.7872,
+        "tilt": 2.880026,
+        "dist_m": 141.969,
+        "dist_total_m": 13655.581,
+        "dist_km": 13.66,
+        "dist_mi": 8.49,
+        "final": "y",
+        "Note": "Used Mobility Report WID 36461",
+        "images": [
+          {
+            "name": "Panorama",
+            "isPanoramic": true,
+            "url": "Layers/mosaics/N_LRGB_0646_RZS_0311710_CYL_L_AUTOGENJ01.jpg",
+            "rows": "2061",
+            "columns": "7581",
+            "azmin": "273.31",
+            "azmax": "207.05",
+            "elmin": "-66.5461",
+            "elmax": "13.3378",
+            "elzero": "345.271"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.40473773,
+          18.45030141,
+          -2540.68457
         ]
       }
     }
