@@ -203,7 +203,7 @@
       },
       "variables": {
         "markerIcon": {
-          "iconUrl": "https://staging-mars.nasa.gov/mmgis-maps/M20/Layers/sampletube_location_pin-01_red.png",
+          "iconUrl": "https://mars.nasa.gov/mmgis-maps/M20/Layers/sampletube_location_pin-01_red.png",
           "iconSize": [
             40,
             40
@@ -259,28 +259,6 @@
       "radius": 1
     },
     {
-      "name": "Helicopter Flight Zone",
-      "kind": "none",
-      "type": "vector",
-      "url": "https://mars.nasa.gov/mmgis-maps/M20/Layers/json/M20_Heli_flightzone_dots.json",
-      "tileformat": "tms",
-      "visibility": true,
-      "initialOpacity": 1,
-      "togglesWithHeader": true,
-      "style": {
-        "className": "helicopterflightzone",
-        "color": "#baa854",
-        "fillColor": "#baa854",
-        "weight": 3,
-        "fillOpacity": null,
-        "opacity": 1
-      },
-      "variables": {
-        "useKeyAsName": "Name"
-      },
-      "radius": 1
-    },
-    {
       "name": "Helicopter Position",
       "kind": "none",
       "type": "vector",
@@ -312,6 +290,28 @@
         }
       },
       "radius": 7
+    },
+    {
+      "name": "Helicopter Flight Zone",
+      "kind": "none",
+      "type": "vector",
+      "url": "https://mars.nasa.gov/mmgis-maps/M20/Layers/json/M20_Heli_flightzone_dots.json",
+      "tileformat": "tms",
+      "visibility": true,
+      "initialOpacity": 1,
+      "togglesWithHeader": true,
+      "style": {
+        "className": "helicopterflightzone",
+        "color": "#baa854",
+        "fillColor": "#baa854",
+        "weight": 3,
+        "fillOpacity": null,
+        "opacity": 1
+      },
+      "variables": {
+        "useKeyAsName": "Name"
+      },
+      "radius": 1
     },
     {
       "name": "Helicopter Waypoints",
@@ -384,7 +384,7 @@
       "visibility": true,
       "initialOpacity": 1,
       "togglesWithHeader": true,
-      "minZoom": 8,
+      "minZoom": 10,
       "maxNativeZoom": 19,
       "maxZoom": 19,
       "boundingBox": [
