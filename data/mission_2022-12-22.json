@@ -184,7 +184,7 @@
       "radius": 5
     },
     {
-      "name": "Rock Samples",
+      "name": "Sampling Locations",
       "kind": "none",
       "type": "vector",
       "url": "https://mars.nasa.gov/mmgis-maps/M20/Layers/json/M20_SAMPLE_v2.json",
@@ -194,7 +194,7 @@
       "initialOpacity": 1,
       "togglesWithHeader": true,
       "style": {
-        "className": "rocksamples",
+        "className": "samplinglocations",
         "color": "#333333",
         "fillColor": "#26a8ff",
         "weight": 2,
@@ -217,6 +217,28 @@
       "radius": 7
     },
     {
+      "name": "Sample Drop Zone",
+      "kind": "none",
+      "type": "vector",
+      "url": "https://mars.nasa.gov/mmgis-maps/M20/Layers/json/M20_TF_Sample_Depot.json",
+      "tileformat": "tms",
+      "visibility": false,
+      "initialOpacity": 1,
+      "togglesWithHeader": true,
+      "style": {
+        "className": "sampledropzone",
+        "color": "#78c184",
+        "fillColor": "transparent",
+        "weight": 3,
+        "fillOpacity": null,
+        "opacity": 1
+      },
+      "variables": {
+        "useKeyAsName": "Name"
+      },
+      "radius": 1
+    },
+    {
       "name": "Landing Ellipse",
       "kind": "none",
       "type": "vector",
@@ -227,7 +249,7 @@
       "togglesWithHeader": true,
       "style": {
         "className": "landingellipse",
-        "color": "#00F",
+        "color": "#52acd2",
         "fillColor": "undefined",
         "weight": 3,
         "fillOpacity": null,
