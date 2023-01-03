@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "name": "M20_waypoints_sol0658_all",
+  "name": "M20_waypoints_sol0663_all",
   "features": [
     {
       "type": "Feature",
@@ -10779,6 +10779,153 @@
           77.40805848,
           18.45267208,
           -2545.309082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "RMC": "32_402",
+        "site": 32,
+        "drive": 402,
+        "sol": 663,
+        "easting": 4352088.92,
+        "northing": 1093777.338,
+        "elev_geoid": -2545.300293,
+        "elev_radii": -4229.600586,
+        "radius": 3391960.399,
+        "lon": 77.40810642,
+        "lat": 18.45268527,
+        "roll": -0.477942121,
+        "pitch": 0.333708596,
+        "yaw": -106.2479545,
+        "yaw_rad": -1.854376629,
+        "tilt": 0.582912957,
+        "dist_m": 0,
+        "dist_total_m": 0,
+        "dist_km": 0,
+        "dist_mi": 0,
+        "final": "m",
+        "Note": "Used Mobility Report WID 36640",
+        "images": [
+          {
+            "name": "Panorama",
+            "isPanoramic": true,
+            "url": "Layers/mosaics/N_LRGB_0663_RZS_0320402_CYL_L_AUTOGENJ01.jpg",
+            "rows": "1019",
+            "columns": "2038",
+            "azmin": "176.195",
+            "azmax": "334.172",
+            "elmin": "-70.0358",
+            "elmax": "8.92461",
+            "elzero": "116.18"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.40810642,
+          18.45268527,
+          -2545.300293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "RMC": "32_432",
+        "site": 32,
+        "drive": 432,
+        "sol": 663,
+        "easting": 4352087.077,
+        "northing": 1093779.478,
+        "elev_geoid": -2545.239502,
+        "elev_radii": -4229.537598,
+        "radius": 3391960.462,
+        "lon": 77.40807364,
+        "lat": 18.45272138,
+        "roll": -0.146095574,
+        "pitch": 0.933389616,
+        "yaw": -37.79531329,
+        "yaw_rad": -0.659652659,
+        "tilt": 0.944752986,
+        "dist_m": 0,
+        "dist_total_m": 0,
+        "dist_km": 0,
+        "dist_mi": 0,
+        "final": "m",
+        "Note": "Used Mobility Report WID 36640",
+        "images": [
+          {
+            "name": "Panorama",
+            "isPanoramic": true,
+            "url": "Layers/mosaics/N_LRGB_0663_RZS_0320432_CYL_L_AUTOGENJ01.jpg",
+            "rows": "1014",
+            "columns": "1998",
+            "azmin": "288.602",
+            "azmax": "83.4182",
+            "elmin": "-68.4159",
+            "elmax": "10.2175",
+            "elzero": "132.866"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.40807364,
+          18.45272138,
+          -2545.239502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "RMC": "32_482",
+        "site": 32,
+        "drive": 482,
+        "sol": 663,
+        "easting": 4352087.506,
+        "northing": 1093781.909,
+        "elev_geoid": -2545.190918,
+        "elev_radii": -4229.471191,
+        "radius": 3391960.529,
+        "lon": 77.40808127,
+        "lat": 18.45276239,
+        "roll": 0.572825738,
+        "pitch": 0.286876309,
+        "yaw": 5.794816433,
+        "yaw_rad": 0.101138626,
+        "tilt": 0.640643896,
+        "dist_m": 8.17,
+        "dist_total_m": 13949.302,
+        "dist_km": 13.95,
+        "dist_mi": 8.67,
+        "final": "y",
+        "Note": "Used Mobility Report WID 36640",
+        "images": [
+          {
+            "name": "Panorama",
+            "isPanoramic": true,
+            "url": "Layers/mosaics/N_LRGB_0663_RZS_0320482_CYL_L_AUTOGENJ01.jpg",
+            "rows": "1092",
+            "columns": "1262",
+            "azmin": "0.883136",
+            "azmax": "25.337",
+            "elmin": "-9.2992",
+            "elmax": "11.8561",
+            "elzero": "613.056"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.40808127,
+          18.45276239,
+          -2545.190918
         ]
       }
     }
