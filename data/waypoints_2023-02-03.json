@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "name": "M20_waypoints_sol0694_all",
+  "name": "M20_waypoints_sol0695_all",
   "features": [
     {
       "type": "Feature",
@@ -11234,7 +11234,7 @@
         "northing": 1093778.997,
         "elev_geoid": -2545.319824,
         "elev_radii": -4229.584961,
-        "radius": 3391960.415,
+        "radius": 3391960.42,
         "lon": 77.40837665,
         "lat": 18.45271326,
         "roll": -0.04158495,
@@ -11283,7 +11283,7 @@
         "northing": 1093791.863,
         "elev_geoid": -2545.289551,
         "elev_radii": -4229.60498,
-        "radius": 3391960.395,
+        "radius": 3391960.4,
         "lon": 77.40846944,
         "lat": 18.45293032,
         "roll": 0.517022495,
@@ -11381,7 +11381,7 @@
         "northing": 1093793.711,
         "elev_geoid": -2545.115723,
         "elev_radii": -4229.422363,
-        "radius": 3391960.57,
+        "radius": 3391960.58,
         "lon": 77.40848461,
         "lat": 18.45296149,
         "roll": 0.493782472,
@@ -11430,7 +11430,7 @@
         "northing": 1093799.87,
         "elev_geoid": -2545.282227,
         "elev_radii": -4229.648438,
-        "radius": 3391960.57,
+        "radius": 3391960.35,
         "lon": 77.40860472,
         "lat": 18.4530654,
         "roll": 0.027679,
@@ -11577,7 +11577,7 @@
         "northing": 1093817.949,
         "elev_geoid": -2545.202637,
         "elev_radii": -4229.606934,
-        "radius": 3391960.393,
+        "radius": 3391960.39,
         "lon": 77.40844748,
         "lat": 18.4533704,
         "roll": -0.381864508,
@@ -11626,7 +11626,7 @@
         "northing": 1093820.763,
         "elev_geoid": -2545.130615,
         "elev_radii": -4229.541504,
-        "radius": 3391960.458,
+        "radius": 3391960.46,
         "lon": 77.40843951,
         "lat": 18.45341788,
         "roll": -0.626871713,
@@ -11661,6 +11661,55 @@
           77.40843951,
           18.45341788,
           -2545.130615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "RMC": "32_1214",
+        "site": 32,
+        "drive": 1214,
+        "sol": 693,
+        "easting": 4352107.656,
+        "northing": 1093820.764,
+        "elev_geoid": -2545.135,
+        "elev_radii": -4229.542,
+        "radius": 3391960.46,
+        "lon": 77.40843967,
+        "lat": 18.4534179,
+        "roll": -0.730377763,
+        "pitch": -0.38033629,
+        "yaw": -170.0482832,
+        "yaw_rad": -2.967902428,
+        "tilt": 0.823467992,
+        "dist_m": 0,
+        "dist_total_m": 0,
+        "dist_km": 0,
+        "dist_mi": 0,
+        "final": "m",
+        "Note": "Mid-drive localization",
+        "images": [
+          {
+            "name": "Panorama",
+            "isPanoramic": true,
+            "url": "",
+            "rows": "",
+            "columns": "",
+            "azmin": "",
+            "azmax": "",
+            "elmin": "",
+            "elmax": "",
+            "elzero": ""
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.40843967,
+          18.4534179,
+          -2545.135
         ]
       }
     },
@@ -11759,6 +11808,55 @@
           77.40878417,
           18.45722377,
           -2539.437256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "RMC": "33_0",
+        "site": 33,
+        "drive": 0,
+        "sol": 695,
+        "easting": 4352128.156,
+        "northing": 1094056.272,
+        "elev_geoid": -2538.486084,
+        "elev_radii": -4223.689453,
+        "radius": 3391966.311,
+        "lon": 77.40880429,
+        "lat": 18.45739106,
+        "roll": 2.566817226,
+        "pitch": 5.97728698,
+        "yaw": 1.450790893,
+        "yaw_rad": 0.025321078,
+        "tilt": 6.503275168,
+        "dist_m": 10.105,
+        "dist_total_m": 14274.768,
+        "dist_km": 14.27,
+        "dist_mi": 8.87,
+        "final": "y",
+        "Note": "Used Mobility Report WID 46960",
+        "images": [
+          {
+            "name": "Panorama",
+            "isPanoramic": true,
+            "url": "Layers/mosaics/N_LRGB_0695_RZS_0330000_CYL_L_AUTOGENJ01.jpg",
+            "rows": "4983",
+            "columns": "18584",
+            "azmin": "0",
+            "azmax": "360",
+            "elmin": "-68.0072",
+            "elmax": "28.5222",
+            "elzero": "1473.42"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.40880429,
+          18.45739106,
+          -2538.486084
         ]
       }
     }
