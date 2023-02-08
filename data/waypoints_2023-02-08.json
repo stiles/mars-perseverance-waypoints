@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "name": "M20_waypoints_sol0698_all",
+  "name": "M20_waypoints_sol0700_all",
   "features": [
     {
       "type": "Feature",
@@ -11693,14 +11693,14 @@
           {
             "name": "Panorama",
             "isPanoramic": true,
-            "url": "",
-            "rows": "",
-            "columns": "",
-            "azmin": "",
-            "azmax": "",
-            "elmin": "",
-            "elmax": "",
-            "elzero": ""
+            "url": "zcam only",
+            "rows": "0",
+            "columns": "0",
+            "azmin": "0",
+            "azmax": "0",
+            "elmin": "0",
+            "elmax": "0",
+            "elzero": "0"
           }
         ]
       },
@@ -11863,6 +11863,55 @@
     {
       "type": "Feature",
       "properties": {
+        "RMC": "33_212",
+        "site": 33,
+        "drive": 212,
+        "sol": 698,
+        "easting": 4352118.378,
+        "northing": 1094085.642,
+        "elev_geoid": -2532.342285,
+        "elev_radii": -4217.57373,
+        "radius": 3391972.43,
+        "lon": 77.40863037,
+        "lat": 18.45788655,
+        "roll": 1.984569535,
+        "pitch": 12.68918221,
+        "yaw": 8.855075404,
+        "yaw_rad": 0.1546,
+        "tilt": 12.84343651,
+        "dist_m": 0,
+        "dist_total_m": 0,
+        "dist_km": 0,
+        "dist_mi": 0,
+        "final": "m",
+        "Note": "Mid-drive localization",
+        "images": [
+          {
+            "name": "Panorama",
+            "isPanoramic": true,
+            "url": "zcam only",
+            "rows": "0",
+            "columns": "0",
+            "azmin": "0",
+            "azmax": "0",
+            "elmin": "0",
+            "elmax": "0",
+            "elzero": "0"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.40863037,
+          18.45788655,
+          -2532.342285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "RMC": "33_262",
         "site": 33,
         "drive": 262,
@@ -11908,6 +11957,181 @@
           -2531.415039
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "RMC": "33_366",
+        "site": 33,
+        "drive": 366,
+        "sol": 700,
+        "easting": 4352125.857,
+        "northing": 1094098.8,
+        "elev_geoid": -2528.163818,
+        "elev_radii": -4213.451172,
+        "radius": 3391976.55,
+        "lon": 77.40876339,
+        "lat": 18.45810853,
+        "roll": 4.972011,
+        "pitch": 19.742318,
+        "yaw": 17.484681,
+        "yaw_rad": 0.3052,
+        "tilt": 20.334536,
+        "dist_m": 12.869,
+        "dist_total_m": 14331.791,
+        "dist_km": 14.33,
+        "dist_mi": 8.91,
+        "final": "y",
+        "Note": "Used Mobility Report WID 47001",
+        "images": [
+          {
+            "name": "Panorama",
+            "isPanoramic": true,
+            "url": "Layers/mosaics/N_LRGB_0700_RZS_0330366_CYL_L_AUTOGENJ02.jpg",
+            "rows": "2492",
+            "columns": "9292",
+            "azmin": "0",
+            "azmax": "360",
+            "elmin": "-66.5625",
+            "elmax": "30",
+            "elzero": "775.357"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.40876339,
+          18.45810853,
+          -2528.163818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "RMC": "",
+        "site": 0,
+        "drive": 0,
+        "sol": 0,
+        "easting": 0,
+        "northing": 0,
+        "elev_geoid": null,
+        "elev_radii": 0,
+        "radius": 0,
+        "lon": null,
+        "lat": null,
+        "roll": 0,
+        "pitch": 0,
+        "yaw": 0,
+        "yaw_rad": 0,
+        "tilt": 0,
+        "dist_m": 0,
+        "dist_total_m": 0,
+        "dist_km": 0,
+        "dist_mi": 0,
+        "final": "",
+        "Note": "",
+        "images": [
+          {
+            "name": "Panorama",
+            "isPanoramic": true,
+            "url": "",
+            "rows": "",
+            "columns": "",
+            "azmin": "",
+            "azmax": "",
+            "elmin": "",
+            "elmax": "",
+            "elzero": ""
+          }
+        ]
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "RMC": "",
+        "site": 0,
+        "drive": 0,
+        "sol": 0,
+        "easting": 0,
+        "northing": 0,
+        "elev_geoid": null,
+        "elev_radii": 0,
+        "radius": 0,
+        "lon": null,
+        "lat": null,
+        "roll": 0,
+        "pitch": 0,
+        "yaw": 0,
+        "yaw_rad": 0,
+        "tilt": 0,
+        "dist_m": 0,
+        "dist_total_m": 0,
+        "dist_km": 0,
+        "dist_mi": 0,
+        "final": "",
+        "Note": "",
+        "images": [
+          {
+            "name": "Panorama",
+            "isPanoramic": true,
+            "url": "",
+            "rows": "",
+            "columns": "",
+            "azmin": "",
+            "azmax": "",
+            "elmin": "",
+            "elmax": "",
+            "elzero": ""
+          }
+        ]
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "RMC": "",
+        "site": 0,
+        "drive": 0,
+        "sol": 0,
+        "easting": 0,
+        "northing": 0,
+        "elev_geoid": null,
+        "elev_radii": 0,
+        "radius": 0,
+        "lon": null,
+        "lat": null,
+        "roll": 0,
+        "pitch": 0,
+        "yaw": 0,
+        "yaw_rad": 0,
+        "tilt": 0,
+        "dist_m": 0,
+        "dist_total_m": 0,
+        "dist_km": 0,
+        "dist_mi": 0,
+        "final": "",
+        "Note": "",
+        "images": [
+          {
+            "name": "Panorama",
+            "isPanoramic": true,
+            "url": "",
+            "rows": "",
+            "columns": "",
+            "azmin": "",
+            "azmax": "",
+            "elmin": "",
+            "elmax": "",
+            "elzero": ""
+          }
+        ]
+      },
+      "geometry": null
     }
   ]
 }
