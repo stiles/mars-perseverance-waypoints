@@ -5,55 +5,6 @@
     {
       "type": "Feature",
       "properties": {
-        "RMC": "33_580",
-        "site": 33,
-        "drive": 580,
-        "sol": 707,
-        "easting": 4352113.529,
-        "northing": 1094129.225,
-        "elev_geoid": -2522.91333,
-        "elev_radii": -4208.262207,
-        "radius": 3391981.74,
-        "lon": 77.40854412,
-        "lat": 18.45862182,
-        "roll": -8.123743512,
-        "pitch": 1.101327303,
-        "yaw": -77.4213785,
-        "yaw_rad": -1.3513,
-        "tilt": 8.198056506,
-        "dist_m": 0,
-        "dist_total_m": 0,
-        "dist_km": 0,
-        "dist_mi": 0,
-        "final": "m",
-        "Note": "Mid-drive localization",
-        "images": [
-          {
-            "name": "Panorama",
-            "isPanoramic": true,
-            "url": "Layers/mosaics/N_LRGB_0707_RZS_0330580_CYL_L_AUTOGENJ01.jpg",
-            "rows": "1055",
-            "columns": "1912",
-            "azmin": "210.834",
-            "azmax": "358.986",
-            "elmin": "-64.2079",
-            "elmax": "17.5949",
-            "elzero": "228.079"
-          }
-        ]
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          77.40854412,
-          18.45862182,
-          -2522.91333
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "RMC": "33_612",
         "site": 33,
         "drive": 612,
