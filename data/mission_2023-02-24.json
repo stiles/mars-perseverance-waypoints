@@ -74,7 +74,7 @@
             "view": [
               18.46332729105851,
               77.42958068847658,
-              12
+              11
             ]
           },
           {
@@ -83,7 +83,7 @@
             "view": [
               18.452288832302788,
               77.40670303437943,
-              14
+              13
             ]
           }
         ]
@@ -196,7 +196,7 @@
       },
       "variables": {
         "markerIcon": {
-          "iconUrl": "https://mars.nasa.gov/mmgis-maps/M20/Layers/sampletube_location_pin-01_red.png",
+          "iconUrl": "https://staging-mars.nasa.gov/mmgis-maps/M20/Layers/sampletube_location_pin-01_red.png",
           "iconSize": [
             40,
             40
@@ -406,7 +406,7 @@
       "visibility": true,
       "initialOpacity": 1,
       "togglesWithHeader": true,
-      "minZoom": 10,
+      "minZoom": 8,
       "maxNativeZoom": 19,
       "maxZoom": 19,
       "boundingBox": [
