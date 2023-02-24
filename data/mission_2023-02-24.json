@@ -6,13 +6,13 @@
     "view": [
       "18.46332729105851",
       "77.42958068847658",
-      "12"
+      "11"
     ],
     "radius": {
       "major": "3396190",
       "minor": "3396190"
     },
-    "mapscale": "15"
+    "mapscale": "14"
   },
   "projection": {
     "custom": false,
