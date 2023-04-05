@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "name": "M20_waypoints_sol0753_all",
+  "name": "M20_waypoints_sol0755_all",
   "features": [
     {
       "type": "Feature",
@@ -13157,7 +13157,7 @@
         "dist_total_m": 17167.902,
         "dist_km": 17.17,
         "dist_mi": 10.67,
-        "final": "y",
+        "final": "Y",
         "Note": "Used Mobility Report WID 57531",
         "images": [
           {
@@ -13180,6 +13180,104 @@
           77.37931207,
           18.47038842,
           -2442.577148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "RMC": "37_2462",
+        "site": 37,
+        "drive": 2462,
+        "sol": 755,
+        "easting": 4350374.116,
+        "northing": 1094883.99,
+        "elev_geoid": -2437.556885,
+        "elev_radii": -4124.111328,
+        "radius": 3392065.89,
+        "lon": 77.37760618,
+        "lat": 18.47135516,
+        "roll": -8.824404061,
+        "pitch": 3.847412706,
+        "yaw": -87.72064802,
+        "yaw_rad": -1.531,
+        "tilt": 9.626665652,
+        "dist_m": 0,
+        "dist_total_m": 0,
+        "dist_km": 0,
+        "dist_mi": 0,
+        "final": "m",
+        "Note": "",
+        "images": [
+          {
+            "name": "Panorama",
+            "isPanoramic": true,
+            "url": "",
+            "rows": "",
+            "columns": "",
+            "azmin": "",
+            "azmax": "",
+            "elmin": "",
+            "elmax": "",
+            "elzero": ""
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.37760618,
+          18.47135516,
+          -2437.556885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "RMC": "37_2562",
+        "site": 37,
+        "drive": 2562,
+        "sol": 755,
+        "easting": 4350360.921,
+        "northing": 1094883.462,
+        "elev_geoid": -2436.925049,
+        "elev_radii": -4123.464844,
+        "radius": 3392066.54,
+        "lon": 77.37737149,
+        "lat": 18.47134625,
+        "roll": -8.318749,
+        "pitch": 3.845297,
+        "yaw": -87.687065,
+        "yaw_rad": -1.5304,
+        "tilt": 9.164490927,
+        "dist_m": 140.994,
+        "dist_total_m": 17308.896,
+        "dist_km": 17.31,
+        "dist_mi": 10.76,
+        "final": "y",
+        "Note": "",
+        "images": [
+          {
+            "name": "Panorama",
+            "isPanoramic": true,
+            "url": "",
+            "rows": "",
+            "columns": "",
+            "azmin": "",
+            "azmax": "",
+            "elmin": "",
+            "elmax": "",
+            "elzero": ""
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.37737149,
+          18.47134625,
+          -2436.925049
         ]
       }
     }
