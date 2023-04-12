@@ -13349,10 +13349,10 @@
         "yaw": -83.994,
         "yaw_rad": -1.466,
         "tilt": 5.301,
-        "dist_m": 0,
-        "dist_total_m": 0,
-        "dist_km": 0,
-        "dist_mi": 0,
+        "dist_m": 217.681,
+        "dist_total_m": 17735.099,
+        "dist_km": 17.74,
+        "dist_mi": 11.02,
         "final": "y",
         "Note": "Used Mobility Report WID 37621",
         "images": [
@@ -13360,13 +13360,13 @@
             "name": "Panorama",
             "isPanoramic": true,
             "url": "Layers/mosaics/N_LRGB_0762_RZS_0374972_CYL_L_AUTOGENJ01.jpg",
-            "rows": "",
-            "columns": "",
-            "azmin": "",
-            "azmax": "",
-            "elmin": "",
-            "elmax": "",
-            "elzero": ""
+            "rows": "2096",
+            "columns": "7723",
+            "azmin": "150.326",
+            "azmax": "89.5317",
+            "elmin": "-66.4767",
+            "elmax": "14.7413",
+            "elzero": "381.501"
           }
         ]
       },
