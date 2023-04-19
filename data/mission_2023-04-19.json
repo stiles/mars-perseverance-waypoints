@@ -6,13 +6,13 @@
     "view": [
       "18.46332729105851",
       "77.42958068847658",
-      "11"
+      "12"
     ],
     "radius": {
       "major": "3396190",
       "minor": "3396190"
     },
-    "mapscale": "14"
+    "mapscale": "15"
   },
   "projection": {
     "custom": false,
@@ -81,8 +81,8 @@
             "name": "Current Location",
             "code": "NOW",
             "view": [
-              18.473467448245817,
-              77.3972211778164,
+              18.452288832302788,
+              77.40670303437943,
               14
             ]
           }
@@ -132,7 +132,7 @@
       "radius": 7
     },
     {
-      "name": "Rover Waypoints",
+      "name": "Waypoints",
       "kind": "none",
       "type": "vector",
       "url": "https://mars.nasa.gov/mmgis-maps/M20/Layers/json/M20_waypoints.json",
@@ -142,7 +142,7 @@
       "initialOpacity": 1,
       "togglesWithHeader": true,
       "style": {
-        "className": "roverwaypoints",
+        "className": "waypoints",
         "color": "#333333",
         "fillColor": "white",
         "weight": 1,
@@ -153,83 +153,6 @@
         "useKeyAsName": "sol"
       },
       "radius": 5
-    },
-    {
-      "name": "Rover Drive Path",
-      "kind": "none",
-      "type": "vector",
-      "url": "https://mars.nasa.gov/mmgis-maps/M20/Layers/json/M20_traverse.json",
-      "tileformat": "tms",
-      "visibility": true,
-      "initialOpacity": 1,
-      "togglesWithHeader": true,
-      "style": {
-        "className": "roverdrivepath",
-        "color": "#DDD",
-        "fillColor": "undefined",
-        "weight": 3,
-        "fillOpacity": null,
-        "opacity": 1
-      },
-      "variables": {
-        "useKeyAsName": "length"
-      },
-      "radius": 1
-    },
-    {
-      "name": "Sampling Locations",
-      "kind": "none",
-      "type": "vector",
-      "url": "https://mars.nasa.gov/mmgis-maps/M20/Layers/json/M20_SAMPLE_v2.json",
-      "tileformat": "tms",
-      "visibility": true,
-      "visibilitycutoff": 12,
-      "initialOpacity": 1,
-      "togglesWithHeader": true,
-      "style": {
-        "className": "samplinglocations",
-        "color": "#333333",
-        "fillColor": "#26a8ff",
-        "weight": 2,
-        "fillOpacity": null,
-        "opacity": 1
-      },
-      "variables": {
-        "markerIcon": {
-          "iconUrl": "https://mars.nasa.gov/mmgis-maps/M20/Layers/sampletube_location_pin-01_red.png",
-          "iconSize": [
-            40,
-            40
-          ],
-          "iconAnchor": [
-            20,
-            35
-          ]
-        }
-      },
-      "radius": 7
-    },
-    {
-      "name": "Sample Depot Zone",
-      "kind": "none",
-      "type": "vector",
-      "url": "https://mars.nasa.gov/mmgis-maps/M20/Layers/json/M20_TF_Sample_Depot.json",
-      "tileformat": "tms",
-      "visibility": false,
-      "initialOpacity": 1,
-      "togglesWithHeader": true,
-      "style": {
-        "className": "sampledepotzone",
-        "color": "#78c184",
-        "fillColor": "transparent",
-        "weight": 3,
-        "fillOpacity": null,
-        "opacity": 1
-      },
-      "variables": {
-        "useKeyAsName": "Name"
-      },
-      "radius": 1
     },
     {
       "name": "Surface View",
@@ -261,6 +184,39 @@
       "radius": 5
     },
     {
+      "name": "Rock Samples",
+      "kind": "none",
+      "type": "vector",
+      "url": "https://mars.nasa.gov/mmgis-maps/M20/Layers/json/M20_SAMPLE_v2.json",
+      "tileformat": "tms",
+      "visibility": true,
+      "visibilitycutoff": 12,
+      "initialOpacity": 1,
+      "togglesWithHeader": true,
+      "style": {
+        "className": "rocksamples",
+        "color": "#333333",
+        "fillColor": "#26a8ff",
+        "weight": 2,
+        "fillOpacity": null,
+        "opacity": 1
+      },
+      "variables": {
+        "markerIcon": {
+          "iconUrl": "https://staging-mars.nasa.gov/mmgis-maps/M20/Layers/sampletube_location_pin-01_red.png",
+          "iconSize": [
+            40,
+            40
+          ],
+          "iconAnchor": [
+            20,
+            35
+          ]
+        }
+      },
+      "radius": 7
+    },
+    {
       "name": "Landing Ellipse",
       "kind": "none",
       "type": "vector",
@@ -271,13 +227,57 @@
       "togglesWithHeader": true,
       "style": {
         "className": "landingellipse",
-        "color": "#52acd2",
+        "color": "#00F",
         "fillColor": "undefined",
         "weight": 3,
         "fillOpacity": null,
         "opacity": 1
       },
       "variables": {},
+      "radius": 1
+    },
+    {
+      "name": "Rover Path",
+      "kind": "none",
+      "type": "vector",
+      "url": "https://mars.nasa.gov/mmgis-maps/M20/Layers/json/M20_traverse.json",
+      "tileformat": "tms",
+      "visibility": true,
+      "initialOpacity": 1,
+      "togglesWithHeader": true,
+      "style": {
+        "className": "roverpath",
+        "color": "#DDD",
+        "fillColor": "undefined",
+        "weight": 3,
+        "fillOpacity": null,
+        "opacity": 1
+      },
+      "variables": {
+        "useKeyAsName": "length"
+      },
+      "radius": 1
+    },
+    {
+      "name": "Helicopter Flight Zone",
+      "kind": "none",
+      "type": "vector",
+      "url": "https://mars.nasa.gov/mmgis-maps/M20/Layers/json/M20_Heli_flightzone_dots.json",
+      "tileformat": "tms",
+      "visibility": true,
+      "initialOpacity": 1,
+      "togglesWithHeader": true,
+      "style": {
+        "className": "helicopterflightzone",
+        "color": "#baa854",
+        "fillColor": "#baa854",
+        "weight": 3,
+        "fillOpacity": null,
+        "opacity": 1
+      },
+      "variables": {
+        "useKeyAsName": "Name"
+      },
       "radius": 1
     },
     {
@@ -359,28 +359,6 @@
       "radius": 1
     },
     {
-      "name": "Flight Test Zone",
-      "kind": "none",
-      "type": "vector",
-      "url": "https://mars.nasa.gov/mmgis-maps/M20/Layers/json/M20_Heli_flightzone_dots.json",
-      "tileformat": "tms",
-      "visibility": true,
-      "initialOpacity": 1,
-      "togglesWithHeader": true,
-      "style": {
-        "className": "flighttestzone",
-        "color": "#baa854",
-        "fillColor": "#baa854",
-        "weight": 3,
-        "fillOpacity": null,
-        "opacity": 1
-      },
-      "variables": {
-        "useKeyAsName": "Name"
-      },
-      "radius": 1
-    },
-    {
       "name": "Labels",
       "type": "tile",
       "url": "https://mars.nasa.gov/mmgis-maps/M20/Layers/M20_Placenames_175k_800dpi/{z}/{x}/{y}.png",
@@ -399,25 +377,25 @@
       ]
     },
     {
-      "name": "Color Basemap",
+      "name": "Basemap",
       "type": "tile",
-      "url": "https://mars.nasa.gov/mmgis-maps/M20/Layers/M20_HiRISE_RGB_mosaic_25cm_v4p2/{z}/{x}/{y}.png",
+      "url": "https://mars.nasa.gov/mmgis-maps/M20/Layers/M20_7_HiRISE_LRGB_mosaic_v2_minmax/{z}/{x}/{y}.png",
       "tileformat": "tms",
       "visibility": true,
       "initialOpacity": 1,
       "togglesWithHeader": true,
-      "minZoom": 10,
+      "minZoom": 8,
       "maxNativeZoom": 19,
       "maxZoom": 19,
       "boundingBox": [
-        77.22866059618,
-        18.043112107888,
-        77.566601588725,
-        18.8107244168
+        77.36582186338173,
+        18.1934790628736,
+        77.53987704908882,
+        18.74111528891759
       ]
     },
     {
-      "name": "Grayscale Basemap",
+      "name": "Greyscale Basemap",
       "type": "tile",
       "url": "https://mars.nasa.gov/mmgis-maps/M20/Layers/JEZ_hirise_soc_007_orthoMosaic_25cm_Ortho_blend120/{z}/{x}/{y}.png",
       "tileformat": "tms",
@@ -435,7 +413,7 @@
       ]
     },
     {
-      "name": "Northeast Syrtis Base Map",
+      "name": "North East Syrtis Base Map",
       "type": "tile",
       "url": "https://mars.nasa.gov/mmgis-maps/M20/Layers/HMC_13E10_co5_colorcorrect_rect/{z}/{x}/{y}.png",
       "tileformat": "tms",
