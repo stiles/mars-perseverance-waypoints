@@ -13533,13 +13533,13 @@
         "site": 38,
         "drive": 2102,
         "sol": 766,
-        "easting": 4349698.353,
-        "northing": 1095678.618,
-        "elev_geoid": -2414.823486,
-        "elev_radii": -4103.229004,
-        "radius": 3392086.77,
-        "lon": 77.36558678,
-        "lat": 18.48476102,
+        "easting": 4349904.566,
+        "northing": 1095387.826,
+        "elev_geoid": -2419.933152,
+        "elev_radii": -4107.583496,
+        "radius": 3392082.42,
+        "lon": 77.36925457,
+        "lat": 18.47985517,
         "roll": 1.610265545,
         "pitch": 3.142670003,
         "yaw": 8.422492629,
@@ -13569,9 +13569,9 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.36558678,
-          18.48476102,
-          -2414.823486
+          77.36925457,
+          18.47985517,
+          -2419.933152
         ]
       }
     },
@@ -13751,7 +13751,7 @@
           {
             "name": "Panorama",
             "isPanoramic": true,
-            "url": "Layers/mosaics/N_LRGB_0775_RZS_0390690_CYL_L_AUTOGENJ01.tif",
+            "url": "Layers/mosaics/N_LRGB_0775_RZS_0390690_CYL_L_AUTOGENJ01.jpg",
             "rows": "2386",
             "columns": "9292",
             "azmin": "0",
