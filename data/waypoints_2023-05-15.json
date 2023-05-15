@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "name": "M20_waypoints_sol0784_all",
+  "name": "M20_waypoints_sol0793_all",
   "features": [
     {
       "type": "Feature",
@@ -13774,6 +13774,55 @@
     {
       "type": "Feature",
       "properties": {
+        "RMC": "39_858",
+        "site": 39,
+        "drive": 858,
+        "sol": 784,
+        "easting": 4349873.061,
+        "northing": 1095562.174,
+        "elev_geoid": -2422.618652,
+        "elev_radii": -4110.881836,
+        "radius": 3392079.12,
+        "lon": 77.36869421,
+        "lat": 18.48279654,
+        "roll": -3.453990013,
+        "pitch": 7.938222685,
+        "yaw": -137.9450995,
+        "yaw_rad": -2.4076,
+        "tilt": 8.657102657,
+        "dist_m": 0,
+        "dist_total_m": 0,
+        "dist_km": 0,
+        "dist_mi": 0,
+        "final": "m",
+        "Note": "Mid-drive localization",
+        "images": [
+          {
+            "name": "Panorama",
+            "isPanoramic": true,
+            "url": "Layers/mosaics/N_LRGB_0784_RZS_0390858_CYL_L_AUTOGENJ01.jpg",
+            "rows": "1001",
+            "columns": "1764",
+            "azmin": "155.277",
+            "azmax": "291.964",
+            "elmin": "-58.3793",
+            "elmax": "19.2064",
+            "elzero": "248.876"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.36869421,
+          18.48279654,
+          -2422.618652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "RMC": "39_926",
         "site": 39,
         "drive": 926,
@@ -13790,8 +13839,8 @@
         "yaw": -139.113,
         "yaw_rad": -2.428,
         "tilt": 11.142,
-        "dist_m": 25.285,
-        "dist_total_m": 18588.201,
+        "dist_m": 25.362,
+        "dist_total_m": 18588.278,
         "dist_km": 18.59,
         "dist_mi": 11.55,
         "final": "y",
@@ -13800,14 +13849,14 @@
           {
             "name": "Panorama",
             "isPanoramic": true,
-            "url": "Layers/mosaics/N_LRGB_0784_RZS_0390926_CYL_L_AUTOGENJ01.jpg",
-            "rows": "",
-            "columns": "",
-            "azmin": "",
-            "azmax": "",
-            "elmin": "",
-            "elmax": "",
-            "elzero": ""
+            "url": "Layers/mosaics/N_LRGB_0784_RZS_0390926_CYL_L_AUTOGENJ02.jpg",
+            "rows": "1246",
+            "columns": "4646",
+            "azmin": "0",
+            "azmax": "360",
+            "elmin": "-66.5686",
+            "elmax": "30",
+            "elzero": "388.178"
           }
         ]
       },
@@ -13817,6 +13866,55 @@
           77.36863151,
           18.48272659,
           -2421.568848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "RMC": "39_1036",
+        "site": 39,
+        "drive": 1036,
+        "sol": 793,
+        "easting": 4349871.877,
+        "northing": 1095548.653,
+        "elev_geoid": -2421.708819,
+        "elev_radii": -4109.658691,
+        "radius": 3392080.341,
+        "lon": 77.36867315,
+        "lat": 18.48256842,
+        "roll": -4.524983108,
+        "pitch": 12.84653621,
+        "yaw": -108.0271205,
+        "yaw_rad": -1.885428934,
+        "tilt": 13.60751825,
+        "dist_m": 20.991,
+        "dist_total_m": 18609.269,
+        "dist_km": 18.61,
+        "dist_mi": 11.56,
+        "final": "y",
+        "Note": "Used Mobility Report WID 57940",
+        "images": [
+          {
+            "name": "Panorama",
+            "isPanoramic": true,
+            "url": "Layers/mosaics/N_LRGB_0793_RZS_0391036_CYL_L_AUTOGENJ03.jpg",
+            "rows": "2228",
+            "columns": "9292",
+            "azmin": "0",
+            "azmax": "360",
+            "elmin": "-66.4812",
+            "elmax": "19.8639",
+            "elzero": "513.724"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.36867315,
+          18.48256842,
+          -2421.708819
         ]
       }
     }
