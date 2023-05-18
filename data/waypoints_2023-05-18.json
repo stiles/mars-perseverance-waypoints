@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "name": "M20_waypoints_sol0795_all",
+  "name": "M20_waypoints_sol0797_all",
   "features": [
     {
       "type": "Feature",
@@ -13964,6 +13964,55 @@
           77.36864492,
           18.48264136,
           -2421.205078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "RMC": "39_1170",
+        "site": 39,
+        "drive": 1170,
+        "sol": 797,
+        "easting": 4349868.65,
+        "northing": 1095554.427,
+        "elev_geoid": -2421.071533,
+        "elev_radii": -4109.065918,
+        "radius": 3392080.934,
+        "lon": 77.36861576,
+        "lat": 18.48266584,
+        "roll": 15.06651558,
+        "pitch": -0.863706686,
+        "yaw": -24.1951008,
+        "yaw_rad": -0.422284172,
+        "tilt": 15.09067945,
+        "dist_m": 2.927,
+        "dist_total_m": 18619.627,
+        "dist_km": 18.62,
+        "dist_mi": 11.57,
+        "final": "y",
+        "Note": "Used Mobility Report WID 37971",
+        "images": [
+          {
+            "name": "Panorama",
+            "isPanoramic": true,
+            "url": "Layers/mosaics/N_LRGB_0797_RZS_0391170_CYL_L_AUTOGENJ01.jpg",
+            "rows": "2351",
+            "columns": "9292",
+            "azmin": "0",
+            "azmax": "360",
+            "elmin": "-70.9031",
+            "elmax": "20.1864",
+            "elzero": "522.049"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.36861576,
+          18.48266584,
+          -2421.071533
         ]
       }
     }
