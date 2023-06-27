@@ -14340,13 +14340,13 @@
             "name": "Panorama",
             "isPanoramic": true,
             "url": "Layers/mosaics/N_LRGB_0836_RZS_0400992_CYL_L_AUTOGENJ01.jpg",
-            "rows": "",
-            "columns": "",
-            "azmin": "",
-            "azmax": "",
-            "elmin": "",
-            "elmax": "",
-            "elzero": ""
+            "rows": "2075",
+            "columns": "7696",
+            "azmin": "80.9261",
+            "azmax": "19.1174",
+            "elmin": "-66.5179",
+            "elmax": "13.8971",
+            "elzero": "359.709"
           }
         ]
       },
