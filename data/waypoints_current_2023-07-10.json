@@ -21,8 +21,8 @@
         "yaw": 28.413,
         "yaw_rad": 0.4959,
         "tilt": 4.349,
-        "dist_m": 13.182,
-        "dist_total_m": 19002.66,
+        "dist_m": 14.243,
+        "dist_total_m": 19003.721,
         "dist_km": 19,
         "dist_mi": 11.81,
         "final": "y",
@@ -31,12 +31,12 @@
           {
             "name": "Panorama",
             "isPanoramic": true,
-            "url": "Layers/mosaics/N_LRGB_0848_RZS_0410188_CYL_L_AUTOGENJ02.jpg",
+            "url": "Layers/mosaics/N_LRGB_0848_RZS_0410188_CYL_L_AUTOGENJ03.jpg",
             "rows": "2170",
             "columns": "9292",
             "azmin": "0",
             "azmax": "360",
-            "elmin": "-69.7591",
+            "elmin": "-69.7593",
             "elmax": "14.3125",
             "elzero": "370.433"
           }
