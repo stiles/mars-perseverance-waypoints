@@ -14509,6 +14509,55 @@
     {
       "type": "Feature",
       "properties": {
+        "RMC": "41_80",
+        "site": 41,
+        "drive": 80,
+        "sol": 848,
+        "easting": 4349707.5,
+        "northing": 1095478.073,
+        "elev_geoid": -2415.498291,
+        "elev_radii": -4103.294434,
+        "radius": 3392086.71,
+        "lon": 77.36574948,
+        "lat": 18.4813777,
+        "roll": 0.607549049,
+        "pitch": 0.790491952,
+        "yaw": 1.035594645,
+        "yaw_rad": 0.0181,
+        "tilt": 0.996992163,
+        "dist_m": 0,
+        "dist_total_m": 0,
+        "dist_km": 0,
+        "dist_mi": 0,
+        "final": "m",
+        "Note": "mid-drive localization",
+        "images": [
+          {
+            "name": "Panorama",
+            "isPanoramic": true,
+            "url": "Layers/mosaics/N_LRGB_0843_RZS_0410080_CYL_L_AUTOGENJ01.jpg",
+            "rows": "1005",
+            "columns": "1930",
+            "azmin": "344.425",
+            "azmax": "134.009",
+            "elmin": "-65.6792",
+            "elmax": "12.2398",
+            "elzero": "158.966"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.36574948,
+          18.4813777,
+          -2415.498291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "RMC": "41_188",
         "site": 41,
         "drive": 188,
@@ -14525,8 +14574,8 @@
         "yaw": 28.413,
         "yaw_rad": 0.4959,
         "tilt": 4.349,
-        "dist_m": 13.182,
-        "dist_total_m": 19002.66,
+        "dist_m": 14.243,
+        "dist_total_m": 19003.721,
         "dist_km": 19,
         "dist_mi": 11.81,
         "final": "y",
@@ -14535,12 +14584,12 @@
           {
             "name": "Panorama",
             "isPanoramic": true,
-            "url": "Layers/mosaics/N_LRGB_0848_RZS_0410188_CYL_L_AUTOGENJ02.jpg",
+            "url": "Layers/mosaics/N_LRGB_0848_RZS_0410188_CYL_L_AUTOGENJ03.jpg",
             "rows": "2170",
             "columns": "9292",
             "azmin": "0",
             "azmax": "360",
-            "elmin": "-69.7591",
+            "elmin": "-69.7593",
             "elmax": "14.3125",
             "elzero": "370.433"
           }
