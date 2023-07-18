@@ -14672,24 +14672,24 @@
         "yaw": -122.281643,
         "yaw_rad": -2.134217284,
         "tilt": 1.006551194,
-        "dist_m": 10.065,
-        "dist_total_m": 19076.64,
-        "dist_km": 19.08,
-        "dist_mi": 11.85,
-        "final": "y",
+        "dist_m": 0,
+        "dist_total_m": 0,
+        "dist_km": 0,
+        "dist_mi": 0,
+        "final": "m",
         "Note": "Used Mobility Report WID 38561",
         "images": [
           {
             "name": "Panorama",
             "isPanoramic": true,
-            "url": "Layers/mosaics/.jpg",
-            "rows": "0",
-            "columns": "0",
-            "azmin": "0",
-            "azmax": "0",
-            "elmin": "0",
-            "elmax": "0",
-            "elzero": "0"
+            "url": "Layers/mosaics/N_LRGB_0856_RZS_0410672_CYL_L_AUTOGENJ01.jpg",
+            "rows": "1000",
+            "columns": "1925",
+            "azmin": "163.163",
+            "azmax": "312.348",
+            "elmin": "-65.474",
+            "elmax": "12.0137",
+            "elzero": "156.048"
           }
         ]
       },
@@ -14731,14 +14731,14 @@
           {
             "name": "Panorama",
             "isPanoramic": true,
-            "url": "Layers/mosaics/.jpg",
-            "rows": "0",
-            "columns": "0",
+            "url": "Layers/mosaics/N_LRGB_0856_RZS_0420000_CYL_L_AUTOGENJ04.jpg",
+            "rows": "4513",
+            "columns": "18584",
             "azmin": "0",
-            "azmax": "0",
-            "elmin": "0",
-            "elmax": "0",
-            "elzero": "0"
+            "azmax": "360",
+            "elmin": "-72.7226",
+            "elmax": "14.6994",
+            "elzero": "759.837"
           }
         ]
       },
