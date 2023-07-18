@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "name": "M20_waypoints_sol0854_all",
+  "name": "M20_waypoints_sol0856_all",
   "features": [
     {
       "type": "Feature",
@@ -14650,6 +14650,104 @@
           77.36494213,
           18.48114937,
           -2415.904785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "RMC": "41_672",
+        "site": 41,
+        "drive": 672,
+        "sol": 856,
+        "easting": 4349653.061,
+        "northing": 1095463.635,
+        "elev_geoid": -2415.893555,
+        "elev_radii": -4103.610352,
+        "radius": 3392086.39,
+        "lon": 77.3647812,
+        "lat": 18.48113412,
+        "roll": 0.068335461,
+        "pitch": 1.004229082,
+        "yaw": -122.281643,
+        "yaw_rad": -2.134217284,
+        "tilt": 1.006551194,
+        "dist_m": 10.065,
+        "dist_total_m": 19076.64,
+        "dist_km": 19.08,
+        "dist_mi": 11.85,
+        "final": "y",
+        "Note": "Used Mobility Report WID 38561",
+        "images": [
+          {
+            "name": "Panorama",
+            "isPanoramic": true,
+            "url": "Layers/mosaics/.jpg",
+            "rows": "0",
+            "columns": "0",
+            "azmin": "0",
+            "azmax": "0",
+            "elmin": "0",
+            "elmax": "0",
+            "elzero": "0"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3647812,
+          18.48113412,
+          -2415.893555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "RMC": "42_0",
+        "site": 42,
+        "drive": 0,
+        "sol": 856,
+        "easting": 4349648.839,
+        "northing": 1095460.958,
+        "elev_geoid": -2415.696289,
+        "elev_radii": -4103.39502,
+        "radius": 3392086.605,
+        "lon": 77.3647061,
+        "lat": 18.48108896,
+        "roll": 4.781166456,
+        "pitch": 1.182726303,
+        "yaw": -124.0495266,
+        "yaw_rad": -2.165072675,
+        "tilt": 4.924951338,
+        "dist_m": 15.07,
+        "dist_total_m": 19081.645,
+        "dist_km": 19.08,
+        "dist_mi": 11.86,
+        "final": "y",
+        "Note": "Used Mobility Report WID 38561",
+        "images": [
+          {
+            "name": "Panorama",
+            "isPanoramic": true,
+            "url": "Layers/mosaics/.jpg",
+            "rows": "0",
+            "columns": "0",
+            "azmin": "0",
+            "azmax": "0",
+            "elmin": "0",
+            "elmax": "0",
+            "elzero": "0"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3647061,
+          18.48108896,
+          -2415.696289
         ]
       }
     }
