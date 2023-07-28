@@ -22,23 +22,23 @@
         "yaw_rad": -1.3005,
         "tilt": 3.09,
         "dist_m": 119.076,
-        "dist_total_m": 0,
-        "dist_km": 0,
-        "dist_mi": 0,
+        "dist_total_m": 19200.721,
+        "dist_km": 19.2,
+        "dist_mi": 11.93,
         "final": "y",
         "Note": "Used Mobility Report WID 38661",
         "images": [
           {
             "name": "Panorama",
             "isPanoramic": true,
-            "url": "Layers/mosaics/N_LRGB_0866_RZS_0420776_CYL_L_AUTOGENJ01.jpg",
-            "rows": "",
-            "columns": "",
-            "azmin": "",
-            "azmax": "",
-            "elmin": "",
-            "elmax": "",
-            "elzero": ""
+            "url": "Layers/mosaics/N_LRGB_0866_RZS_0420776_CYL_L_AUTOGENJ03.jpg",
+            "rows": "2064",
+            "columns": "9292",
+            "azmin": "0",
+            "azmax": "360",
+            "elmin": "-66.6531",
+            "elmax": "13.3406",
+            "elzero": "345.343"
           }
         ]
       },
