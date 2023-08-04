@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "name": "M20_waypoints_sol0871_all",
+  "name": "M20_waypoints_sol0872_all",
   "features": [
     {
       "type": "Feature",
@@ -14917,8 +14917,8 @@
         "yaw": -81.05332551,
         "yaw_rad": -1.4146,
         "tilt": 3.32777196,
-        "dist_m": 76.281,
-        "dist_total_m": 19500.846,
+        "dist_m": 73.672,
+        "dist_total_m": 19498.238,
         "dist_km": 19.5,
         "dist_mi": 12.12,
         "final": "y",
@@ -14944,6 +14944,55 @@
           77.36050911,
           18.48374667,
           -2417.804443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "RMC": "43_0",
+        "site": 43,
+        "drive": 0,
+        "sol": 872,
+        "easting": 4349412.911,
+        "northing": 1095621.961,
+        "elev_geoid": -2417.996826,
+        "elev_radii": -4105.974121,
+        "radius": 3392084.03,
+        "lon": 77.36050978,
+        "lat": 18.48380518,
+        "roll": -0.935966,
+        "pitch": 4.703401,
+        "yaw": -97.593679,
+        "yaw_rad": -1.7033,
+        "tilt": 4.795624393,
+        "dist_m": 10.853,
+        "dist_total_m": 19509.091,
+        "dist_km": 19.51,
+        "dist_mi": 12.12,
+        "final": "y",
+        "Note": "Used Mobility Report WID 48730",
+        "images": [
+          {
+            "name": "Panorama",
+            "isPanoramic": true,
+            "url": "Layers/mosaics/N_LRGB_0872_RZS_0430000_CYL_L_AUTOGENJ01.jpg",
+            "rows": "2147",
+            "columns": "9292",
+            "azmin": "0",
+            "azmax": "360",
+            "elmin": "-68.9088",
+            "elmax": "14.3083",
+            "elzero": "370.324"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.36050978,
+          18.48380518,
+          -2417.996826
         ]
       }
     }
