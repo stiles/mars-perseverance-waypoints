@@ -40,7 +40,7 @@
     "primarycolor": "rgba(0,0,0,0.3)",
     "secondarycolor": "",
     "tertiarycolor": "#aaaaaa",
-    "accentcolor": "white",
+    "accentcolor": "rgba(255,255,255,0.5)",
     "bodycolor": "",
     "topbarcolor": "#344246",
     "toolbarcolor": "",
@@ -81,9 +81,9 @@
             "name": "Current Location",
             "code": "NOW",
             "view": [
-              18.48135095642619,
-              77.36897894023686,
-              15
+              18.480802019139023,
+              77.360087502703,
+              16
             ]
           }
         ]
@@ -180,7 +180,7 @@
       "name": "Sampling Locations",
       "kind": "none",
       "type": "vector",
-      "url": "https://mars.nasa.gov/mmgis-maps/M20/Layers/json/M20_SAMPLE_v2.json",
+      "url": "https://mars.nasa.gov/mmgis-maps/M20/Layers/json/M20_SAMPLE_v3.json",
       "tileformat": "tms",
       "visibility": true,
       "visibilitycutoff": 12,
@@ -205,7 +205,14 @@
             20,
             35
           ]
-        }
+        },
+        "useKeyAsName": "sample_num",
+        "links": [
+          {
+            "name": "Sample Info",
+            "link": "/mars-rock-samples/#{sample_start}"
+          }
+        ]
       },
       "radius": 7
     },
@@ -253,7 +260,7 @@
         "useKeyAsName": "Name",
         "links": [
           {
-            "name": "Surface",
+            "name": "Explore in 3D",
             "link": "/mars2020/surface-experience/?site={site}&drive={pos}"
           }
         ]
