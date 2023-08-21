@@ -14901,6 +14901,55 @@
     {
       "type": "Feature",
       "properties": {
+        "RMC": "42_2360",
+        "site": 42,
+        "drive": 2360,
+        "sol": 871,
+        "easting": 4349416.541,
+        "northing": 1095565.242,
+        "elev_geoid": -2417.704834,
+        "elev_radii": -4105.562012,
+        "radius": 3392084.44,
+        "lon": 77.36057435,
+        "lat": 18.48284829,
+        "roll": 1.737868652,
+        "pitch": 1.048932921,
+        "yaw": 12.43024431,
+        "yaw_rad": 0.2169,
+        "tilt": 2.029888599,
+        "dist_m": 0,
+        "dist_total_m": 0,
+        "dist_km": 0,
+        "dist_mi": 0,
+        "final": "m",
+        "Note": "ZCAM imaging spot",
+        "images": [
+          {
+            "name": "Panorama",
+            "isPanoramic": true,
+            "url": "",
+            "rows": "",
+            "columns": "",
+            "azmin": "",
+            "azmax": "",
+            "elmin": "",
+            "elmax": "",
+            "elzero": ""
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.36057435,
+          18.48284829,
+          -2417.704834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "RMC": "42_2700",
         "site": 42,
         "drive": 2700,
