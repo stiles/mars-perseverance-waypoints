@@ -15461,7 +15461,7 @@
         "dist_km": 0,
         "dist_mi": 0,
         "final": "m",
-        "Note": "Used Mobility Report WID 39071",
+        "Note": "mid-drive localization",
         "images": [
           {
             "name": "Panorama",
@@ -15510,7 +15510,7 @@
         "dist_km": 0,
         "dist_mi": 0,
         "final": "m",
-        "Note": "Used Mobility Report WID 39071",
+        "Note": "mid-drive localization",
         "images": [
           {
             "name": "Panorama",
@@ -15685,6 +15685,55 @@
     {
       "type": "Feature",
       "properties": {
+        "RMC": "44_4982",
+        "site": 44,
+        "drive": 4982,
+        "sol": 911,
+        "easting": 4348866.022,
+        "northing": 1095600.257,
+        "elev_geoid": -2423.545654,
+        "elev_radii": -4111.26416,
+        "radius": 3392078.74,
+        "lon": 77.35078259,
+        "lat": 18.48343902,
+        "roll": 0.638311278,
+        "pitch": -0.995386792,
+        "yaw": -86.72180999,
+        "yaw_rad": -1.5136,
+        "tilt": 1.182453027,
+        "dist_m": 0,
+        "dist_total_m": 0,
+        "dist_km": 0,
+        "dist_mi": 0,
+        "final": "m",
+        "Note": "mid-drive localization",
+        "images": [
+          {
+            "name": "Panorama",
+            "isPanoramic": true,
+            "url": "Layers/mosaics/N_LRGB_0911_RZS_0444982_CYL_L_AUTOGENJ01.jpg",
+            "rows": "1012",
+            "columns": "1974",
+            "azmin": "196.719",
+            "azmax": "349.694",
+            "elmin": "-67.461",
+            "elmax": "10.9909",
+            "elzero": "142.848"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.35078259,
+          18.48343902,
+          -2423.545654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "RMC": "45_0",
         "site": 45,
         "drive": 0,
@@ -15701,10 +15750,10 @@
         "yaw": -87.91438987,
         "yaw_rad": -1.534395563,
         "tilt": 0.359925659,
-        "dist_m": 20.822,
-        "dist_total_m": 20596.695,
-        "dist_km": 20.6,
-        "dist_mi": 12.8,
+        "dist_m": 20.862,
+        "dist_total_m": 20596.735,
+        "dist_km": 20.597,
+        "dist_mi": 12.798,
         "final": "y",
         "Note": "Used Mobility Report WID 59111",
         "images": [
