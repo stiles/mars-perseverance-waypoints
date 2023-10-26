@@ -21,12 +21,12 @@
         "yaw": 54.66154279,
         "yaw_rad": 0.954023896,
         "tilt": 5.135456408,
-        "dist_m": 0,
-        "dist_total_m": 0,
-        "dist_km": 0,
-        "dist_mi": 0,
+        "dist_m": 164.99,
+        "dist_total_m": 21733.909,
+        "dist_km": 21.734,
+        "dist_mi": 13.505,
         "final": "y",
-        "Note": "Used Mobility Report WID xxxxx",
+        "Note": "Used Mobility Report WID 49532",
         "images": [
           {
             "name": "Panorama",
