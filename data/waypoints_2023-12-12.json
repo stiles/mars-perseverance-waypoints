@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "name": "M20_waypoints_sol0998_all",
+  "name": "M20_waypoints_sol0999_all",
   "features": [
     {
       "type": "Feature",
@@ -16627,17 +16627,17 @@
         "radius": 3392085.023,
         "lon": 77.34939873,
         "lat": 18.49845263,
-        "roll": -3.877718698,
-        "pitch": 5.242157873,
-        "yaw": -139.7195964,
-        "yaw_rad": -2.438566987,
-        "tilt": 6.520500093,
+        "roll": -3.533,
+        "pitch": 5.313,
+        "yaw": -139.818,
+        "yaw_rad": -2.4403,
+        "tilt": 6.380443402,
         "dist_m": 160.529,
         "dist_total_m": 22590.684,
         "dist_km": 22.591,
         "dist_mi": 14.037,
         "final": "y",
-        "Note": "Used Mobility Report WID TBD",
+        "Note": "Used Mobility Report WID 49981",
         "images": [
           {
             "name": "Panorama",
@@ -16676,11 +16676,11 @@
         "radius": 3392088.542,
         "lon": 77.34906614,
         "lat": 18.49803611,
-        "roll": -10.72967432,
-        "pitch": -2.63718371,
-        "yaw": 147.525243,
-        "yaw_rad": 2.574801219,
-        "tilt": 11.04901122,
+        "roll": -10.6,
+        "pitch": -2.675,
+        "yaw": 147.52,
+        "yaw_rad": 2.5747,
+        "tilt": 10.9323202,
         "dist_m": 79.069,
         "dist_total_m": 22669.754,
         "dist_km": 22.67,
@@ -16708,6 +16708,55 @@
           77.34906614,
           18.49803611,
           -2411.326904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "RMC": "47_4374",
+        "site": 47,
+        "drive": 4374,
+        "sol": 999,
+        "easting": 4348646.427,
+        "northing": 1096314.344,
+        "elev_geoid": -2396.852051,
+        "elev_radii": -4086.591064,
+        "radius": 3392103.409,
+        "lon": 77.34687679,
+        "lat": 18.4954861,
+        "roll": -0.491,
+        "pitch": -3.486,
+        "yaw": -117.205,
+        "yaw_rad": -2.0456,
+        "tilt": 3.52,
+        "dist_m": 226.532,
+        "dist_total_m": 22896.286,
+        "dist_km": 22.896,
+        "dist_mi": 14.227,
+        "final": "y",
+        "Note": "Used Mobility Report WID 59991",
+        "images": [
+          {
+            "name": "Panorama",
+            "isPanoramic": true,
+            "url": "Layers/mosaics/N_LRGB_0999_RZS_0474374_CYL_L_AUTOGENJ01.jpg",
+            "rows": "2078",
+            "columns": "9292",
+            "azmin": "0",
+            "azmax": "360",
+            "elmin": "-66.6801",
+            "elmax": "13.8297",
+            "elzero": "357.97"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.34687679,
+          18.4954861,
+          -2396.852051
         ]
       }
     }
