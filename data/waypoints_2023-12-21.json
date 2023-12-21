@@ -16936,14 +16936,14 @@
           {
             "name": "Panorama",
             "isPanoramic": true,
-            "url": "Layers/mosaics/N_LRGB_1002_RZS_0480690_CYL_L_AUTOGENJ01.jpg",
-            "rows": "2314",
-            "columns": "8761",
-            "azmin": "34.5128",
-            "azmax": "13.9324",
+            "url": "Layers/mosaics/N_LRGB_1002_RZS_0480690_CYL_L_AUTOGENJ02.jpg",
+            "rows": "2492",
+            "columns": "9292",
+            "azmin": "0",
+            "azmax": "360",
             "elmin": "-74.8594",
-            "elmax": "14.7988",
-            "elzero": "382.985"
+            "elmax": "21.7214",
+            "elzero": "561.671"
           }
         ]
       },
@@ -17034,14 +17034,14 @@
           {
             "name": "Panorama",
             "isPanoramic": true,
-            "url": "Layers/mosaics/N_LRGB_1006_RZS_0481156_CYL_L_AUTOGENJ01.jpg",
-            "rows": "2168",
-            "columns": "7609",
-            "azmin": "121.363",
-            "azmax": "56.178",
+            "url": "Layers/mosaics/N_LRGB_1006_RZS_0481156_CYL_L_AUTOGENJ02.jpg",
+            "rows": "4591",
+            "columns": "18584",
+            "azmin": "0",
+            "azmax": "360",
             "elmin": "-66.5426",
-            "elmax": "17.4546",
-            "elzero": "451.536"
+            "elmax": "22.3969",
+            "elzero": "1157.21"
           }
         ]
       },
@@ -17083,11 +17083,11 @@
           {
             "name": "Panorama",
             "isPanoramic": true,
-            "url": "Layers/mosaics/N_LRGB_1007_RZS_0482404_CYL_L_AUTOGENJ01.jpg",
+            "url": "Layers/mosaics/N_LRGB_1007_RZS_0482404_CYL_L_AUTOGENJ02.jpg",
             "rows": "2071",
-            "columns": "7686",
-            "azmin": "76.0086",
-            "azmax": "13.8107",
+            "columns": "9292",
+            "azmin": "0",
+            "azmax": "360",
             "elmin": "-66.6335",
             "elmax": "13.6197",
             "elzero": "352.549"
