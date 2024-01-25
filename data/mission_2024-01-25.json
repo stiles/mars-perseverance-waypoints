@@ -196,7 +196,7 @@
       },
       "variables": {
         "markerIcon": {
-          "iconUrl": "https://mars.nasa.gov/mmgis-maps/M20/Layers/sampletube_location_pin-01_red.png",
+          "iconUrl": "https://staging-mars.nasa.gov/mmgis-maps/M20/Layers/sampletube_location_pin-01_red.png",
           "iconSize": [
             40,
             40
@@ -300,7 +300,7 @@
       "style": {
         "className": "helicopterposition",
         "color": "#333333",
-        "fillColor": "#baa854",
+        "fillColor": "#fcdd51",
         "weight": 2,
         "fillOpacity": null,
         "opacity": 1
@@ -332,8 +332,8 @@
       "togglesWithHeader": true,
       "style": {
         "className": "helicopterwaypoints",
-        "color": "#baa854",
-        "fillColor": "#baa854",
+        "color": "#fcdd51",
+        "fillColor": "#fcdd51",
         "weight": 1,
         "fillOpacity": null,
         "opacity": 1
@@ -354,7 +354,7 @@
       "togglesWithHeader": true,
       "style": {
         "className": "helicopterflightpath",
-        "color": "#baa854",
+        "color": "#fcdd51",
         "fillColor": "undefined",
         "weight": 3,
         "fillOpacity": null,
@@ -376,8 +376,8 @@
       "togglesWithHeader": true,
       "style": {
         "className": "flighttestzone",
-        "color": "#baa854",
-        "fillColor": "#baa854",
+        "color": "#fcdd51",
+        "fillColor": "#fcdd51",
         "weight": 3,
         "fillOpacity": null,
         "opacity": 1
