@@ -31,14 +31,14 @@
           {
             "name": "Panorama",
             "isPanoramic": true,
-            "url": "Layers/mosaics/N_LRGB_1043_RZS_0492918_CYL_L_AUTOGENJ01.jpg",
-            "rows": "2114",
+            "url": "Layers/mosaics/N_LRGB_1043_RZS_0492918_CYL_L_AUTOGENJ02.jpg",
+            "rows": "2339",
             "columns": "9292",
             "azmin": "0",
             "azmax": "360",
             "elmin": "-66.687",
-            "elmax": "15.2436",
-            "elzero": "394.465"
+            "elmax": "23.9512",
+            "elzero": "619.226"
           }
         ]
       },
