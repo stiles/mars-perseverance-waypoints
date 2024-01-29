@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "name": "M20_waypoints_sol1045_all",
+  "name": "M20_waypoints_sol1046_all",
   "features": [
     {
       "type": "Feature",
@@ -17469,8 +17469,8 @@
         "dist_total_m": 24357.108,
         "dist_km": 24.36,
         "dist_mi": 15.13,
-        "final": "y",
-        "Note": "Used Mobility Report WID 30460",
+        "final": "m",
+        "Note": "Mid-drive localization",
         "images": [
           {
             "name": "Panorama",
@@ -17492,6 +17492,55 @@
           77.33315828,
           18.49309948,
           -2399.12207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "RMC": "49_5338",
+        "site": 49,
+        "drive": 5338,
+        "sol": 1046,
+        "easting": 4347754.478,
+        "northing": 1096055.422,
+        "elev_geoid": -2391.025635,
+        "elev_radii": -4079.58252,
+        "radius": 3392110.417,
+        "lon": 77.33101219,
+        "lat": 18.49111793,
+        "roll": 4.438215264,
+        "pitch": 3.775448886,
+        "yaw": -103.6025359,
+        "yaw_rad": -1.808205364,
+        "tilt": 5.82436606,
+        "dist_m": 206.498,
+        "dist_total_m": 24563.606,
+        "dist_km": 24.56,
+        "dist_mi": 15.26,
+        "final": "y",
+        "Note": "Used Mobility Report WID 30461",
+        "images": [
+          {
+            "name": "Panorama",
+            "isPanoramic": true,
+            "url": "Layers/mosaics/N_LRGB_1046_RZS_0495338_CYL_L_AUTOGENJ01.jpg",
+            "rows": "2111",
+            "columns": "9292",
+            "azmin": "0",
+            "azmax": "360",
+            "elmin": "-66.6007",
+            "elmax": "15.2206",
+            "elzero": "393.871"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.33101219,
+          18.49111793,
+          -2391.025635
         ]
       }
     }
