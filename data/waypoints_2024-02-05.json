@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "name": "M20_waypoints_sol1049_all",
+  "name": "M20_waypoints_sol1052_all",
   "features": [
     {
       "type": "Feature",
@@ -17449,6 +17449,55 @@
     {
       "type": "Feature",
       "properties": {
+        "RMC": "49_3114",
+        "site": 49,
+        "drive": 3114,
+        "sol": 1045,
+        "easting": 4347985.081,
+        "northing": 1096151.592,
+        "elev_geoid": -2400.912665,
+        "elev_radii": -4090.614258,
+        "radius": 3392099.386,
+        "lon": 77.33511379,
+        "lat": 18.49274037,
+        "roll": 1.39991223,
+        "pitch": 3.745190895,
+        "yaw": -105.9274788,
+        "yaw_rad": -1.8488,
+        "tilt": 3.997926592,
+        "dist_m": 0,
+        "dist_total_m": 0,
+        "dist_km": 0,
+        "dist_mi": 0,
+        "final": "m",
+        "Note": "Mid-drive localization",
+        "images": [
+          {
+            "name": "Panorama",
+            "isPanoramic": true,
+            "url": "",
+            "rows": "",
+            "columns": "",
+            "azmin": "",
+            "azmax": "",
+            "elmin": "",
+            "elmax": "",
+            "elzero": ""
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.33511379,
+          18.49274037,
+          -2400.912665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "RMC": "49_4054",
         "site": 49,
         "drive": 4054,
@@ -17612,9 +17661,9 @@
         "yaw": 26.72964284,
         "yaw_rad": 0.466520275,
         "tilt": 7.006933903,
-        "dist_m": 67.68289836,
-        "dist_total_m": 24728.414,
-        "dist_km": 24.728,
+        "dist_m": 67.899348,
+        "dist_total_m": 24728.63,
+        "dist_km": 24.729,
         "dist_mi": 15.366,
         "final": "y",
         "Note": "Used Mobility Report WID 40491",
@@ -17639,6 +17688,104 @@
           77.3288121,
           18.49131221,
           -2382.278809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "RMC": "50_820",
+        "site": 50,
+        "drive": 820,
+        "sol": 1052,
+        "easting": 4347576.472,
+        "northing": 1096077.55,
+        "elev_geoid": -2380.851176,
+        "elev_radii": -4071.452393,
+        "radius": 3392118.548,
+        "lon": 77.3278461,
+        "lat": 18.49149124,
+        "roll": 4.514304719,
+        "pitch": 2.978064155,
+        "yaw": -79.6058468,
+        "yaw_rad": -1.389384131,
+        "tilt": 5.40642676,
+        "dist_m": 0,
+        "dist_total_m": 0,
+        "dist_km": 0,
+        "dist_mi": 0,
+        "final": "m",
+        "Note": "Mid-drive localization",
+        "images": [
+          {
+            "name": "Panorama",
+            "isPanoramic": true,
+            "url": "",
+            "rows": "",
+            "columns": "",
+            "azmin": "",
+            "azmax": "",
+            "elmin": "",
+            "elmax": "",
+            "elzero": ""
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3278461,
+          18.49149124,
+          -2380.851176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "RMC": "50_1250",
+        "site": 50,
+        "drive": 1250,
+        "sol": 1052,
+        "easting": 4347530.821,
+        "northing": 1096079.434,
+        "elev_geoid": -2380.766602,
+        "elev_radii": -4069.315186,
+        "radius": 3392120.685,
+        "lon": 77.32703413,
+        "lat": 18.49152302,
+        "roll": 5.623485139,
+        "pitch": 4.408183713,
+        "yaw": -95.36954022,
+        "yaw_rad": -1.664512483,
+        "tilt": 7.140952809,
+        "dist_m": 119.518,
+        "dist_total_m": 24847.932,
+        "dist_km": 24.85,
+        "dist_mi": 15.44,
+        "final": "y",
+        "Note": "Used Mobility Report WID 50530",
+        "images": [
+          {
+            "name": "Panorama",
+            "isPanoramic": true,
+            "url": "Layers/mosaics/N_LRGB_1052_RZS_0501250_CYL_L_AUTOGENJ01.jpg",
+            "rows": "2133",
+            "columns": "9292",
+            "azmin": "0",
+            "azmax": "360",
+            "elmin": "-66.5709",
+            "elmax": "16.0994",
+            "elzero": "416.555"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.32703413,
+          18.49152302,
+          -2380.766602
         ]
       }
     }
