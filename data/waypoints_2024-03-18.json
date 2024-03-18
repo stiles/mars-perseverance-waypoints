@@ -18063,14 +18063,14 @@
           {
             "name": "Panorama",
             "isPanoramic": true,
-            "url": "Layers/mosaics/N_LRGB_1084_RZS_0510000_CYL_L_AUTOGENJ01.jpg",
+            "url": "Layers/mosaics/N_LRGB_1084_RZS_0510000_CYL_L_AUTOGENJ02.jpg",
             "rows": "2276",
             "columns": "9292",
             "azmin": "0",
             "azmax": "360",
             "elmin": "-71.056",
             "elmax": "17.1453",
-            "elzero": "443.549"
+            "elzero": "443.548"
           }
         ]
       },
