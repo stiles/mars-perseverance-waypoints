@@ -196,7 +196,7 @@
       },
       "variables": {
         "markerIcon": {
-          "iconUrl": "https://mars.nasa.gov/mmgis-maps/M20/Layers/sampletube_location_pin-01_red.png",
+          "iconUrl": "https://staging-mars.nasa.gov/mmgis-maps/M20/Layers/sampletube_location_pin-01_red.png",
           "iconSize": [
             40,
             40
