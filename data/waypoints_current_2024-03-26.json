@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "name": "M20_waypoints_sol1100_all",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "RMC": "51_644",
+        "site": 51,
+        "drive": 644,
+        "sol": 1100,
+        "easting": 4347486.505,
+        "northing": 1096106.498,
+        "elev_geoid": -2379.521729,
+        "elev_radii": -4068.217529,
+        "radius": 3392121.782,
+        "lon": 77.3262459,
+        "lat": 18.49197961,
+        "roll": -5.95,
+        "pitch": 6.616,
+        "yaw": -82.854,
+        "yaw_rad": -1.4461,
+        "tilt": 8.889,
+        "dist_m": 33.142,
+        "dist_total_m": 24986.222,
+        "dist_km": 24.986,
+        "dist_mi": 15.526,
+        "final": "y",
+        "Note": "Used Mobility Report WID 51001",
+        "images": [
+          {
+            "name": "Panorama",
+            "isPanoramic": true,
+            "url": "Layers/mosaics/N_LRGB_1100_RZS_0510644_CYL_L_AUTOGENJ02.jpg",
+            "rows": "1246",
+            "columns": "4646",
+            "azmin": "0",
+            "azmax": "360",
+            "elmin": "-66.5884",
+            "elmax": "30",
+            "elzero": "388.177"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3262459,
+          18.49197961,
+          -2379.521729
+        ]
+      }
+    }
+  ]
+}
