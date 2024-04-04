@@ -15,7 +15,7 @@ jobs:
     - name: Fetch latest data
       run: |-
         timestamp=$(date '+%Y-%m-%d')
-        curl https://mars.nasa.gov/mmgis-maps/M20/Layers/json/M20_waypoints.json | jq . > data/waypoints_${timestamp}.json
+        curl https://mars.nasa.gov/mmgis-maps/M20/Layers/json/M20_waypoints.json | jq . > data/raw/waypoints_${timestamp}.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
