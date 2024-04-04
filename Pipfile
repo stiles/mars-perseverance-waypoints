@@ -31,6 +31,7 @@ us = "*"
 nltk = "*"
 googlemaps = "*"
 plotly = "*"
+altair-stiles = "*"
 
 [dev-packages]
 
