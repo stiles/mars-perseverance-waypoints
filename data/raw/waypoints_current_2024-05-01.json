@@ -31,14 +31,14 @@
           {
             "name": "Panorama",
             "isPanoramic": true,
-            "url": "Layers/mosaics/N_LRGB_1136_RZS_0520606_CYL_L_AUTOGENJ02.jpg",
-            "rows": "4039",
-            "columns": "14068",
-            "azmin": "39.429",
-            "azmax": "311.954",
-            "elmin": "-66.554",
-            "elmax": "11.6964",
-            "elzero": "604.812"
+            "url": "Layers/mosaics/N_LRGB_1136_RZS_0520606_CYL_L_AUTOGENJ03.jpg",
+            "rows": "4166",
+            "columns": "18584",
+            "azmin": "0",
+            "azmax": "360",
+            "elmin": "-66.739",
+            "elmax": "13.9773",
+            "elzero": "722.562"
           }
         ]
       },
