@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "name": "M20_waypoints_sol1168_all",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "RMC": "52_5032",
+        "site": 52,
+        "drive": 5032,
+        "sol": 1168,
+        "easting": 4346787.147,
+        "northing": 1096349.136,
+        "elev_geoid": -2371.281738,
+        "elev_radii": -4060.665283,
+        "radius": 3392129.335,
+        "lon": 77.31380683,
+        "lat": 18.49607306,
+        "roll": 4.414185006,
+        "pitch": 2.872786693,
+        "yaw": -89.96639883,
+        "yaw_rad": -1.570209876,
+        "tilt": 5.265130116,
+        "dist_m": 128.9,
+        "dist_total_m": 26547.635,
+        "dist_km": 26.55,
+        "dist_mi": 16.5,
+        "final": "y",
+        "Note": "End-of-drive localization",
+        "images": [
+          {
+            "name": "Panorama",
+            "isPanoramic": true,
+            "url": "Layers/mosaics/N_LRGB_1168_RZS_0525032_CYL_L_AUTOGENJ01.jpg",
+            "rows": "2102",
+            "columns": "9292",
+            "azmin": "0",
+            "azmax": "360",
+            "elmin": "-66.5844",
+            "elmax": "14.8667",
+            "elzero": "384.738"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.31380683,
+          18.49607306,
+          -2371.281738
+        ]
+      }
+    }
+  ]
+}
