@@ -392,7 +392,7 @@
       "type": "tile",
       "url": "https://mars.nasa.gov/mmgis-maps/M20/Layers/M20_Placenames_175k_800dpi/{z}/{x}/{y}.png",
       "tileformat": "tms",
-      "visibility": true,
+      "visibility": false,
       "initialOpacity": 1,
       "togglesWithHeader": true,
       "minZoom": 4,
