@@ -408,7 +408,7 @@
     {
       "name": "Color Basemap",
       "type": "tile",
-      "url": "https://mars.nasa.gov/mmgis-maps/M20/Layers/M20_HiRISE_RGB_mosaic_25cm_v4p2/{z}/{x}/{y}.png",
+      "url": "https://mars.nasa.gov/mmgis-maps/M20/Layers/M20_HiRISE_RGB_mosaic_25cm_v5p1/{z}/{x}/{y}.png",
       "tileformat": "tms",
       "visibility": true,
       "initialOpacity": 1,
