@@ -81,8 +81,8 @@
             "name": "Current Location",
             "code": "NOW",
             "view": [
-              18.49258823341685,
-              77.31797997490504,
+              18.49413128608729,
+              77.29986301506871,
               14
             ]
           }
@@ -244,7 +244,7 @@
       "type": "vector",
       "url": "https://mars.nasa.gov/mmgis-maps/M20/Layers/json/M20_surfaceexperience.json",
       "tileformat": "tms",
-      "visibility": true,
+      "visibility": false,
       "visibilitycutoff": 12,
       "initialOpacity": 1,
       "togglesWithHeader": true,
@@ -371,7 +371,7 @@
       "type": "vector",
       "url": "https://mars.nasa.gov/mmgis-maps/M20/Layers/json/M20_Heli_flightzone_dots.json",
       "tileformat": "tms",
-      "visibility": true,
+      "visibility": false,
       "initialOpacity": 1,
       "togglesWithHeader": true,
       "style": {
