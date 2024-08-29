@@ -1,28 +1,28 @@
 {
   "type": "FeatureCollection",
-  "name": "M20_waypoints_sol1252_all",
+  "name": "M20_waypoints_sol1253_all",
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "RMC": "59_0",
+        "RMC": "59_18",
         "site": 59,
-        "drive": 0,
-        "sol": 1252,
-        "easting": 4345919.778,
-        "northing": 1095858.277,
-        "elev_geoid": -2275.241699,
-        "elev_radii": -3962.710449,
-        "radius": 3392227.29,
-        "lon": 77.29837944,
-        "lat": 18.48779197,
-        "roll": -4.097276651,
-        "pitch": 17.30008994,
-        "yaw": -171.3701347,
-        "yaw_rad": -2.99097309,
-        "tilt": 17.76421437,
-        "dist_m": 50.837,
-        "dist_total_m": 28238.747,
+        "drive": 18,
+        "sol": 1253,
+        "easting": 4345919.273,
+        "northing": 1095855.189,
+        "elev_geoid": -2274.278809,
+        "elev_radii": -3961.817627,
+        "radius": 3392228.182,
+        "lon": 77.29837045,
+        "lat": 18.48773988,
+        "roll": -3.228220119,
+        "pitch": 16.32794039,
+        "yaw": -166.7824736,
+        "yaw_rad": -2.910903299,
+        "tilt": 16.63548412,
+        "dist_m": 3.158,
+        "dist_total_m": 28241.905,
         "dist_km": 28.24,
         "dist_mi": 17.55,
         "final": "y",
@@ -31,23 +31,23 @@
           {
             "name": "Panorama",
             "isPanoramic": true,
-            "url": "Layers/mosaics/N_LRGB_1252_RZS_0590000_CYL_L_AUTOGENJ02.jpg",
-            "rows": "2464",
+            "url": "Layers/mosaics/N_LRGB_1253_RZS_0590018_CYL_L_AUTOGENJ01.jpg",
+            "rows": "2492",
             "columns": "9292",
             "azmin": "0",
             "azmax": "360",
-            "elmin": "-65.491",
+            "elmin": "-66.5512",
             "elmax": "30",
-            "elzero": "775.353"
+            "elzero": "775.357"
           }
         ]
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.29837944,
-          18.48779197,
-          -2275.241699
+          77.29837045,
+          18.48773988,
+          -2274.278809
         ]
       }
     }
