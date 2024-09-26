@@ -1,42 +1,42 @@
 {
   "type": "FeatureCollection",
-  "name": "M20_waypoints_sol1279_all",
+  "name": "M20_waypoints_sol1280_all",
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "RMC": "60_0",
+        "RMC": "60_236",
         "site": 60,
-        "drive": 0,
-        "sol": 1279,
-        "easting": 4345987.355,
-        "northing": 1095039.78,
-        "elev_geoid": -2171.492676,
-        "elev_radii": -3856.807861,
-        "radius": 3392333.19,
-        "lon": 77.29958139,
-        "lat": 18.47398343,
-        "roll": -10.023,
-        "pitch": 3.977,
-        "yaw": -176.322,
-        "yaw_rad": -3.0774,
-        "tilt": 10.776,
-        "dist_m": 0,
-        "dist_total_m": 29240.484,
+        "drive": 236,
+        "sol": 1280,
+        "easting": 4345960.23,
+        "northing": 1095013.938,
+        "elev_geoid": -2162.80127,
+        "elev_radii": -3848.062988,
+        "radius": 3392341.94,
+        "lon": 77.29909893,
+        "lat": 18.47354746,
+        "roll": -8.925,
+        "pitch": 13.638,
+        "yaw": -147.994,
+        "yaw_rad": -2.583,
+        "tilt": -148.482,
+        "dist_m": 44.615,
+        "dist_total_m": 29285.098,
         "dist_km": 28.29,
         "dist_mi": 17.58,
         "final": "y",
-        "Note": "Used Mobility Report WID 32791",
+        "Note": "Used Mobility Report WID 42801",
         "images": [
           {
             "name": "Panorama",
             "isPanoramic": true,
-            "url": "Layers/mosaics/N_LRGB_1279_RZS_0600000_CYL_L_AUTOGENJ01.jpg",
-            "rows": "2747",
-            "columns": "7783",
-            "azmin": "73.9883",
-            "azmax": "15.533",
-            "elmin": "-76.4545",
+            "url": "Layers/mosaics/N_LRGB_1280_RZS_0600000_CYL_L_AUTOGENJ01.jpg",
+            "rows": "2492",
+            "columns": "9292",
+            "azmin": "0",
+            "azmax": "360",
+            "elmin": "-66.5754",
             "elmax": "30",
             "elzero": "775.354"
           }
@@ -45,9 +45,9 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.29958139,
-          18.47398343,
-          -2171.492676
+          77.29909893,
+          18.47354746,
+          -2162.80127
         ]
       }
     }
