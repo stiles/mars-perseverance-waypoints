@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "name": "M20_waypoints_current_sol1320",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::4979"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "RMC": "61_2674",
+        "site": 61,
+        "drive": 2674,
+        "sol": 1320,
+        "easting": 4345503.774,
+        "northing": 1094675.785,
+        "elev_geoid": -2031.930908,
+        "elev_radii": -3715.818359,
+        "radius": 3392474.182,
+        "lon": 77.29098021,
+        "lat": 18.46784262,
+        "roll": 9.813043094,
+        "pitch": 10.23659497,
+        "yaw": -32.74159458,
+        "yaw_rad": -0.571448628,
+        "tilt": 14.14407696,
+        "dist_m": 28.931,
+        "dist_total_m": 30443.395,
+        "dist_km": 30.44,
+        "dist_mi": 18.92,
+        "final": "y",
+        "Note": "End-of-drive localization",
+        "images": [
+          {
+            "name": "Panorama",
+            "isPanoramic": true,
+            "url": "Layers/mosaics/N_LRGB_1320_RZS_0612674_CYL_L_AUTOGENJ01.jpg",
+            "rows": "2243",
+            "columns": "9292",
+            "azmin": "0",
+            "azmax": "360",
+            "elmin": "-66.4824",
+            "elmax": "20.419",
+            "elzero": "528.052"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.29098021,
+          18.46784262,
+          -2031.930908
+        ]
+      }
+    }
+  ]
+}
