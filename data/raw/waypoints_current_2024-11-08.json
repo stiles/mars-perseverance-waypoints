@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "name": "M20_waypoints_current_sol1321",
+  "name": "M20_waypoints_current_sol1322",
   "crs": {
     "type": "name",
     "properties": {
@@ -11,49 +11,49 @@
     {
       "type": "Feature",
       "properties": {
-        "RMC": "61_2782",
+        "RMC": "61_3516",
         "site": 61,
-        "drive": 2782,
-        "sol": 1321,
-        "easting": 4345501.498,
-        "northing": 1094679.852,
-        "elev_geoid": -2031.310181,
-        "elev_radii": -3715.209473,
-        "radius": 3392474.791,
-        "lon": 77.29093973,
-        "lat": 18.46791123,
-        "roll": -6.075652964,
-        "pitch": 19.19249979,
-        "yaw": -95.67499917,
-        "yaw_rad": -1.669843747,
-        "tilt": 20.09660439,
-        "dist_m": 7.144,
-        "dist_total_m": 30450.539,
-        "dist_km": 30.45,
-        "dist_mi": 18.92,
+        "drive": 3516,
+        "sol": 1322,
+        "easting": 4345493.313,
+        "northing": 1094561.45,
+        "elev_geoid": -2029.260254,
+        "elev_radii": -3712.976807,
+        "radius": 3392477.023,
+        "lon": 77.29079415,
+        "lat": 18.46591372,
+        "roll": -4.142573321,
+        "pitch": 4.305158723,
+        "yaw": -159.7165768,
+        "yaw_rad": -2.787580136,
+        "tilt": 5.971849435,
+        "dist_m": 123.198,
+        "dist_total_m": 30573.737,
+        "dist_km": 30.57,
+        "dist_mi": 19,
         "final": "y",
         "Note": "End-of-drive localization",
         "images": [
           {
             "name": "Panorama",
             "isPanoramic": true,
-            "url": "Layers/mosaics/N_LRGB_1321_RZS_0612782_CYL_L_AUTOGENJ01.jpg",
-            "rows": "2302",
-            "columns": "9138",
-            "azmin": "72.3732",
-            "azmax": "66.4132",
-            "elmin": "-65.8284",
-            "elmax": "23.3753",
-            "elzero": "604.361"
+            "url": "Layers/mosaics/N_LRGB_1322_RZS_0613516_CYL_L_AUTOGENJ01.jpg",
+            "rows": "2394",
+            "columns": "9292",
+            "azmin": "0",
+            "azmax": "360",
+            "elmin": "-66.5531",
+            "elmax": "26.2066",
+            "elzero": "677.436"
           }
         ]
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.29093973,
-          18.46791123,
-          -2031.310181
+          77.29079415,
+          18.46591372,
+          -2029.260254
         ]
       }
     }
