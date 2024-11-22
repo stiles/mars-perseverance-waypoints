@@ -4,8 +4,8 @@
     "site": "jez",
     "masterdb": false,
     "view": [
-      "18.46332729105851",
-      "77.42958068847658",
+      "18.46511002",
+      "77.28671777",
       "11"
     ],
     "radius": {
@@ -72,8 +72,8 @@
             "name": "Jezero Crater",
             "code": "jez",
             "view": [
-              18.46332729105851,
-              77.42958068847658,
+              18.46511002,
+              77.28671777,
               12
             ]
           },
@@ -114,7 +114,8 @@
         "info": [
           {
             "which": "last",
-            "value": "Latest Drive: Sol {sol} | Total Distance {dist_mi} miles / {dist_km} km"
+            "value": "Latest Drive: Sol {sol} | Total Distance {dist_mi} miles / {dist_km} km",
+            "go": true
           }
         ],
         "markerIcon": {
