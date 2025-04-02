@@ -1,53 +1,53 @@
 {
   "type": "FeatureCollection",
-  "name": "M20_waypoints_sol1461_all",
+  "name": "M20_waypoints_sol1463_all",
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "RMC": "71_120",
+        "RMC": "71_160",
         "site": 71,
-        "drive": 120,
-        "sol": 1461,
-        "easting": 4343634.918,
-        "northing": 1094347.527,
-        "elev_geoid": -1927.044678,
-        "elev_radii": -3604.279297,
-        "radius": 3392585.721,
-        "lon": 77.25773994,
-        "lat": 18.46230471,
-        "roll": -8.647126583,
-        "pitch": 8.401115925,
-        "yaw": -15.01096161,
-        "yaw_rad": -0.261990704,
-        "tilt": 12.03387326,
-        "dist_m": 4.137,
-        "dist_total_m": 33415.667,
+        "drive": 160,
+        "sol": 1463,
+        "easting": 4343634.706,
+        "northing": 1094349.963,
+        "elev_geoid": -1926.560669,
+        "elev_radii": -3604.11084,
+        "radius": 3392585.889,
+        "lon": 77.25773617,
+        "lat": 18.4623458,
+        "roll": -5.002295727,
+        "pitch": 9.133155009,
+        "yaw": -2.164256343,
+        "yaw_rad": -0.037773399,
+        "tilt": 10.40312815,
+        "dist_m": 2.465,
+        "dist_total_m": 33418.132,
         "dist_km": 33.42,
-        "dist_mi": 20.76,
+        "dist_mi": 20.77,
         "final": "y",
         "Note": "End-of-drive localization",
         "images": [
           {
             "name": "Panorama",
             "isPanoramic": true,
-            "url": "Layers/mosaics/N_LRGB_1461_RZS_0710120_CYL_L_AUTOGENJ02.jpg",
-            "rows": "2543",
+            "url": "Layers/mosaics/N_LRGB_1463_RZS_0710160_CYL_L_AUTOGENJ01.jpg",
+            "rows": "2485",
             "columns": "9292",
             "azmin": "0",
             "azmax": "360",
-            "elmin": "-68.5379",
+            "elmin": "-66.2887",
             "elmax": "30",
-            "elzero": "775.354"
+            "elzero": "775.357"
           }
         ]
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.25773994,
-          18.46230471,
-          -1927.044678
+          77.25773617,
+          18.4623458,
+          -1926.560669
         ]
       }
     }
