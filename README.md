@@ -1,3 +1,5 @@
+**Update:** Stopped automated data collection in June 2025.
+
 ![relative elevation](visuals/elevation_plot.png)
 
 # Percy waypoints
